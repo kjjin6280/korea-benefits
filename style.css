@@ -1,1 +1,395 @@
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   전국민 혜택존 - 다크/라이트 모드 테마
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+/* ── CSS 변수: 라이트 모드 (기본) ── */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f5f5;
+  --bg-card: #ffffff;
+  --text-primary: #1a1a1a;
+  --text-secondary: #555555;
+  --text-muted: #888888;
+  --border-color: #e0e0e0;
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-card-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
+  --accent-color: #2563eb;
+  --tab-active-bg: #2563eb;
+  --tab-active-text: #ffffff;
+  --tab-inactive-bg: #e8e8e8;
+  --tab-inactive-text: #555555;
+  --toggle-bg: #d1d5db;
+  --toast-bg: #333333;
+  --toast-text: #ffffff;
+}
+
+/* ── CSS 변수: 다크 모드 ── */
+[data-theme="dark"] {
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --bg-card: #252525;
+  --text-primary: #e8e8e8;
+  --text-secondary: #b0b0b0;
+  --text-muted: #777777;
+  --border-color: #333333;
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-card-hover: 0 4px 16px rgba(0, 0, 0, 0.5);
+  --accent-color: #60a5fa;
+  --tab-active-bg: #60a5fa;
+  --tab-active-text: #121212;
+  --tab-inactive-bg: #2a2a2a;
+  --tab-inactive-text: #b0b0b0;
+  --toggle-bg: #4b5563;
+  --toast-bg: #e8e8e8;
+  --toast-text: #121212;
+}
+
+/* ── 전역 리셋 ── */
+.benefits-wrap * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.benefits-wrap {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background 0.3s, color 0.3s;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   다크/라이트 토글 버튼
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 50px;
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 18px;
+  box-shadow: var(--shadow-card);
+  transition: all 0.3s;
+}
+
+.theme-toggle:hover {
+  box-shadow: var(--shadow-card-hover);
+  transform: scale(1.05);
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   상단 카테고리 탭 메뉴
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.nav-tabs {
+  display: flex;
+  gap: 6px;
+  padding: 12px 16px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-tab {
+  flex-shrink: 0;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  background: var(--tab-inactive-bg);
+  color: var(--tab-inactive-text);
+  transition: all 0.25s;
+  white-space: nowrap;
+}
+
+.nav-tab:hover {
+  opacity: 0.85;
+}
+
+.nav-tab.active {
+  background: var(--tab-active-bg);
+  color: var(--tab-active-text);
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   카드 리스트
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.card-list {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: var(--shadow-card);
+  cursor: pointer;
+  transition: all 0.25s;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
+}
+
+.card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.card-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-meta {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.card-meta span {
+  font-size: 11px;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   배지 공통
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.badge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+  line-height: 1;
+}
+
+/* 지역/분야 배지 */
+.badge-region {
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   마감 배지 + 반짝임 애니메이션
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+/* 🔴 마감임박 (7일 이내) - 빨간 배지 + 반짝임 */
+.badge-urgent {
+  background: #dc2626;
+  color: #ffffff;
+  animation: badge-blink 1.5s ease-in-out infinite;
+}
+
+/* 🟠 예산소진시 - 주황 배지 + 반짝임 */
+.badge-budget {
+  background: #ea580c;
+  color: #ffffff;
+  animation: badge-blink 2s ease-in-out infinite;
+}
+
+/* 🔵 상시모집 - 파란 배지, 반짝임 없음 */
+.badge-always {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+/* 반짝임 키프레임 */
+@keyframes badge-blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   사이드바
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.sidebar-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.sidebar-title {
+  font-size: 14px;
+  font-weight: 700;
+  padding: 12px 16px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.sidebar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border-color);
+  cursor: pointer;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sidebar-item:last-child {
+  border-bottom: none;
+}
+
+.sidebar-item:hover {
+  background: var(--bg-secondary);
+}
+
+.sidebar-item-title {
+  font-size: 13px;
+  color: var(--text-primary);
+  font-weight: 500;
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Toast 알림
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.toast {
+  position: fixed;
+  bottom: -80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--toast-bg);
+  color: var(--toast-text);
+  padding: 14px 24px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  z-index: 99999;
+  transition: bottom 0.4s ease;
+  text-align: center;
+  max-width: 90%;
+}
+
+.toast.show {
+  bottom: 30px;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   금융상품 카드 (금리 강조)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.rate-highlight {
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--accent-color);
+}
+
+.rate-label {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   로딩 / 빈 상태
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+/* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   반응형 (모바일)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
+
+@media (max-width: 768px) {
+  .nav-tabs {
+    padding: 8px 12px;
+    gap: 4px;
+  }
+
+  .nav-tab {
+    padding: 6px 12px;
+    font-size: 12px;
+  }
+
+  .card {
+    padding: 12px;
+  }
+
+  .card-title {
+    font-size: 14px;
+  }
+
+  .card-desc {
+    font-size: 12px;
+  }
+
+  .theme-toggle {
+    top: 12px;
+    right: 12px;
+    padding: 6px 10px;
+    font-size: 16px;
+  }
+
+  .toast {
+    font-size: 13px;
+    padding: 12px 20px;
+  }
+}
 
