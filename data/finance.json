@@ -10,6 +10,7 @@
     "rate_basic": 2.55,
     "rate_max": 2.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -20,10 +21,11 @@
     "bank": "한국스탠다드차타드은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "개인(개인사업자 포함)",
-    "spcl_cnd": "1.SC제일은행 최초 거래 신규고객에 대하여 우대 이율을 제공함 (보너스이율0.2%)                     2.SC제일마이백통장에서 출금하여 이 예금을 신규하는경우에 보너스이율을 제공함\n(가입기간:1년제/ 보너스이율:0.1% / 만기해약하는 경우에 한해 보너스이율을 적용함)",
+    "spcl_cnd": "1.SC제일은행 최초 거래 신규고객에 대하여 우대 이율을 제공함 (보너스이율0.2%)                     2.SC제일마이백통장에서 출금하여 이 예금을 신규하는경우에",
     "rate_basic": 2.1,
     "rate_max": 2.3,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -34,10 +36,11 @@
     "bank": "아이엠뱅크",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자",
-    "spcl_cnd": "* 최고우대금리: 연0.45%p\n- 전월 총수신 평잔 30만원 이상 또는 상품 가입 전 첫만남플러스통장 보유\n- 상품 가입 전 당행 주택청약상품 보유\n- 신규일 \"iM함께적금\" 동시 가입 및 만기(12회 불입) 보유 \n- 당행 오픈뱅킹서비스에 다른 은행 계좌 등록\n각 연0.10%p                       \n* 해당 상품을 인터넷/모바일뱅킹을 통해 가입: 연0.05%p",
+    "spcl_cnd": "* 최고우대금리: 연0.45%p\n- 전월 총수신 평잔 30만원 이상 또는 상품 가입 전 첫만남플러스통장 보유\n- 상품 가입 전 당행 주택청약상품 보유\n- 신규일 \"iM함께적금\" 동",
     "rate_basic": 2.35,
     "rate_max": 2.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -52,6 +55,7 @@
     "rate_basic": 1.5,
     "rate_max": 1.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -62,10 +66,11 @@
     "bank": "부산은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "* 우대이율 (최대 1.00%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 신규고객 또는 정기예금 중도해지고객 우대이율 0.40%p\n다. 특판우대이율 : 0.50%p(24개월 0.85%p)",
+    "spcl_cnd": "* 우대이율 (최대 1.00%p)\n가. 모바일뱅킹 금융정보 및 혜택알림 동의 우대이율 : 0.10%p\n나. 신규고객 또는 정기예금 중도해지고객 우대이율 0.40%p\n다. 특판우대이",
     "rate_basic": 1.4,
     "rate_max": 2.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -80,6 +85,7 @@
     "rate_basic": 2.5,
     "rate_max": 2.85,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -90,10 +96,11 @@
     "bank": "광주은행",
     "join_way": "영업점,인터넷,스마트폰,기타",
     "join_member": "만18세이상 여성으로 실명의 개인 및 개인사업자",
-    "spcl_cnd": "▶ 최고우대금리 0.2% \n ① 요구불평잔 : 0.2% -300만원이상 0.1%, 500만원이상 0.2%\n ② 신용(체크)카드결제실적 : 0.1% -전월결제금 300만원이상 0.05%, 500만원이상 0.1%",
+    "spcl_cnd": "▶ 최고우대금리 0.2% \n ① 요구불평잔 : 0.2% -300만원이상 0.1%, 500만원이상 0.2%\n ② 신용(체크)카드결제실적 : 0.1% -전월결제금 300만원이상 0.0",
     "rate_basic": 3.04,
     "rate_max": 3.24,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -108,6 +115,7 @@
     "rate_basic": 2.13,
     "rate_max": 2.23,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -118,10 +126,11 @@
     "bank": "광주은행",
     "join_way": "스마트폰",
     "join_member": "개인 및 개인사업자",
-    "spcl_cnd": "▶ 최고우대금리 0.5% \n ① 첫예금거래 : 0.4% -최근1년동안 정기예금 계좌 신규 또는 해지이력이 없는경우\n ② 개인(신용)정보 수집이용동의 : 0.1% -만기일전일까지 유지시",
+    "spcl_cnd": "▶ 최고우대금리 0.5% \n ① 첫예금거래 : 0.4% -최근1년동안 정기예금 계좌 신규 또는 해지이력이 없는경우\n ② 개인(신용)정보 수집이용동의 : 0.1% -만기일전일까지 유",
     "rate_basic": 2.84,
     "rate_max": 3.34,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -136,55 +145,59 @@
     "rate_basic": 2.45,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_101272000006",
     "type": "정기예금",
-    "name": "제주Dream\n정기예금\n(개인/만기\n지급식)",
+    "name": "제주Dream 정기예금 (개인/만기 지급식)",
     "bank": "제주은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "제한없음",
-    "spcl_cnd": "최고 연 0.1%p(항목별 0.1%p)\n①급여이체\n②적립식예금 잔액 10만원 이상 보유\n③탑스, 주거래 고객\n④결제계좌(가맹점) 전월 입금액 10만원 이상 \n⑤비과세종합저축 대상 고객\n⑥다자녀(3인이상 자녀)가정\n⑦탐나는 J연금통장 가입고객\n⑧국민연금안심통장 가입고객\n⑨공무원연금안심통장 가입고객",
+    "spcl_cnd": "최고 연 0.1%p(항목별 0.1%p)\n①급여이체\n②적립식예금 잔액 10만원 이상 보유\n③탑스, 주거래 고객\n④결제계좌(가맹점) 전월 입금액 10만원 이상 \n⑤비과세종합저축 대상 ",
     "rate_basic": 2,
     "rate_max": 2.1,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_101272000057",
     "type": "정기예금",
-    "name": "J정기예금\n(만기지급식)",
+    "name": "J정기예금 (만기지급식)",
     "bank": "제주은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 \n개인 및 \n개인사업자",
-    "spcl_cnd": "- 아래의 우대요건 충족시 최고 0.5%p 추가 우대 \n①비대면 채널 가입시 0.3%제공(신규시제공)  \n(단, 이벤트시 디지털 채널에 고시한 우대금리를 추가 적용할 수 있음)\n②신규일로부터 만기달 제외한 계약기간의 1/2이상 매월 Jbank로그인 시 0.2%제공(만기시제공)",
+    "spcl_cnd": "- 아래의 우대요건 충족시 최고 0.5%p 추가 우대 \n①비대면 채널 가입시 0.3%제공(신규시제공)  \n(단, 이벤트시 디지털 채널에 고시한 우대금리를 추가 적용할 수 있음)\n②",
     "rate_basic": 1.4,
     "rate_max": 2.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_101272000058",
     "type": "정기예금",
-    "name": "스마일드림 \n정기예금\n(개인/선이자\n지급식)",
+    "name": "스마일드림  정기예금 (개인/선이자 지급식)",
     "bank": "제주은행",
     "join_way": "영업점,스마트폰",
     "join_member": "실명의\n개인 및 \n개인사업자",
-    "spcl_cnd": "-아래의 우대요건 충족시 최고0.3% 추가우대(신규시제공)\n①김만덕나눔적금 보유 또는 김만적 나눔적금 만기 해지고객 0.2%우대(가입시제공)\n②예금가입시 탐나는전 체크카드 보유고객 0.1%우대(가입시제공)\n(단, 이벤트시 영업점,디지털채널에 고시한 우대금리를 추가 적용할 수 있음)",
+    "spcl_cnd": "-아래의 우대요건 충족시 최고0.3% 추가우대(신규시제공)\n①김만덕나눔적금 보유 또는 김만적 나눔적금 만기 해지고객 0.2%우대(가입시제공)\n②예금가입시 탐나는전 체크카드 보유고객",
     "rate_basic": 1.7,
     "rate_max": 2.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10-01-20-024-0046-0000",
     "type": "정기예금",
-    "name": "JB 다이렉트예금통장\n(만기일시지급식)",
+    "name": "JB 다이렉트예금통장 (만기일시지급식)",
     "bank": "전북은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인(임의단체 제외",
@@ -192,20 +205,22 @@
     "rate_basic": 2.5,
     "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10-01-20-024-0059-0000",
     "type": "정기예금",
-    "name": "JB 123 정기예금\n (만기일시지급식)",
+    "name": "JB 123 정기예금  (만기일시지급식)",
     "bank": "전북은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인 또는 개인사업자 (1인 다계좌 가입 가능함)",
-    "spcl_cnd": "자동재예치 우대이율\n1회차 0.1%,\n2회차 0.2%,\n3회차 0.3%\n\n(이벤트우대이율)\n2026.1.5~6.30 까지\n1)가입일직전 6개월 동안 당행 원화 정기예금 보유이력이 없는 경우 0.50%\n2.개인(신용)정보 수집/이용 동의한 경우(단, 상품서비스 안내수단에 전체 동의한 경우) 0.10%\n*2026년 4월 20일 가입자부터 이벤트우대이율 적용",
+    "spcl_cnd": "자동재예치 우대이율\n1회차 0.1%,\n2회차 0.2%,\n3회차 0.3%\n\n(이벤트우대이율)\n2026.1.5~6.30 까지\n1)가입일직전 6개월 동안 당행 원화 정기예금 보유이력이 ",
     "rate_basic": 2.65,
     "rate_max": 3.25,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -220,6 +235,7 @@
     "rate_basic": 1.9,
     "rate_max": 2,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -230,10 +246,11 @@
     "bank": "경남은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "거래대상자는 제한을 두지 아니한다. 다만, 국가 및 지방자치단체는 이 예금을 거래할 수 없다.",
-    "spcl_cnd": "①신규시 가입(재예치)금액 20백만원 이상인 경우 0.10%\n②신규시 금리우대쿠폰을 등록한 경우 0.20% \n③경남은행 오픈뱅킹 서비스를 가입한 경우 0.10%\n(만기시까지 해당서비스 유지하는 경우)\n④자동재예치를 통해 가입한 경우 0.05%\n(금리우대쿠폰과 중복적용 불가)\n⑤신규(재예치)시 마케팅동의 및 모바일메시지 수신동의 0.10%",
+    "spcl_cnd": "①신규시 가입(재예치)금액 20백만원 이상인 경우 0.10%\n②신규시 금리우대쿠폰을 등록한 경우 0.20% \n③경남은행 오픈뱅킹 서비스를 가입한 경우 0.10%\n(만기시까지 해당서",
     "rate_basic": 2,
     "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -244,10 +261,11 @@
     "bank": "경남은행",
     "join_way": "스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "①마케팅동의 및 모바일메시지 수신동의 0.05%\n②신규고객 우대(최근 12개월 신규이력·해지이력 미보유) 0.10%\n③이벤트금리(비대면금리) 최대 0.85% (3개월 0.55% / 6, 9개월 0.70% / 12개월 0.85%)",
+    "spcl_cnd": "①마케팅동의 및 모바일메시지 수신동의 0.05%\n②신규고객 우대(최근 12개월 신규이력·해지이력 미보유) 0.10%\n③이벤트금리(비대면금리) 최대 0.85% (3개월 0.55% /",
     "rate_basic": 2.05,
     "rate_max": 2.75,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -262,6 +280,7 @@
     "rate_basic": 2.35,
     "rate_max": 2.75,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -272,10 +291,11 @@
     "bank": "중소기업은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인\n(개인사업자 제외)",
-    "spcl_cnd": "최고 연 0.20%p\n\n-고객별 우대 : 최고 연 0.05%p\n 1. 최초신규고객 : 연 0.05%p\n 2. 재예치고객 : 연 0.05%p\n 3. 장기거래고객 : 연 0.05%p\n\n-주거래우대 : 연 0.15%p",
+    "spcl_cnd": "최고 연 0.20%p\n\n-고객별 우대 : 최고 연 0.05%p\n 1. 최초신규고객 : 연 0.05%p\n 2. 재예치고객 : 연 0.05%p\n 3. 장기거래고객 : 연 0.05%p\n",
     "rate_basic": 2.25,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -290,6 +310,7 @@
     "rate_basic": 2.65,
     "rate_max": 2.65,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -304,6 +325,7 @@
     "rate_basic": 2.29,
     "rate_max": 2.29,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -318,6 +340,7 @@
     "rate_basic": 2.45,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -332,6 +355,7 @@
     "rate_basic": 1.8,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -346,6 +370,7 @@
     "rate_basic": 1.8,
     "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -360,6 +385,7 @@
     "rate_basic": 1.8,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -374,6 +400,7 @@
     "rate_basic": 2.35,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -384,10 +411,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "※ 우대금리 최대한도 : 0.4%p(연%, 세전)\n1. 온실가스 줄이기 실천서약서 동의 : 0.1%p\n2. 통장미발급 : 0.1%p\n3. 손하나로인증 서비스 등록 : 0.1%p\n4. NH내가Green초록세상적금 동시 보유 : 0.1%p",
+    "spcl_cnd": "※ 우대금리 최대한도 : 0.4%p(연%, 세전)\n1. 온실가스 줄이기 실천서약서 동의 : 0.1%p\n2. 통장미발급 : 0.1%p\n3. 손하나로인증 서비스 등록 : 0.1%p\n4",
     "rate_basic": 2.15,
     "rate_max": 2.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -402,6 +430,7 @@
     "rate_basic": 2.4,
     "rate_max": 2.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -412,10 +441,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.3%p\n\n2-1. 만65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.1%p\n\n3. 고향사랑 특별금리 : 0.05%p (금리시장상황에 따라 변동 가능)\n - 고향사랑 특별금리는 상품 가입고객 모두에게 적용",
+    "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.3%p\n\n2-1. 만65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.1%p\n\n3. 고향사랑 특별금리 ",
     "rate_basic": 2.15,
     "rate_max": 2.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -430,6 +460,7 @@
     "rate_basic": 1.8,
     "rate_max": 2.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -444,20 +475,22 @@
     "rate_basic": 2.8,
     "rate_max": 2.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10120114300011",
     "type": "정기예금",
-    "name": "Sh해양플라스틱Zero!예금\n(만기일시지급식)",
+    "name": "Sh해양플라스틱Zero!예금 (만기일시지급식)",
     "bank": "수협은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "* 최대우대금리:0.35%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.15% (만기시) \n3. 입출금통장 최초신규 : 0.1% (만기시)\n4. 자동이체 출금실적 : 0.1% (만기시)\n - 수협신용카드 / 당행 펀드 또는 적금 / 수협체크카드",
+    "spcl_cnd": "* 최대우대금리:0.35%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.15% (만기시) \n3. 입출금통장 최초신규 : 0.1% (만기시)",
     "rate_basic": 2.85,
     "rate_max": 3.2,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -472,6 +505,7 @@
     "rate_basic": 3.2,
     "rate_max": 3.2,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -482,10 +516,11 @@
     "bank": "수협은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "* 최대우대금리:1.05%\n1. 첫거래우대 : 1.0% (신규시) \n  - 최근 1년간 수협은행 예적금 활동계좌 미보유 고객포함\n2. 마케팅전체동의 : 0.05%(신규시) \n3. 스마트폰뱅킹의 상품알리기 : 0.80%(만기시)",
+    "spcl_cnd": "* 최대우대금리:1.05%\n1. 첫거래우대 : 1.0% (신규시) \n  - 최근 1년간 수협은행 예적금 활동계좌 미보유 고객포함\n2. 마케팅전체동의 : 0.05%(신규시) \n3. ",
     "rate_basic": 2.3,
     "rate_max": 3.35,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -500,6 +535,7 @@
     "rate_basic": 2.8,
     "rate_max": 2.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -514,6 +550,7 @@
     "rate_basic": 2.7,
     "rate_max": 2.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -524,10 +561,11 @@
     "bank": "우리은행",
     "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
     "join_member": "실명의 개인",
-    "spcl_cnd": "1. 거래실적 인정기간 중 우리은행 입출식 계좌에서 각 항목별 실적 월수가 계약기간의 절반 이상인 경우\n-급여/연금 이체: 연 0.7%p\n-공과금 자동이체: 연 0.3%p\n-우리카드(신용/체크) 결제금액 10만원 이상 출금: 연 0.3%p\n2. 마케팅(전화·SMS) 동의 및 만기해지시점까지 유지: 연 0.1%p\n3. 상품 가입 시 금리우대쿠폰 적용한 경우",
+    "spcl_cnd": "1. 거래실적 인정기간 중 우리은행 입출식 계좌에서 각 항목별 실적 월수가 계약기간의 절반 이상인 경우\n-급여/연금 이체: 연 0.7%p\n-공과금 자동이체: 연 0.3%p\n-우리카",
     "rate_basic": 2.15,
     "rate_max": 3.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -538,10 +576,11 @@
     "bank": "우리은행",
     "join_way": "스마트폰,전화(텔레뱅킹)",
     "join_member": "실명의 개인",
-    "spcl_cnd": "1. 아래 각 항(가, 나)의 조건을 충족하는 경우 합산 최대 연 0.2%p 우대\n가. 이 적금을 우리꿈통장, WON통장에 연결하여 가입하는 경우 : 0.1%p\n나. 우리 오픈뱅킹 서비스에 타행계좌가 등록되어 있는 경우 : 연 0.1%p",
+    "spcl_cnd": "1. 아래 각 항(가, 나)의 조건을 충족하는 경우 합산 최대 연 0.2%p 우대\n가. 이 적금을 우리꿈통장, WON통장에 연결하여 가입하는 경우 : 0.1%p\n나. 우리 오픈뱅킹",
     "rate_basic": 2.95,
     "rate_max": 3.15,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -553,9 +592,10 @@
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인(개인사업자 포함)",
     "spcl_cnd": "없음",
-    "rate_basic": 2.4,
-    "rate_max": 2.4,
+    "rate_basic": 2.3,
+    "rate_max": 2.3,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -566,10 +606,11 @@
     "bank": "아이엠뱅크",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자",
-    "spcl_cnd": "*최고우대금리:연0.85%p\n-전월 총수신 평잔 30만원 이상 또는 첫만남플러스통장 보유:연0.10%p\n-당행 주택청약상품 보유 \n-신규일 \"iM함께예금\" 동시 가입 및 만기 보유 \n각 연0.20%p\n-당행 오픈뱅킹서비스에 다른 은행 계좌 등록:연0.30%p                       \n*해당 상품을 인터넷/모바일뱅킹을 통해 가입:연0.05%p",
+    "spcl_cnd": "*최고우대금리:연0.85%p\n-전월 총수신 평잔 30만원 이상 또는 첫만남플러스통장 보유:연0.10%p\n-당행 주택청약상품 보유 \n-신규일 \"iM함께예금\" 동시 가입 및 만기 보유",
     "rate_basic": 2.75,
     "rate_max": 3.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -581,9 +622,10 @@
     "join_way": "영업점,스마트폰",
     "join_member": "실명의 개인고객(1인 1계좌)",
     "spcl_cnd": "*우대이율 6개월제 최대 0.55%, 12개월제 최대 0.90%",
-    "rate_basic": 2,
-    "rate_max": 2.9,
+    "rate_basic": 1.95,
+    "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -595,16 +637,17 @@
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "제한없음",
     "spcl_cnd": "조건 달성여부에 따라 우대금리 적용\n*개인형 우대이율: 최대0.5%\n*기업형(개인사업자 및 법인)우대이율: 최대0.4%",
-    "rate_basic": 2.1,
-    "rate_max": 2.6,
+    "rate_basic": 2.05,
+    "rate_max": 2.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_01020400530001",
     "type": "적금",
-    "name": "BNK내맘대로 \n적금",
+    "name": "BNK내맘대로  적금",
     "bank": "부산은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "제한없음",
@@ -612,13 +655,14 @@
     "rate_basic": 2.2,
     "rate_max": 2.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_01020400660001",
     "type": "적금",
-    "name": "부산이라 좋다\nBig적금",
+    "name": "부산이라 좋다 Big적금",
     "bank": "부산은행",
     "join_way": "스마트폰",
     "join_member": "만 14세이상 실명의 개인고객(1인 1계좌)",
@@ -626,6 +670,7 @@
     "rate_basic": 2.2,
     "rate_max": 4.2,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -640,6 +685,7 @@
     "rate_basic": 2,
     "rate_max": 4.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -650,10 +696,11 @@
     "bank": "광주은행",
     "join_way": "영업점,스마트폰",
     "join_member": "제한없음(단,국가및지방자치단체제외)",
-    "spcl_cnd": "▶ 최고우대금리 1.20%p  \n①해피라이프_여행스케치외화적금V 동일자가입 0.5%p \n②해지원금 기준 500만원이상 : 최고0.2%p\n③신용(체크)카드사용실적300만원이상:최고 0.3%p\n④개인(신용)정보 동의: 0.2%p",
-    "rate_basic": 2.4,
-    "rate_max": 3.6,
+    "spcl_cnd": "▶ 최고우대금리 1.20%p  \n①해피라이프_여행스케치외화적금V 동일자가입 0.5%p \n②해지원금 기준 500만원이상 : 최고0.2%p\n③신용(체크)카드사용실적300만원이상:최고 ",
+    "rate_basic": 2.2,
+    "rate_max": 3.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -664,10 +711,11 @@
     "bank": "광주은행",
     "join_way": "영업점,스마트폰",
     "join_member": "만14세이상 개인 및 개인사업자",
-    "spcl_cnd": "▶ 최고우대금리 1.9%p \n①예금가입일~만기일전일까지 당행이선정한 전라남도 관광지 방문 인증시 : 최고 1.5%p\n②신용(체크)카드사용실적300만원이상:최고 0.3%p\n③개인(신용)정보 동의: 0.1%p",
+    "spcl_cnd": "▶ 최고우대금리 1.9%p \n①예금가입일~만기일전일까지 당행이선정한 전라남도 관광지 방문 인증시 : 최고 1.5%p\n②신용(체크)카드사용실적300만원이상:최고 0.3%p\n③개인(신",
     "rate_basic": 2,
     "rate_max": 3.9,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -678,10 +726,11 @@
     "bank": "광주은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "▶ 최고우대금리 0.50%p  \n①이 예금가입시 VIP고객이거나 가입일 이후부터 만기일전일까지 VIP고객에 선정된 경험이 있는 경우 : 0.3%p \n②이 예금 가입일에 정기예금 500만원이상(만기 1년이상) 가입하고 만기일 전일까지 유지한 경우 : 0.2%p",
+    "spcl_cnd": "▶ 최고우대금리 0.50%p  \n①이 예금가입시 VIP고객이거나 가입일 이후부터 만기일전일까지 VIP고객에 선정된 경험이 있는 경우 : 0.3%p \n②이 예금 가입일에 정기예금 5",
     "rate_basic": 2.2,
     "rate_max": 2.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -692,10 +741,11 @@
     "bank": "제주은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "개인 및 개인사업자",
-    "spcl_cnd": "* 거래조건에 따라 최고 2.1%p 우대금리 적용\n① 자투리 출금계좌 평잔 50만원 이상 유지 : 0.8%p\n② 첫거래고객 or JBANK저금통적금 1개월 내 재신규 : 0.5%p\n③ 신규가입 시점에서 적금 목표금액 최소 30만원 이상 설정하고, 적금 신규일로부터 3개월 내 잔액이 목표금액 이상인 경우 :0.5%p\n④ 추천인 우대금리 : 0.30%p",
-    "rate_basic": 2.6,
-    "rate_max": 4.7,
+    "spcl_cnd": "* 거래조건에 따라 최고 2.1%p 우대금리 적용\n① 자투리 출금계좌 평잔 50만원 이상 유지 : 0.8%p\n② 첫거래고객 or JBANK저금통적금 1개월 내 재신규 : 0.5%p",
+    "rate_basic": 2.3,
+    "rate_max": 4.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -706,10 +756,11 @@
     "bank": "제주은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인 및 개인사업자",
-    "spcl_cnd": "①매월 1회이상 지속적 납입시:1년제: 0.50%\n② 목표 금액 달성:0.50%\n③ 신용카드,체크카드 합산 사용액 월10만원 이상 사용: 0.50%\n* 청년이니까응원합니다 이벤트 : 0.50%",
-    "rate_basic": 3.15,
-    "rate_max": 5.15,
+    "spcl_cnd": "①매월 1회이상 지속적 납입시:1년제: 0.50%\n② 목표 금액 달성:0.50%\n③ 신용카드,체크카드 합산 사용액 월10만원 이상 사용: 0.50%\n* 청년이니까응원합니다 이벤트 ",
+    "rate_basic": 2.95,
+    "rate_max": 4.95,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -720,10 +771,11 @@
     "bank": "제주은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "개인 및 개인사업자",
-    "spcl_cnd": "최고 0.4%p 추가 우대금리 제공\n1. 비대면채널 신규시 0.1%p\n2. 아래의 조건 충족시 0.3%p 추가 우대금리 제공\n①탐나는 J 직장인통장\n②탐나는 J 주거래통장\n가입고객이 기본우대 요건 충족 후 이 상품 가입시 0.1%p\n③달리자 파킹통장 가입 고객이 이 상품 가입시 0.3%p\n(단, ①, ②, ③항은 중복적용 불가)",
-    "rate_basic": 2.4,
-    "rate_max": 2.8,
+    "spcl_cnd": "최고 0.4%p 추가 우대금리 제공\n1. 비대면채널 신규시 0.1%p\n2. 아래의 조건 충족시 0.3%p 추가 우대금리 제공\n①탐나는 J 직장인통장\n②탐나는 J 주거래통장\n가입고객",
+    "rate_basic": 2.1,
+    "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -738,6 +790,7 @@
     "rate_basic": 3.4,
     "rate_max": 3.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -749,9 +802,10 @@
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자(임의단체 제외)",
     "spcl_cnd": "추가우대금리 :\n당행 계좌간 자동이체를 통해 6회이상 입금한 경우 \n연 0.1% 금리우대",
-    "rate_basic": 3.1,
-    "rate_max": 3.2,
+    "rate_basic": 3.5,
+    "rate_max": 3.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -762,10 +816,11 @@
     "bank": "경남은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자",
-    "spcl_cnd": "①신규일로부터 6개월전까지 당행 적금 미보유 0.2%\n②월부금이 50만원 이상인 경우 0.20%\n③이 예금을 자동이체로 납입하는 경우 0.2%\n④신규일로부터 익월 말일까지 신용(체크)카드를 최초로 발급하고 동 기간내에 10만원이상 이용실적이 있는경우 0.2%\n⑤이 예금 가입전 경남은행 마케팅동의가 되어있는경우 0.2%",
-    "rate_basic": 2.7,
-    "rate_max": 3.7,
+    "spcl_cnd": "①신규일로부터 6개월전까지 당행 적금 미보유 0.2%\n②월부금이 50만원 이상인 경우 0.20%\n③이 예금을 자동이체로 납입하는 경우 0.2%\n④신규일로부터 익월 말일까지 신용(체",
+    "rate_basic": 2.6,
+    "rate_max": 3.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -780,6 +835,7 @@
     "rate_basic": 3.1,
     "rate_max": 3.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -791,23 +847,25 @@
     "join_way": "영업점,인터넷,스마트폰,기타",
     "join_member": "실명의 개인 및 개인사업자",
     "spcl_cnd": "①ESG 실천 우대금리 1.00%\n②신규고객 우대금리 1.00%\n- 당행 1년 이내예적금(청약포함)신규해지 이력미보유\n③마케팅동의우대금리 0.50%",
-    "rate_basic": 1.45,
-    "rate_max": 3.95,
+    "rate_basic": 2.1,
+    "rate_max": 4.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_21001236",
     "type": "적금",
-    "name": "오면우대! 하면우대!\n정기적금",
+    "name": "오면우대! 하면우대! 정기적금",
     "bank": "경남은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "신규고객\n①적금가입시3.00%\n②상품가입 전 마케팅동의시0.10%\n③이 적금 신규월 포함 3개월 동안 10만원 이상 경남은행 카드 대금결제시2.00%\n기존고객\n①급여 또는 연금입금시1.50%\n②공과금 자동이체시 2.00%\n③경남은행 카드이용시(8회이상&10만원이상 카드대금 결제보유)1.50%\n④상품가입 전 마케팅동의시0.10%",
+    "spcl_cnd": "신규고객\n①적금가입시3.00%\n②상품가입 전 마케팅동의시0.10%\n③이 적금 신규월 포함 3개월 동안 10만원 이상 경남은행 카드 대금결제시2.00%\n기존고객\n①급여 또는 연금입금",
     "rate_basic": 1.9,
     "rate_max": 7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -822,6 +880,7 @@
     "rate_basic": 2.75,
     "rate_max": 4.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -833,9 +892,10 @@
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자",
     "spcl_cnd": "①주거래우대 0.50%\n②공과금 자동이체 0.40~0.60%\n③신규고객 0.20%\n④주택청약종합저축 보유 0.10%\n⑤ 전자명함을 통한 신규 시 0.2%",
-    "rate_basic": 2.5,
-    "rate_max": 4.1,
+    "rate_basic": 2.35,
+    "rate_max": 3.95,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -846,10 +906,11 @@
     "bank": "중소기업은행",
     "join_way": "스마트폰",
     "join_member": "실명의 개인\n(개인사업자 제외)",
-    "spcl_cnd": "최고 연 1.5%p\n1. 목표달성 축하금리 : 연 1.0%p\n  - 당행 입출금식 계좌에서 이 적금으로 자동이체를 통해 3회 이상 납입하고 만기일 전일까지 목표금액(신규 시 직접 설정) 이상 납입하는 경우\n2. 최초거래고객 우대금리 : 연 0.5%p",
+    "spcl_cnd": "최고 연 1.5%p\n1. 목표달성 축하금리 : 연 1.0%p\n  - 당행 입출금식 계좌에서 이 적금으로 자동이체를 통해 3회 이상 납입하고 만기일 전일까지 목표금액(신규 시 직접 ",
     "rate_basic": 2.45,
     "rate_max": 3.95,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -864,20 +925,22 @@
     "rate_basic": 2.5,
     "rate_max": 4.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_01211210122",
     "type": "적금",
-    "name": "IBK중기근로자우대적금\n(자유적립식)",
+    "name": "IBK중기근로자우대적금 (자유적립식)",
     "bank": "중소기업은행",
     "join_way": "영업점,스마트폰",
     "join_member": "중소기업에서 근무하는\n실명의 개인\n(개인사업자 제외)",
-    "spcl_cnd": "최고 연 2.20%p\n1. 가입시점 중소기업 근로자로 확인된 경우 : 재직기간에 따라 최고 연 1.2%p\n2. 당행 급여이체 실적(월50만원 이상) 6개월 이상\n   인 경우 : 연 1.0%p",
+    "spcl_cnd": "최고 연 2.20%p\n1. 가입시점 중소기업 근로자로 확인된 경우 : 재직기간에 따라 최고 연 1.2%p\n2. 당행 급여이체 실적(월50만원 이상) 6개월 이상\n   인 경우 : ",
     "rate_basic": 2.5,
     "rate_max": 4.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -888,10 +951,11 @@
     "bank": "중소기업은행",
     "join_way": "영업점,스마트폰",
     "join_member": "실명의 개인\n(개인사업자 제외)",
-    "spcl_cnd": "최고 연 0.20%p\n1. 자동이체 우대금리 : 연 0.20%p\n- 6개월 이상 12개월 미만 : 3회\n 12개월 이상 24개월 미만 : 6회\n 24개월 이상 36개월 미만 : 12회\n 36개월 : 18회",
+    "spcl_cnd": "최고 연 0.20%p\n1. 자동이체 우대금리 : 연 0.20%p\n- 6개월 이상 12개월 미만 : 3회\n 12개월 이상 24개월 미만 : 6회\n 24개월 이상 36개월 미만 : 1",
     "rate_basic": 2.55,
     "rate_max": 2.75,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -903,9 +967,10 @@
     "join_way": "영업점,인터넷",
     "join_member": "개인사업자, 조합(비영리법인 포함), 법인",
     "spcl_cnd": "해당없음",
-    "rate_basic": 2.72,
-    "rate_max": 2.72,
+    "rate_basic": 3.44,
+    "rate_max": 3.44,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -917,9 +982,10 @@
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인, 개인사업자, 임의단체",
     "spcl_cnd": "해당없음",
-    "rate_basic": 2.91,
-    "rate_max": 2.91,
+    "rate_basic": 3.54,
+    "rate_max": 3.54,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -930,10 +996,11 @@
     "bank": "국민은행",
     "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
     "join_member": "실명의 개인",
-    "spcl_cnd": "① 단체가입/나라사랑/쿠폰 우대이율: \n    1년: 연 0.6%p, 2년: 연 0.7%p,\n    3년: 연 0.9%p, 5년: 연 1.0%p \n   (중복적용되지 않음, 계약기간별차등적용)\n② 교차거래 우대이율: 연 0.3%p",
-    "rate_basic": 2.5,
-    "rate_max": 3.4,
+    "spcl_cnd": "① 단체가입/나라사랑/쿠폰 우대이율: \n    1년: 연 0.6%p, 2년: 연 0.7%p,\n    3년: 연 0.9%p, 5년: 연 1.0%p \n   (중복적용되지 않음, 계약기",
+    "rate_basic": 2.8,
+    "rate_max": 4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -944,10 +1011,11 @@
     "bank": "국민은행",
     "join_way": "인터넷,스마트폰",
     "join_member": "실명의 개인 또는 개인사업자",
-    "spcl_cnd": "신규 시 다음의 9가지 우대이율 항목 중 6가지를 자유롭게 선택하고, 아래 우대이율 적용조건 충족 시 항목 당 각 연0.1%p의 우대이율 적용\n(최고 연0.6%p)\n - 우대이율 항목 : 급여이체, 카드결제계좌, 자동이체 저축, 아파트관리비 이체, KB스타뱅킹 이체, 장기거래, 첫 거래, 주택청약종합저축, 소중한 날",
+    "spcl_cnd": "신규 시 다음의 9가지 우대이율 항목 중 6가지를 자유롭게 선택하고, 아래 우대이율 적용조건 충족 시 항목 당 각 연0.1%p의 우대이율 적용\n(최고 연0.6%p)\n - 우대이율 ",
     "rate_basic": 2.3,
     "rate_max": 2.9,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -958,10 +1026,11 @@
     "bank": "국민은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "맑은하늘을 위한 미션별 제공조건을 달성하는 경우 각 미션별 우대이율 제공\n-1년제 최고 연 0.8%p, 2년제 최고 연 0.9%p, 3년제 최고 연 1.0%p\n① 종이통장 줄이기 미션: 연 0.1%p\n② 종이서식 줄이기 미션: 연 0.2%p\n③ 대중교통 미션: 1년제 연 0.4%p, 2년제 연 0.5%p, 3년제 연 0.6%p\n④ 퀴즈미션: 연 0.1%p",
-    "rate_basic": 2.45,
-    "rate_max": 3.25,
+    "spcl_cnd": "맑은하늘을 위한 미션별 제공조건을 달성하는 경우 각 미션별 우대이율 제공\n-1년제 최고 연 0.8%p, 2년제 최고 연 0.9%p, 3년제 최고 연 1.0%p\n① 종이통장 줄이기 ",
+    "rate_basic": 2.55,
+    "rate_max": 3.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -972,10 +1041,11 @@
     "bank": "국민은행",
     "join_way": "스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "항목별 적용 조건 충족시, 최고 연 4.0%p\n① 목표달성 축하 우대이율: 최고 연 1.0%p\n    50만원 이하: 연 0.5%p, 50만원 초과: 연 1.0%p \n② 별 모으기 우대이율 : 최고 연 1.0%p\n    10개: 연 0.5%p, 20개: 연 1.0%p\n③ 함께해요 우대이율: 최고 연 2.0%p",
+    "spcl_cnd": "항목별 적용 조건 충족시, 최고 연 4.0%p\n① 목표달성 축하 우대이율: 최고 연 1.0%p\n    50만원 이하: 연 0.5%p, 50만원 초과: 연 1.0%p \n② 별 모으기",
     "rate_basic": 2,
     "rate_max": 6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -986,10 +1056,11 @@
     "bank": "신한은행",
     "join_way": "영업점,스마트폰",
     "join_member": "제한없음",
-    "spcl_cnd": "※가산금리 최고 연 1.30%\n- 소득이체 : 연 0.6%\n- 카드이용 : 연 0.3%\n- 오픈뱅킹 : 연 0.6%\n- 청약보유 : 연 0.3%\n- 마케팅동의 : 연 0.1%\n※ 우대금리 항목별 자세한 적용 조건은 상품설명서 참조",
+    "spcl_cnd": "※가산금리 최고 연 1.30%\n- 소득이체 : 연 0.6%\n- 카드이용 : 연 0.3%\n- 오픈뱅킹 : 연 0.6%\n- 청약보유 : 연 0.3%\n- 마케팅동의 : 연 0.1%\n※ ",
     "rate_basic": 2.45,
     "rate_max": 3.75,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1000,10 +1071,11 @@
     "bank": "농협은행주식회사",
     "join_way": "스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "1. 자동이체 입금횟수 우대금리 : 최고 0.5%p\n - 5회이상 : 0.2%p, 10회이상 : 0.3%p, 15회이상 0.5%p\n2. 목표금액 달성 축하금리  : 0.5%p\n3. MZ세대(만 19~34세)) 우대금리 : 0.5%p\n4. 직전 1년간 당행 예적금(청약포함) 미보유 고객 : 0.2%p",
-    "rate_basic": 2.15,
-    "rate_max": 3.85,
+    "spcl_cnd": "1. 자동이체 입금횟수 우대금리 : 최고 0.5%p\n - 5회이상 : 0.2%p, 10회이상 : 0.3%p, 15회이상 0.5%p\n2. 목표금액 달성 축하금리  : 0.5%p\n3.",
+    "rate_basic": 1.85,
+    "rate_max": 3.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1014,10 +1086,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "만19세~만34세 개인 및 개인사업자",
-    "spcl_cnd": "1. 급여실적 : 1.0%p (①/② 중복 적용 불가)\n ① 급여이체 실적 : 1.0%p\n ② 개인사업자 계좌 실적 :1.0%p\n2. 비대면 채널 이체 실적 : 0.3%p\n3. 마케팅 동의 : 0.2%p\n4. 농업계고 및 청년농부사관학교 졸업자 : 2.0%p",
-    "rate_basic": 2.3,
-    "rate_max": 5.8,
+    "spcl_cnd": "1. 급여실적 : 1.0%p (①/② 중복 적용 불가)\n ① 급여이체 실적 : 1.0%p\n ② 개인사업자 계좌 실적 :1.0%p\n2. 비대면 채널 이체 실적 : 0.3%p\n3. 마",
+    "rate_basic": 2.35,
+    "rate_max": 5.85,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1028,10 +1101,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "※ 우대금리 최대한도 : 1.0%p(연%, 세전)\n1. 온실가스 줄이기 실천서약서 동의 : 0.1%p\n2. 통장미발급 : 0.3%p\n3. 손하나로인증 서비스 등록 : 0.2%p\n4. 대중교통이용 : 0.2%p\n5. NH내가Green초록세상예금 동시 보유 : 0.2%p",
+    "spcl_cnd": "※ 우대금리 최대한도 : 1.0%p(연%, 세전)\n1. 온실가스 줄이기 실천서약서 동의 : 0.1%p\n2. 통장미발급 : 0.3%p\n3. 손하나로인증 서비스 등록 : 0.2%p\n4",
     "rate_basic": 2.3,
     "rate_max": 3.3,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1042,10 +1116,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "개인",
-    "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.5%p\n\n2-1. 만 65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.3%p\n\n3. 고향사랑특별금리 : 0.05%p(금리시장상황에 따라 변동 가능)\n - 고향사랑특별금리는 상품 가입고객 모두에게 적용",
-    "rate_basic": 2.7,
-    "rate_max": 3.55,
+    "spcl_cnd": "1. 고향사랑기부금 납부고객 우대 : 0.5%p\n\n2-1. 만 65세 이상 고령자 우대 : 0.1%p\n2-2. 만 19~34세 MZ고객 우대 : 0.3%p\n\n3. 고향사랑특별금리 ",
+    "rate_basic": 2.6,
+    "rate_max": 3.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1056,10 +1131,11 @@
     "bank": "농협은행주식회사",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "만18세이상 개인",
-    "spcl_cnd": "1. 급여입금실적 보유 고객 중\n - 가입기간 중 3개월 이상 급여이체시 : 0.3%p\n - 주택청약종합저축 또는 펀드가입 : 0.2%p\n - NH채움카드 결제실적 1백만원 이상 : 0.2%p\n2. 인터넷(스마트)뱅킹 또는 올원뱅크로 가입 : 0.1%p",
-    "rate_basic": 2.63,
-    "rate_max": 3.43,
+    "spcl_cnd": "1. 급여입금실적 보유 고객 중\n - 가입기간 중 3개월 이상 급여이체시 : 0.3%p\n - 주택청약종합저축 또는 펀드가입 : 0.2%p\n - NH채움카드 결제실적 1백만원 이상 ",
+    "rate_basic": 2.6,
+    "rate_max": 3.4,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1070,10 +1146,11 @@
     "bank": "주식회사 하나은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인\n또는 개인사업자",
-    "spcl_cnd": "최고 연1.0%\n- 주거래하나우대(연 0.5%) : 적금만기 전전월말기준 본인명의 당행입출금통장을 통해 계약기간 1/2이상 이체된 주거래실적 1종  - 주거래플러스우대(연 0.9%) : 주거래 하나우대와 동일요건의 거래실적 2종이상 경우 \n- 온라인.재예치우대 연 최대 0.1%",
+    "spcl_cnd": "최고 연1.0%\n- 주거래하나우대(연 0.5%) : 적금만기 전전월말기준 본인명의 당행입출금통장을 통해 계약기간 1/2이상 이체된 주거래실적 1종  - 주거래플러스우대(연 0.9%",
     "rate_basic": 2.75,
     "rate_max": 3.75,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1085,9 +1162,10 @@
     "join_way": "영업점,인터넷,스마트폰,전화(텔레뱅킹)",
     "join_member": "실명의 개인\n또는 개인사업자(1인 다계좌 가능)",
     "spcl_cnd": "하나은행 통장에서 계약기간의 1/2이상 월부금 자동이체실적 충족 시 연 0.50%",
-    "rate_basic": 2,
-    "rate_max": 2.5,
+    "rate_basic": 1.6,
+    "rate_max": 2.1,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1099,9 +1177,10 @@
     "join_way": "스마트폰",
     "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
     "spcl_cnd": "금리우대 코드를 입력하는 경우 우대금리 적용",
-    "rate_basic": 2.8,
-    "rate_max": 2.8,
+    "rate_basic": 3,
+    "rate_max": 3,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1116,6 +1195,7 @@
     "rate_basic": 0.7,
     "rate_max": 6.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1130,6 +1210,7 @@
     "rate_basic": 2.5,
     "rate_max": 2.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1144,6 +1225,7 @@
     "rate_basic": 3,
     "rate_max": 8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1155,37 +1237,40 @@
     "join_way": "스마트폰",
     "join_member": "만 17세 이상 실명의 개인 및 개인사업자",
     "spcl_cnd": "급여이체 또는 통신비 자동이체, 체크카드 고객에게 우대금리 제공 (최고 연 0.6%)",
-    "rate_basic": 3.4,
-    "rate_max": 4,
+    "rate_basic": 3,
+    "rate_max": 3.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10140114300011",
     "type": "적금",
-    "name": "Sh해양플라스틱Zero!적금\n(정액적립식)",
+    "name": "Sh해양플라스틱Zero!적금 (정액적립식)",
     "bank": "수협은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
-    "rate_basic": 3.5,
-    "rate_max": 4,
+    "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4",
+    "rate_basic": 3,
+    "rate_max": 3.5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10140114700041",
     "type": "적금",
-    "name": "헤이(Hey)적금\n(정액적립식)",
+    "name": "헤이(Hey)적금 (정액적립식)",
     "bank": "수협은행",
     "join_way": "스마트폰",
     "join_member": "실명의 개인",
     "spcl_cnd": "*최대우대금리  :0.9%\n1. 마케팅동의 : 0.1% (신규시)\n2. 자동이체 납입 : 0.8% (만기시)",
-    "rate_basic": 2.5,
-    "rate_max": 3.4,
+    "rate_basic": 2.8,
+    "rate_max": 3.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1197,37 +1282,40 @@
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인 및 개인사업자",
     "spcl_cnd": "*최대우대금리:0.7%\n-첫거래고객:0.3%\n-카드거래:최대0.3%\n-복수거래:0.1%\n-요구불거래:최대0.2%\n-인터넷뱅킹고객:0.1%\n-자동이체실적:0.1%",
-    "rate_basic": 2.2,
-    "rate_max": 2.9,
+    "rate_basic": 1.9,
+    "rate_max": 2.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10141114300011",
     "type": "적금",
-    "name": "Sh해양플라스틱Zero!적금\n(자유적립식)",
+    "name": "Sh해양플라스틱Zero!적금 (자유적립식)",
     "bank": "수협은행",
     "join_way": "영업점,인터넷,스마트폰",
     "join_member": "실명의 개인",
-    "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4. 자동이체 출금실적 : 0.2% (만기시)\n - 수협신용카드 / 당행 펀드 / 수협체크카드",
+    "spcl_cnd": "* 최대우대금리:0.5%\n1. 해양플라스틱감축서약 : 0.1% (신규시) \n2. 봉사활동 또는 상품홍보 : 0.2% (만기시) \n3. 입출금통장 최초신규 : 0.2% (만기시)\n4",
     "rate_basic": 3.65,
     "rate_max": 4.15,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_10141114700041",
     "type": "적금",
-    "name": "헤이(Hey)적금\n(자유적립식)",
+    "name": "헤이(Hey)적금 (자유적립식)",
     "bank": "수협은행",
     "join_way": "스마트폰",
     "join_member": "실명의개인",
     "spcl_cnd": "*최대우대금리 : 0.9%\n1. 마케팅동의 : 0.1% (신규시)\n2. 자동이체 납입 : 0.8% (만기시)",
-    "rate_basic": 3.2,
-    "rate_max": 4.1,
+    "rate_basic": 2.9,
+    "rate_max": 3.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1238,10 +1326,11 @@
     "bank": "주식회사 카카오뱅크",
     "join_way": "스마트폰",
     "join_member": "만 14세 이상의 실명의 개인",
-    "spcl_cnd": "자동이체시 우대금리 제공 : 연 0.20%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금리를 제공하지 않음",
-    "rate_basic": 3.2,
-    "rate_max": 3.4,
+    "spcl_cnd": "자동이체시 우대금리 제공 : 연 0.20%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금",
+    "rate_basic": 2.7,
+    "rate_max": 2.9,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1252,10 +1341,11 @@
     "bank": "주식회사 카카오뱅크",
     "join_way": "스마트폰",
     "join_member": "만 14세 이상의 실명의 개인",
-    "spcl_cnd": "자동이체 연속 성공 우대금리 제공 : 최고 연 3.00%p\n- 제공조건\n① 7주차까지 자동이체 납입을 연속 성공하고 만기해지 하는 경우 연 1.00%p 제공\n② 26주차까지 자동이체 납입을 연속 성공하고 만기해지 하는 경우 연 2.00%p 추가 제공\n- 유의사항 : 자동이체 실패한 주차를 빈자리채우기 하여도 성공으로 인정되지 않음",
+    "spcl_cnd": "자동이체 연속 성공 우대금리 제공 : 최고 연 3.00%p\n- 제공조건\n① 7주차까지 자동이체 납입을 연속 성공하고 만기해지 하는 경우 연 1.00%p 제공\n② 26주차까지 자동이",
     "rate_basic": 2,
     "rate_max": 5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1266,10 +1356,11 @@
     "bank": "주식회사 카카오뱅크",
     "join_way": "스마트폰",
     "join_member": "만 14세 이상의 실명의 개인",
-    "spcl_cnd": "매일/보너스 우대금리 제공 : 최고 연 5.50%p\n- 제공조건\n① 매일 우대금리 : 매 입금 시 마다 연 0.10%p 제공(최대 연 3.10%p)\n② 보너스 우대금리 : 누적하여 5/10/15/20/25/31회 입금 시 해당 우대금리 제공(최대 연 2.40%p)\n- 유의사항 : 만기 해지하는 경우에만 제공",
+    "spcl_cnd": "매일/보너스 우대금리 제공 : 최고 연 5.50%p\n- 제공조건\n① 매일 우대금리 : 매 입금 시 마다 연 0.10%p 제공(최대 연 3.10%p)\n② 보너스 우대금리 : 누적하여",
     "rate_basic": 0.5,
     "rate_max": 6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1280,10 +1371,11 @@
     "bank": "주식회사 카카오뱅크",
     "join_way": "스마트폰",
     "join_member": "우리아이통장을 보유한 만 0세 이상 만 17세 미만의 실명의 개인",
-    "spcl_cnd": "자동이체시 우대금리 제공 : 연 4.00%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금리를 제공하지 않음",
+    "spcl_cnd": "자동이체시 우대금리 제공 : 연 4.00%p\n - 제공조건 : 전체 계약월수의 1/2이상을 자동이체로 납입하고 만기 해지하는 경우\n - 유의사항 : 만기 자동연장된 원리금은 우대금",
     "rate_basic": 3,
     "rate_max": 7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1298,6 +1390,7 @@
     "rate_basic": 1.8,
     "rate_max": 3.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1312,6 +1405,7 @@
     "rate_basic": 1.8,
     "rate_max": 4.3,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1323,9 +1417,10 @@
     "join_way": "스마트폰",
     "join_member": "· 토스뱅크 통장 또는 토스뱅크 서브 통장을 보유한 실명의 개인",
     "spcl_cnd": "· 적금 가입 시 설정되는 월 단위 자동이체를 모두 성공하는 경우 : 연 0.50% 제공",
-    "rate_basic": 2.5,
-    "rate_max": 3,
+    "rate_basic": 1.3,
+    "rate_max": 1.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1340,6 +1435,7 @@
     "rate_basic": 2.5,
     "rate_max": 5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1354,6 +1450,7 @@
     "rate_basic": 4.82,
     "rate_max": 6.52,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1368,6 +1465,7 @@
     "rate_basic": 5.52,
     "rate_max": 6.72,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1382,6 +1480,7 @@
     "rate_basic": 3.85,
     "rate_max": 5.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1396,6 +1495,7 @@
     "rate_basic": 4.27,
     "rate_max": 5.37,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1410,6 +1510,7 @@
     "rate_basic": 5.11,
     "rate_max": 6.21,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1424,6 +1525,7 @@
     "rate_basic": 4.89,
     "rate_max": 5.79,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1438,6 +1540,7 @@
     "rate_basic": 4.27,
     "rate_max": 5.37,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1452,6 +1555,7 @@
     "rate_basic": 5.11,
     "rate_max": 6.21,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1466,6 +1570,7 @@
     "rate_basic": 4.89,
     "rate_max": 5.79,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1480,6 +1585,7 @@
     "rate_basic": 4.15,
     "rate_max": 5.55,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1494,6 +1600,7 @@
     "rate_basic": 4.67,
     "rate_max": 6.07,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1508,6 +1615,7 @@
     "rate_basic": 4.57,
     "rate_max": 5.87,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1522,6 +1630,7 @@
     "rate_basic": 5.07,
     "rate_max": 6.07,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1536,6 +1645,7 @@
     "rate_basic": 5.01,
     "rate_max": 6.01,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1550,6 +1660,7 @@
     "rate_basic": 3.81,
     "rate_max": 4.81,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1564,6 +1675,7 @@
     "rate_basic": 4.38,
     "rate_max": 5.38,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1578,6 +1690,7 @@
     "rate_basic": 3.56,
     "rate_max": 5.56,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1592,6 +1705,7 @@
     "rate_basic": 5.43,
     "rate_max": 6.23,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1606,6 +1720,7 @@
     "rate_basic": 3.8,
     "rate_max": 5.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1620,6 +1735,7 @@
     "rate_basic": 3.12,
     "rate_max": 4.71,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1634,6 +1750,7 @@
     "rate_basic": 4.77,
     "rate_max": 7.46,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1648,13 +1765,14 @@
     "rate_basic": 3.92,
     "rate_max": 4.72,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_1",
     "type": "주택담보대출",
-    "name": "산은 주택대출\n(생활자금)",
+    "name": "산은 주택대출 (생활자금)",
     "bank": "한국산업은행",
     "join_way": "기타",
     "join_member": "",
@@ -1662,13 +1780,14 @@
     "rate_basic": 4.24,
     "rate_max": 5.04,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_KB200300000002",
     "type": "주택담보대출",
-    "name": "KB주택담보대출변동\n(일반자금)",
+    "name": "KB주택담보대출변동 (일반자금)",
     "bank": "국민은행",
     "join_way": "영업점,모집인",
     "join_member": "",
@@ -1676,6 +1795,7 @@
     "rate_basic": 4.68,
     "rate_max": 5.58,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1690,6 +1810,7 @@
     "rate_basic": 5.36,
     "rate_max": 5.36,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1704,6 +1825,7 @@
     "rate_basic": 5.43,
     "rate_max": 6.23,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1718,6 +1840,7 @@
     "rate_basic": 3.8,
     "rate_max": 5.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1732,6 +1855,7 @@
     "rate_basic": 4.45,
     "rate_max": 7.05,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1746,6 +1870,7 @@
     "rate_basic": 5.72,
     "rate_max": 7.42,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1760,6 +1885,7 @@
     "rate_basic": 3.8,
     "rate_max": 5,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1774,6 +1900,7 @@
     "rate_basic": 4.79,
     "rate_max": 4.79,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1788,6 +1915,7 @@
     "rate_basic": 5.12,
     "rate_max": 5.12,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1802,6 +1930,7 @@
     "rate_basic": 4.95,
     "rate_max": 7.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1816,6 +1945,7 @@
     "rate_basic": 4.87,
     "rate_max": 5.52,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1830,6 +1960,7 @@
     "rate_basic": 3.75,
     "rate_max": 4.45,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1844,6 +1975,7 @@
     "rate_basic": 3.71,
     "rate_max": 4.41,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1858,6 +1990,7 @@
     "rate_basic": 4.53,
     "rate_max": 4.93,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1872,6 +2005,7 @@
     "rate_basic": 4.18,
     "rate_max": 4.68,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1886,6 +2020,7 @@
     "rate_basic": 4.18,
     "rate_max": 4.18,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1900,6 +2035,7 @@
     "rate_basic": 4.48,
     "rate_max": 4.98,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1914,6 +2050,7 @@
     "rate_basic": 4.48,
     "rate_max": 4.48,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1928,6 +2065,7 @@
     "rate_basic": 4.13,
     "rate_max": 4.93,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1942,6 +2080,7 @@
     "rate_basic": 5,
     "rate_max": 5.8,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1956,6 +2095,7 @@
     "rate_basic": 3.93,
     "rate_max": 4.93,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1970,6 +2110,7 @@
     "rate_basic": 3.49,
     "rate_max": 3.69,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1984,6 +2125,7 @@
     "rate_basic": 5.32,
     "rate_max": 6.02,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -1998,6 +2140,7 @@
     "rate_basic": 4.98,
     "rate_max": 5.68,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2012,6 +2155,7 @@
     "rate_basic": 3.8,
     "rate_max": 5.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2026,6 +2170,7 @@
     "rate_basic": 4.39,
     "rate_max": 5.89,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2040,13 +2185,14 @@
     "rate_basic": 4.62,
     "rate_max": 5.22,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_30002257",
     "type": "전세자금대출",
-    "name": "모바일전세자금대출\n(주택금융공사)",
+    "name": "모바일전세자금대출 (주택금융공사)",
     "bank": "경남은행",
     "join_way": "영업점",
     "join_member": "",
@@ -2054,6 +2200,7 @@
     "rate_basic": 4.69,
     "rate_max": 5.29,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2068,6 +2215,7 @@
     "rate_basic": 4.88,
     "rate_max": 4.88,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2082,6 +2230,7 @@
     "rate_basic": 5.17,
     "rate_max": 5.77,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2096,6 +2245,7 @@
     "rate_basic": 3.9,
     "rate_max": 4.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2110,6 +2260,7 @@
     "rate_basic": 5.27,
     "rate_max": 6.07,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2124,6 +2275,7 @@
     "rate_basic": 3.9,
     "rate_max": 4.7,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2138,6 +2290,7 @@
     "rate_basic": 3.65,
     "rate_max": 5.05,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2152,6 +2305,7 @@
     "rate_basic": 3.92,
     "rate_max": 5.32,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2166,6 +2320,7 @@
     "rate_basic": 3.8,
     "rate_max": 5.6,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2180,6 +2335,7 @@
     "rate_basic": 3.85,
     "rate_max": 4.65,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2194,6 +2350,7 @@
     "rate_basic": 2.64,
     "rate_max": 5.44,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2208,6 +2365,7 @@
     "rate_basic": 3.38,
     "rate_max": 6.18,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2222,6 +2380,7 @@
     "rate_basic": 2.62,
     "rate_max": 5.42,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2236,6 +2395,7 @@
     "rate_basic": 3.91,
     "rate_max": 5.31,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2250,6 +2410,7 @@
     "rate_basic": 4.22,
     "rate_max": 5.52,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2264,6 +2425,7 @@
     "rate_basic": 4.21,
     "rate_max": 5.51,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2278,6 +2440,7 @@
     "rate_basic": 3.71,
     "rate_max": 3.71,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2292,6 +2455,7 @@
     "rate_basic": 3.71,
     "rate_max": 4.01,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2306,6 +2470,7 @@
     "rate_basic": 4.16,
     "rate_max": 5.66,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2320,6 +2485,7 @@
     "rate_basic": 4.13,
     "rate_max": 5.63,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2334,6 +2500,7 @@
     "rate_basic": 4.11,
     "rate_max": 5.61,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2348,6 +2515,7 @@
     "rate_basic": 4.24,
     "rate_max": 5.74,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2362,6 +2530,7 @@
     "rate_basic": 3.48,
     "rate_max": 3.68,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2376,6 +2545,7 @@
     "rate_basic": 3.68,
     "rate_max": 3.88,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2390,6 +2560,7 @@
     "rate_basic": 3.82,
     "rate_max": 3.82,
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2404,20 +2575,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
-    "deadline": "상시모집",
-    "trend_score": 0
-  },
-  {
-    "id": "020000_CR0001C",
-    "type": "개인신용대출",
-    "name": "협약금리 外 신용대출상품",
-    "bank": "우리은행",
-    "join_way": "영업점,인터넷,스마트폰",
-    "join_member": "",
-    "spcl_cnd": "",
-    "rate_basic": "",
-    "rate_max": "",
-    "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2432,20 +2590,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
-    "deadline": "상시모집",
-    "trend_score": 0
-  },
-  {
-    "id": "020000_SC001217_1",
-    "type": "개인신용대출",
-    "name": "개인신용대출",
-    "bank": "한국스탠다드차타드은행",
-    "join_way": "영업점,스마트폰",
-    "join_member": "",
-    "spcl_cnd": "",
-    "rate_basic": "",
-    "rate_max": "",
-    "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2460,6 +2605,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2474,6 +2620,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2488,6 +2635,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2502,6 +2650,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "대구",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2516,20 +2665,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
-    "deadline": "상시모집",
-    "trend_score": 0
-  },
-  {
-    "id": "020000_1301",
-    "type": "개인신용대출",
-    "name": "ONE신용대출",
-    "bank": "부산은행",
-    "join_way": "영업점,스마트폰",
-    "join_member": "",
-    "spcl_cnd": "",
-    "rate_basic": "",
-    "rate_max": "",
-    "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2544,6 +2680,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "부산",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2558,6 +2695,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2572,6 +2710,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2586,6 +2725,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "광주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2600,6 +2740,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2614,6 +2755,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "제주",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2628,6 +2770,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2642,6 +2785,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2656,6 +2800,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전북",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2670,6 +2815,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2684,6 +2830,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2698,13 +2845,14 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "경남",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_21",
     "type": "개인신용대출",
-    "name": "일반신용\n대출",
+    "name": "일반신용 대출",
     "bank": "중소기업은행",
     "join_way": "영업점,스마트폰,모집인",
     "join_member": "",
@@ -2712,13 +2860,14 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
   {
     "id": "020000_31",
     "type": "개인신용대출",
-    "name": "마이너스\n한도대출",
+    "name": "마이너스 한도대출",
     "bank": "중소기업은행",
     "join_way": "영업점,스마트폰,모집인",
     "join_member": "",
@@ -2726,6 +2875,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2740,6 +2890,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2754,6 +2905,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2768,6 +2920,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2782,6 +2935,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2796,6 +2950,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2810,6 +2965,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2824,6 +2980,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2838,6 +2995,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2852,6 +3010,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2866,6 +3025,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2880,6 +3040,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2894,6 +3055,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2908,6 +3070,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2922,6 +3085,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2936,6 +3100,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2950,6 +3115,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2964,6 +3130,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2978,6 +3145,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -2992,6 +3160,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3006,6 +3175,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3020,6 +3190,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3034,6 +3205,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3048,6 +3220,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3062,6 +3235,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3076,6 +3250,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3090,6 +3265,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3104,6 +3280,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3118,6 +3295,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3132,6 +3310,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3146,6 +3325,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3160,6 +3340,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3174,6 +3355,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3188,6 +3370,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3202,6 +3385,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3216,6 +3400,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3230,6 +3415,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3244,6 +3430,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3258,6 +3445,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3272,6 +3460,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3286,6 +3475,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3300,6 +3490,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3314,6 +3505,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3328,6 +3520,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3342,6 +3535,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3356,6 +3550,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3370,6 +3565,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3384,6 +3580,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   },
@@ -3398,6 +3595,7 @@
     "rate_basic": "",
     "rate_max": "",
     "url": "https://finlife.fss.or.kr/finlife/main/contents.do?menuNo=700000",
+    "region": "전국",
     "deadline": "상시모집",
     "trend_score": 0
   }
