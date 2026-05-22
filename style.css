@@ -1,5 +1,5 @@
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   전국민 혜택존 v2 - 4×5 그리드 + 지역 필터
+   전국민 혜택존 v3 - 정렬 통일 + 사이드바 개선
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ */
 
 /* ===== RESET & BASE ===== */
@@ -15,12 +15,11 @@ body {
 a { color: var(--accent-color); text-decoration: none; }
 a:hover { opacity: 0.85; }
 
-/* 스크롤바 */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: var(--bg-primary); }
 ::-webkit-scrollbar-thumb { background: var(--border-color); border-radius: 4px; }
 
-/* ===== CSS 변수 (라이트 모드) ===== */
+/* ===== CSS 변수 (라이트) ===== */
 :root {
   --bg-primary: #f5f6fa;
   --bg-secondary: #ffffff;
@@ -41,6 +40,7 @@ a:hover { opacity: 0.85; }
   --region-bg: #e2e8f0;
   --region-active-bg: #2563eb;
   --region-active-text: #ffffff;
+  --max-width: 1400px;
 }
 
 /* ===== 다크 모드 ===== */
@@ -66,6 +66,14 @@ a:hover { opacity: 0.85; }
   --region-active-text: #ffffff;
 }
 
+/* ===== 공통 중앙 컨테이너 ===== */
+.center-box {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 /* ===== HEADER ===== */
 .hd {
   background: var(--bg-secondary);
@@ -75,7 +83,7 @@ a:hover { opacity: 0.85; }
   z-index: 1000;
 }
 .hd-inner {
-  max-width: 1400px;
+  max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 20px;
   display: flex;
@@ -98,8 +106,6 @@ a:hover { opacity: 0.85; }
   margin-left: 8px;
   font-weight: 400;
 }
-
-/* 다크모드 토글 */
 .theme-toggle {
   margin-left: auto;
   background: var(--bg-primary);
@@ -110,16 +116,19 @@ a:hover { opacity: 0.85; }
   font-size: 16px;
   transition: all .2s;
 }
-.theme-toggle:hover {
-  background: var(--border-color);
-}
+.theme-toggle:hover { background: var(--border-color); }
 
-/* ===== 카테고리 탭 ===== */
-.nav-tabs {
-  display: flex;
-  gap: 0;
+/* ===== 카테고리 탭 — 중앙 정렬 ===== */
+.tabs-outer {
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border-color);
+}
+.nav-tabs {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  gap: 0;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
@@ -144,13 +153,15 @@ a:hover { opacity: 0.85; }
   border-bottom-color: var(--accent-color);
 }
 
-/* ===== 지역 필터 (2줄) ===== */
-.region-filter {
+/* ===== 지역 필터 — 중앙 정렬 ===== */
+.region-outer {
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border-color);
-  padding: 10px 20px;
-  max-width: 1400px;
+}
+.region-filter {
+  max-width: var(--max-width);
   margin: 0 auto;
+  padding: 10px 20px;
 }
 .region-row {
   display: flex;
@@ -160,9 +171,7 @@ a:hover { opacity: 0.85; }
   -webkit-overflow-scrolling: touch;
   margin-bottom: 6px;
 }
-.region-row:last-child {
-  margin-bottom: 0;
-}
+.region-row:last-child { margin-bottom: 0; }
 .region-row::-webkit-scrollbar { display: none; }
 .region-btn {
   padding: 5px 14px;
@@ -194,20 +203,14 @@ a:hover { opacity: 0.85; }
 
 /* ===== 메인 레이아웃 ===== */
 .benefits-wrap {
-  max-width: 1400px;
+  max-width: var(--max-width);
   margin: 0 auto;
   padding: 20px;
   display: flex;
   gap: 24px;
 }
-.main-col {
-  flex: 1;
-  min-width: 0;
-}
-.side-col {
-  width: 300px;
-  flex-shrink: 0;
-}
+.main-col { flex: 1; min-width: 0; }
+.side-col { width: 300px; flex-shrink: 0; }
 
 /* ===== 4×5 카드 그리드 ===== */
 .card-grid {
@@ -235,13 +238,7 @@ a:hover { opacity: 0.85; }
   border-color: var(--accent-color);
 }
 
-/* 카드 상단 배지 영역 */
-.card-badges {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  margin-bottom: 10px;
-}
+.card-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
 .badge {
   display: inline-block;
   padding: 2px 8px;
@@ -270,13 +267,11 @@ a:hover { opacity: 0.85; }
   font-weight: 500;
   font-size: 10px;
 }
-
 @keyframes badge-pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.5; }
 }
 
-/* 카드 본문 */
 .card-title {
   font-size: 14px;
   font-weight: 700;
@@ -315,7 +310,6 @@ a:hover { opacity: 0.85; }
   max-width: 60%;
 }
 
-/* 금융 카드 금리 표시 */
 .card-rate {
   font-size: 18px;
   font-weight: 800;
@@ -327,11 +321,8 @@ a:hover { opacity: 0.85; }
   color: var(--text-muted);
 }
 
-/* ===== 더 보기 버튼 ===== */
-.load-more-wrap {
-  text-align: center;
-  padding: 24px 0;
-}
+/* ===== 더 보기 ===== */
+.load-more-wrap { text-align: center; padding: 24px 0; }
 .load-more-btn {
   padding: 12px 40px;
   font-size: 14px;
@@ -348,7 +339,6 @@ a:hover { opacity: 0.85; }
   color: #ffffff;
 }
 
-/* 결과 없음 */
 .empty-state {
   text-align: center;
   padding: 60px 20px;
@@ -357,7 +347,6 @@ a:hover { opacity: 0.85; }
   grid-column: 1 / -1;
 }
 
-/* 결과 카운트 */
 .result-info {
   padding: 12px 0;
   font-size: 13px;
@@ -366,10 +355,7 @@ a:hover { opacity: 0.85; }
   justify-content: space-between;
   align-items: center;
 }
-.result-count {
-  font-weight: 600;
-  color: var(--accent-color);
-}
+.result-count { font-weight: 600; color: var(--accent-color); }
 
 /* ===== 사이드바 ===== */
 .sidebar-section {
@@ -397,9 +383,7 @@ a:hover { opacity: 0.85; }
   cursor: pointer;
   transition: background .15s;
 }
-.sidebar-item:last-child {
-  border-bottom: none;
-}
+.sidebar-item:last-child { border-bottom: none; }
 .sidebar-item:hover {
   background: var(--bg-primary);
   margin: 0 -8px;
@@ -428,8 +412,6 @@ a:hover { opacity: 0.85; }
   padding: 1px 6px;
   flex-shrink: 0;
 }
-
-/* 사이드바 업데이트 시간 */
 .sidebar-update {
   text-align: center;
   font-size: 11px;
@@ -454,9 +436,7 @@ a:hover { opacity: 0.85; }
   white-space: nowrap;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
-.toast.show {
-  bottom: 30px;
-}
+.toast.show { bottom: 30px; }
 
 /* ===== 로딩 ===== */
 .loading {
@@ -467,81 +447,32 @@ a:hover { opacity: 0.85; }
   grid-column: 1 / -1;
 }
 
-/* 숨김 */
 .blog-posts { display: none; }
 .hidden { display: none !important; }
 
 /* ===== 반응형 ===== */
-
-/* 태블릿 (3열) */
 @media (max-width: 1200px) {
-  .card-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .side-col {
-    width: 260px;
-  }
+  .card-grid { grid-template-columns: repeat(3, 1fr); }
+  .side-col { width: 260px; }
 }
-
-/* 작은 태블릿 (2열 + 사이드바 숨김) */
 @media (max-width: 900px) {
-  .benefits-wrap {
-    flex-direction: column;
-  }
-  .side-col {
-    width: 100%;
-  }
-  .card-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .hd-inner {
-    height: 48px;
-  }
-  .logo {
-    font-size: 17px;
-  }
-  .logo-sub {
-    display: none;
-  }
+  .benefits-wrap { flex-direction: column; }
+  .side-col { width: 100%; }
+  .card-grid { grid-template-columns: repeat(2, 1fr); }
+  .hd-inner { height: 48px; }
+  .logo { font-size: 17px; }
+  .logo-sub { display: none; }
 }
-
-/* 모바일 (2열) */
 @media (max-width: 600px) {
-  .card-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-  }
-  .card {
-    padding: 12px;
-    min-height: 150px;
-  }
-  .card-title {
-    font-size: 13px;
-  }
-  .card-desc {
-    font-size: 11px;
-    -webkit-line-clamp: 1;
-  }
-  .card-meta {
-    font-size: 10px;
-  }
-  .nav-tab {
-    padding: 10px 14px;
-    font-size: 13px;
-  }
-  .region-btn {
-    padding: 4px 10px;
-    font-size: 11px;
-  }
-  .benefits-wrap {
-    padding: 12px;
-    gap: 16px;
-  }
+  .card-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .card { padding: 12px; min-height: 150px; }
+  .card-title { font-size: 13px; }
+  .card-desc { font-size: 11px; -webkit-line-clamp: 1; }
+  .card-meta { font-size: 10px; }
+  .nav-tab { padding: 10px 14px; font-size: 13px; }
+  .region-btn { padding: 4px 10px; font-size: 11px; }
+  .benefits-wrap { padding: 12px; gap: 16px; }
 }
-
-/* 아주 작은 모바일 (1열) */
 @media (max-width: 380px) {
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
+  .card-grid { grid-template-columns: 1fr; }
 }
