@@ -21,7 +21,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005001",
     "region": "전국",
     "deadline": "상시모집",
-    "trend_score": 1.08
+    "trend_score": 1.18
   },
   {
     "id": "138300000016",
@@ -57,7 +57,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
     "region": "전국",
     "deadline": "상시모집",
-    "trend_score": 72.92
+    "trend_score": 72.97
   },
   {
     "id": "161300000077",
@@ -81,7 +81,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099",
     "region": "전국",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "300000000165",
@@ -117,7 +117,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000140",
     "region": "서울",
     "deadline": "상시모집",
-    "trend_score": 19.09
+    "trend_score": 19.56
   },
   {
     "id": "305000000275",
@@ -273,7 +273,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000096",
     "region": "전국",
     "deadline": "상시모집",
-    "trend_score": 19.09
+    "trend_score": 19.56
   },
   {
     "id": "337000000121",
@@ -369,7 +369,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000113",
     "region": "경기",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "391000000144",
@@ -381,7 +381,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000144",
     "region": "경기",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "391000000152",
@@ -537,7 +537,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000515",
     "region": "경기",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "416000000264",
@@ -609,7 +609,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/443000000661",
     "region": "충북",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "447000000113",
@@ -657,7 +657,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000242",
     "region": "충남",
     "deadline": "상시모집",
-    "trend_score": 4.99
+    "trend_score": 4.89
   },
   {
     "id": "453000000172",
@@ -873,7 +873,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/494000000130",
     "region": "전남",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "497000000130",
@@ -921,7 +921,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000103",
     "region": "경북",
     "deadline": "상시모집",
-    "trend_score": 71.74
+    "trend_score": 76.15
   },
   {
     "id": "515000000169",
@@ -1065,7 +1065,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000347",
     "region": "충남",
     "deadline": "상시모집",
-    "trend_score": 8.32
+    "trend_score": 8.5
   },
   {
     "id": "569000000350",
@@ -1089,7 +1089,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000393",
     "region": "세종",
     "deadline": "상시모집",
-    "trend_score": 8.32
+    "trend_score": 8.5
   },
   {
     "id": "571000000190",
@@ -1125,7 +1125,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000000127",
     "region": "서울",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "611000019603",
@@ -1257,7 +1257,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
     "region": "광주",
     "deadline": "상시모집",
-    "trend_score": 72.92
+    "trend_score": 72.97
   },
   {
     "id": "630000000656",
@@ -1329,7 +1329,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000678",
     "region": "강원",
     "deadline": "상시모집",
-    "trend_score": 19.09
+    "trend_score": 19.56
   },
   {
     "id": "646000000136",
@@ -1353,7 +1353,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001055",
     "region": "경남",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "650000000269",
@@ -1377,7 +1377,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001119",
     "region": "제주",
     "deadline": "상시모집",
-    "trend_score": 10.4
+    "trend_score": 10.36
   },
   {
     "id": "654000000020",
@@ -1449,7 +1449,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000026",
     "region": "전국",
     "deadline": "상시모집",
-    "trend_score": 62.68
+    "trend_score": 66.42
   },
   {
     "id": "B27000100035",
