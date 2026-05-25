@@ -646,64 +646,326 @@ def parse_deadline(apply_date):
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# [3] 💡 금감원 금융상품 API → finance
+# [3] 💡 금융·재테크 → 서민금융 + 정부지원 대출 + 이자감면
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+# ★ 금융·재테크 키워드 (정부24 API에서 추가 수집)
+FINANCE_GOV_KEYWORDS = [
+    # ── 서민·저신용 대출 ──
+    "햇살론", "새희망홀씨", "미소금융", "바꿔드림론",
+    "서민대출", "서민금융", "저신용 대출", "저소득 대출",
+    "긴급대출", "긴급생계대출",
+    "소액대출", "소액생계", "무담보 대출",
+    
+    # ── 정부 지원 대출 ──
+    "전세자금대출", "전세대출", "버팀목대출",
+    "주택구입자금", "디딤돌대출", "보금자리론",
+    "학자금대출", "든든학자금",
+    
+    # ── 대출이자 감면/지원 ──
+    "이자지원", "이자감면", "이자보전", "이자차액",
+    "금리인하", "금리우대", "금리감면",
+    "대출이자 지원", "대출이자 감면",
+    
+    # ── 청년 금융 ──
+    "청년도약계좌", "청년내일저축", "청년내일채움",
+    "청년희망적금", "청년우대",
+    "청년창업대출", "청년전세", "청년대출",
+    
+    # ── 신용회복 ──
+    "신용회복", "채무조정", "채무감면", "개인회생",
+    "워크아웃", "신용상담",
+    
+    # ── 보증 ──
+    "보증지원", "보증서 발급", "신용보증",
+    "주택보증", "전세보증금 반환",
+    
+    # ── 금융교육/상담 ──
+    "금융상담", "재무상담", "서민금융통합지원",
+    
+    # ── 지자체 금융 혜택 ──
+    "이자 지원", "이자 보전",
+    "대출 지원", "대출 이자",
+]
+
+# 금융 블랙리스트 (이건 제외)
+FINANCE_BLACKLIST = [
+    "사업자 대출", "기업 대출", "법인",
+    "수출 금융", "무역 금융",
+]
+
+
 def get_finance():
-    """금감원 금융상품통합비교공시 API에서 예금/적금/대출 수집."""
-    if not FSS_API_KEY:
-        print("\n[3] 금감원 — API 키 없음, 건너뜀")
+    """
+    금융·재테크: 3개 소스에서 수집
+      A) 정부24 API → 서민대출, 이자감면, 청년금융 혜택
+      B) 기업마당 API → 소상공인 이자지원 (business와 중복 가능하지만 별도 표시)
+      C) 금감원 API → 서민전용 대출상품만 (적금X)
+    """
+    print("\n[3] 💡 금융·재테크 수집 중...")
+    
+    all_items = []
+    seen_names = set()
+    
+    # ──────────────────────────────────
+    # A) 정부24에서 금융 관련 혜택 추출
+    # ──────────────────────────────────
+    gov_finance = get_finance_from_gov24()
+    for item in gov_finance:
+        key = item["name"]
+        if key not in seen_names:
+            seen_names.add(key)
+            all_items.append(item)
+    print(f"  A) 정부24 금융혜택: {len(gov_finance)}건")
+    
+    # ──────────────────────────────────
+    # B) 기업마당에서 이자지원/금융 추출
+    # ──────────────────────────────────
+    biz_finance = get_finance_from_bizinfo()
+    for item in biz_finance:
+        key = item["name"]
+        if key not in seen_names:
+            seen_names.add(key)
+            all_items.append(item)
+    print(f"  B) 기업마당 금융혜택: {len(biz_finance)}건")
+    
+    # ──────────────────────────────────
+    # C) 금감원 서민전용 상품만
+    # ──────────────────────────────────
+    fss_finance = get_finance_from_fss()
+    for item in fss_finance:
+        key = f"{item.get('bank','')}_{item['name']}"
+        if key not in seen_names:
+            seen_names.add(key)
+            all_items.append(item)
+    print(f"  C) 금감원 서민금융: {len(fss_finance)}건")
+    
+    # 중복 제거
+    all_items = dedup_by_name_region(all_items)
+    
+    print(f"  💡 금융·재테크 최종: {len(all_items)}건")
+    return all_items
+
+
+def get_finance_from_gov24():
+    """정부24 API에서 금융·대출·이자감면 관련 항목만 추출."""
+    if not DATA_API_KEY:
         return []
+    
+    base_url = "https://api.odcloud.kr/api/gov24/v3/serviceList"
+    
+    # 총 건수 확인
+    check_url = f"{base_url}?page=1&perPage=1&serviceKey={DATA_API_KEY}"
+    check = fetch_url(check_url)
+    if not check or "totalCount" not in check:
+        return []
+    
+    total = check["totalCount"]
+    per_page = 500
+    total_pages = (total + per_page - 1) // per_page
+    
+    items = []
+    seen_ids = set()
+    
+    for page in range(1, total_pages + 1):
+        url = f"{base_url}?page={page}&perPage={per_page}&serviceKey={DATA_API_KEY}"
+        result = fetch_url(url, retries=3)
+        
+        if not result or "data" not in result:
+            continue
+        
+        for item in result["data"]:
+            sid = item.get("서비스ID", "")
+            if not sid or sid in seen_ids:
+                continue
+            seen_ids.add(sid)
+            
+            name = item.get("서비스명", "") or ""
+            desc = item.get("서비스목적요약", "") or ""
+            target = item.get("지원대상", "") or ""
+            org = item.get("소관기관명", "") or ""
+            how = item.get("신청방법", "") or ""
+            combined = name + desc + target
+            
+            # 금융 키워드 매칭
+            if not match_any(combined, FINANCE_GOV_KEYWORDS):
+                continue
+            
+            # 블랙리스트
+            if match_any(name, NAME_BLACKLIST):
+                continue
+            if match_any(combined, FINANCE_BLACKLIST):
+                continue
+            
+            region = extract_region(org)
+            
+            items.append({
+                "id": sid,
+                "name": name,
+                "desc": strip_html(desc)[:200],
+                "org": org,
+                "target": strip_html(target)[:300],
+                "how": how,
+                "url": build_gov_url(sid, org),
+                "region": region,
+                "deadline": "상시",
+                "trend_score": 0,
+                "source": "정부24",
+                "finance_type": classify_finance_type(name + desc),
+            })
+        
+        time.sleep(0.2)
+    
+    return items
 
-    print("\n[3] 금감원 금융상품 수집 중...")
 
-    # ★ https로 변경 (http → GitHub Actions에서 차단 가능)
+def get_finance_from_bizinfo():
+    """기업마당에서 이자지원/금융 관련 항목 추출."""
+    if not BIZ_API_KEY:
+        return []
+    
+    base_url = "https://www.bizinfo.go.kr/uss/rss/bizinfoApi.do"
+    
+    # 금융(01) 분야만
+    items = []
+    seen_ids = set()
+    
+    for page_idx in range(1, 6):  # 5페이지
+        url = (
+            f"{base_url}?crtfcKey={BIZ_API_KEY}"
+            f"&dataType=json"
+            f"&pageUnit=50"
+            f"&pageIndex={page_idx}"
+            f"&searchLclasId=01"  # 금융 분야
+        )
+        result = fetch_url(url)
+        if not result:
+            continue
+        
+        raw_items = extract_biz_items(result)
+        
+        for item in raw_items:
+            pid = item.get("pblancId") or item.get("seq") or ""
+            title = strip_html(item.get("pblancNm") or item.get("title") or "")
+            desc = strip_html(item.get("bsnsSumryCn") or item.get("description") or "")
+            
+            if not title or pid in seen_ids:
+                continue
+            seen_ids.add(pid)
+            
+            combined = title + desc
+            
+            # 개인/서민 대상 금융만 (기업 전용 제외)
+            finance_keywords = [
+                "이자지원", "이자보전", "이자차액", "이자감면",
+                "이차보전", "금리", "대출", "자금",
+                "소상공인", "자영업", "청년창업",
+            ]
+            if not match_any(combined, finance_keywords):
+                continue
+            if match_any(combined, BIZ_BLACKLIST):
+                continue
+            
+            # 지역
+            hashtags = item.get("hashTags", "") or ""
+            org = item.get("jrsdInsttNm") or item.get("author") or ""
+            region = extract_region(org)
+            if region == "전국":
+                region = extract_region(hashtags)
+            
+            # URL
+            link = item.get("pblancUrl") or item.get("link") or ""
+            if not link and pid:
+                link = f"https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId={pid}"
+            
+            apply_date = item.get("reqstBeginEndDe") or item.get("reqstDt") or ""
+            
+            items.append({
+                "id": str(pid),
+                "name": title,
+                "desc": desc[:200],
+                "org": org,
+                "target": item.get("trgetNm", "") or "",
+                "how": "",
+                "url": link,
+                "region": region,
+                "deadline": parse_deadline(apply_date),
+                "trend_score": 0,
+                "source": "기업마당",
+                "finance_type": classify_finance_type(title + desc),
+            })
+        
+        time.sleep(0.5)
+    
+    return items
+
+
+def extract_biz_items(result):
+    """기업마당 API 응답에서 item 배열 추출 (다양한 구조 대응)."""
+    if isinstance(result, list):
+        return result
+    
+    if not isinstance(result, dict):
+        return []
+    
+    json_array = result.get("jsonArray", result)
+    
+    if isinstance(json_array, dict):
+        items = json_array.get("item", [])
+        if isinstance(items, dict):
+            return [items]
+        if isinstance(items, list):
+            return items
+        # item 키가 없으면 다른 리스트 키 탐색
+        for key, val in json_array.items():
+            if isinstance(val, list) and len(val) > 0 and isinstance(val[0], dict):
+                if "pblancNm" in val[0] or "title" in val[0]:
+                    return val
+    
+    if isinstance(json_array, list):
+        return json_array
+    
+    return []
+
+
+def get_finance_from_fss():
+    """금감원 API에서 서민전용 대출상품만 수집 (적금/예금 제외)."""
+    if not FSS_API_KEY:
+        return []
+    
+    # ★ 대출만 수집 (예금/적금 제외!)
     products = {
-        "deposit": {
-            "url": "https://finlife.fss.or.kr/finlifeapi/depositProductsSearch.json",
-            "label": "정기예금",
-            "type": "savings",  # 예금/적금 구분
-        },
-        "saving": {
-            "url": "https://finlife.fss.or.kr/finlifeapi/savingProductsSearch.json",
-            "label": "적금",
-            "type": "savings",
-        },
         "mortgage": {
             "url": "https://finlife.fss.or.kr/finlifeapi/mortgageLoanProductsSearch.json",
             "label": "주택담보대출",
-            "type": "loan",
         },
         "jeonse": {
             "url": "https://finlife.fss.or.kr/finlifeapi/rentHouseLoanProductsSearch.json",
             "label": "전세자금대출",
-            "type": "loan",
         },
         "credit": {
             "url": "https://finlife.fss.or.kr/finlifeapi/creditLoanProductsSearch.json",
             "label": "개인신용대출",
-            "type": "loan",
         },
     }
-
+    
     BANK_REGION = {
         "부산은행": "부산", "BNK부산은행": "부산",
         "경남은행": "경남", "BNK경남은행": "경남",
         "광주은행": "광주",
         "제주은행": "제주",
         "전북은행": "전북", "JB전북은행": "전북",
-        "아이엠뱅크": "대구", "iM뱅크": "대구", "DGB대구은행": "대구",
+        "아이엠뱅크": "대구", "iM뱅크": "대구",
     }
-
-    fss_sectors = ["020000", "030200", "030300"]  # 은행 + 저축은행 + 신협
-
-    all_items = []
-    seen_products = set()
-
+    
+    fss_sectors = ["020000", "030200"]  # 은행 + 저축은행
+    
+    items = []
+    seen = set()
+    
     for prod_key, prod_info in products.items():
         for sector in fss_sectors:
-            # ★ 다중 페이지 수집
-            for page_no in range(1, 4):
+            for page_no in range(1, 3):
                 url = (
                     f"{prod_info['url']}"
                     f"?auth={FSS_API_KEY}"
@@ -711,118 +973,126 @@ def get_finance():
                     f"&pageNo={page_no}"
                 )
                 data = fetch_url(url)
-
+                
                 if not data or "result" not in data:
-                    break  # 해당 섹터 페이지 없으면 중단
-
-                result = data["result"]
-                base_list = result.get("baseList", [])
-                option_list = result.get("optionList", [])
-
+                    break
+                
+                base_list = data["result"].get("baseList", [])
+                option_list = data["result"].get("optionList", [])
+                
                 if not base_list:
-                    break  # 더 이상 데이터 없음
-
-                # 옵션(금리) 매핑 — 같은 상품의 최고 금리 찾기
+                    break
+                
+                # 금리 매핑
                 rate_map = {}
                 for opt in option_list:
                     code = opt.get("fin_prdt_cd", "")
                     if code not in rate_map:
-                        rate_map[code] = {
-                            "intr_rate": opt.get("intr_rate"),
-                            "intr_rate2": opt.get("intr_rate2"),
-                            "lend_rate_min": opt.get("lend_rate_min"),
-                            "lend_rate_max": opt.get("lend_rate_max"),
-                            "lend_rate_avg": opt.get("lend_rate_avg"),
-                        }
+                        rate_map[code] = opt
                     else:
-                        # 더 높은 금리 갱신
+                        # 최저금리 갱신
                         existing = rate_map[code]
-                        for field in ["intr_rate", "intr_rate2"]:
+                        for field in ["lend_rate_min"]:
                             new_val = opt.get(field)
                             old_val = existing.get(field)
-                            if new_val and (not old_val or float(new_val) > float(old_val)):
-                                existing[field] = new_val
-
+                            if new_val and old_val:
+                                try:
+                                    if float(new_val) < float(old_val):
+                                        existing[field] = new_val
+                                except (ValueError, TypeError):
+                                    pass
+                
                 for item in base_list:
                     code = item.get("fin_prdt_cd", "")
                     bank = item.get("kor_co_nm", "")
                     name = item.get("fin_prdt_nm", "").replace("\n", " ").strip()
-
+                    
                     dedup_key = f"{bank}_{name}"
-                    if dedup_key in seen_products:
+                    if dedup_key in seen:
                         continue
-                    seen_products.add(dedup_key)
-
+                    seen.add(dedup_key)
+                    
                     rates = rate_map.get(code, {})
-
-                    # ★ 필터: 예금/적금은 최고금리 2.5% 이상만
-                    if prod_info["type"] == "savings":
-                        max_rate = rates.get("intr_rate2") or rates.get("intr_rate")
-                        try:
-                            if max_rate and float(max_rate) < 2.5:
-                                continue
-                        except (ValueError, TypeError):
-                            pass
-
-                    # 지방은행 매핑
+                    
+                    # ★ 서민·저금리 우선 (최저금리 6% 이하만)
+                    min_rate = rates.get("lend_rate_min") or rates.get("lend_rate_avg")
+                    try:
+                        if min_rate and float(min_rate) > 6.0:
+                            continue
+                    except (ValueError, TypeError):
+                        pass
+                    
                     region = "전국"
                     for bank_name, bank_region in BANK_REGION.items():
                         if bank_name in bank:
                             region = bank_region
                             break
-
-                    # 대출 금리 정리
-                    if prod_info["type"] == "loan":
-                        rate_basic = rates.get("lend_rate_min") or rates.get("lend_rate_avg") or ""
-                        rate_max = rates.get("lend_rate_max") or ""
-                    else:
-                        rate_basic = rates.get("intr_rate") or ""
-                        rate_max = rates.get("intr_rate2") or ""
-
-                    # 상품별 상세 URL
-                    detail_url = build_fss_url(prod_key, sector)
-
-                    all_items.append({
-                        "id": f"{sector}_{code}",
-                        "type": prod_info["label"],
-                        "name": name,
-                        "bank": bank,
-                        "join_way": item.get("join_way", ""),
-                        "join_member": (item.get("join_member", "") or "")[:150],
-                        "spcl_cnd": (item.get("spcl_cnd", "") or "")[:150],
-                        "rate_basic": rate_basic,
-                        "rate_max": rate_max,
+                    
+                    rate_basic = rates.get("lend_rate_min") or rates.get("lend_rate_avg") or ""
+                    rate_max = rates.get("lend_rate_max") or ""
+                    
+                    menu_map = {
+                        "mortgage": "700004",
+                        "jeonse": "700004",
+                        "credit": "700004",
+                    }
+                    menu_no = menu_map.get(prod_key, "700004")
+                    detail_url = f"https://finlife.fss.or.kr/finlife/main/contents.do?menuNo={menu_no}"
+                    
+                    # 금리 표시용 설명
+                    rate_desc = ""
+                    if rate_basic:
+                        rate_desc = f"최저 {rate_basic}%"
+                        if rate_max:
+                            rate_desc += f" ~ 최대 {rate_max}%"
+                    
+                    items.append({
+                        "id": f"fss_{sector}_{code}",
+                        "name": f"[{prod_info['label']}] {name}",
+                        "desc": f"{bank} | {rate_desc} | {item.get('join_member', '')[:80]}",
+                        "org": bank,
+                        "target": (item.get("join_member", "") or "")[:200],
+                        "how": item.get("join_way", ""),
                         "url": detail_url,
                         "region": region,
                         "deadline": "상시",
                         "trend_score": 0,
+                        "source": "금감원",
+                        "finance_type": prod_info["label"],
+                        "rate_basic": rate_basic,
+                        "rate_max": rate_max,
                     })
-
+                
                 time.sleep(0.3)
-
-    # ★ 정렬: 예금/적금은 최고금리 높은 순, 대출은 최저금리 낮은 순
-    savings = [x for x in all_items if x["type"] in ("정기예금", "적금")]
-    loans = [x for x in all_items if x["type"] not in ("정기예금", "적금")]
-
-    savings.sort(key=lambda x: float(x.get("rate_max") or 0), reverse=True)
-    loans.sort(key=lambda x: float(x.get("rate_basic") or 999))
-
-    all_items = savings + loans
-    print(f"  💡 금융상품: {len(all_items)}건 (예적금 {len(savings)}, 대출 {len(loans)})")
-    return all_items
+    
+    # ★ 최저금리 낮은 순 정렬 (서민에게 유리한 순서)
+    items.sort(key=lambda x: float(x.get("rate_basic") or 999))
+    
+    return items
 
 
-def build_fss_url(prod_key, sector):
-    """금감원 상품 유형별 상세 URL."""
-    menu_map = {
-        "deposit": "700000",
-        "saving": "700000",
-        "mortgage": "700004",
-        "jeonse": "700004",
-        "credit": "700004",
-    }
-    menu_no = menu_map.get(prod_key, "700000")
-    return f"https://finlife.fss.or.kr/finlife/main/contents.do?menuNo={menu_no}"
+def classify_finance_type(text):
+    """금융 항목의 세부 유형 분류."""
+    if not text:
+        return "기타"
+    
+    type_map = [
+        ("서민대출", ["햇살론", "새희망홀씨", "미소금융", "바꿔드림론", "서민대출", "서민금융", "긴급대출", "소액대출"]),
+        ("대출이자 감면", ["이자지원", "이자감면", "이자보전", "이차보전", "이자차액", "금리인하", "금리우대"]),
+        ("전세·주택대출", ["전세자금", "전세대출", "버팀목", "디딤돌", "보금자리론", "주택구입", "주택담보"]),
+        ("청년 금융", ["청년도약", "청년내일", "청년희망", "청년우대", "청년창업대출", "청년전세", "청년대출"]),
+        ("신용회복", ["신용회복", "채무조정", "채무감면", "개인회생", "워크아웃"]),
+        ("보증지원", ["보증지원", "보증서 발급", "신용보증", "전세보증금 반환"]),
+        ("학자금", ["학자금", "든든학자금"]),
+        ("개인신용대출", ["개인신용", "신용대출"]),
+    ]
+    
+    for type_name, keywords in type_map:
+        for kw in keywords:
+            if kw in text:
+                return type_name
+    
+    return "기타 금융"
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
