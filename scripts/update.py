@@ -1249,12 +1249,16 @@ def main():
         status = "✅" if ok else "❌ 미설정"
         print(f"  {name}: {status}")
 
-    # ── 1단계: API 데이터 수집 ──
+    # ── 1단계: 정부24 → subsidies / housing / medical ──
     subsidies, housing, medical = get_subsidies()
+    
+    # ── 2단계: 기업마당 → business ──
     business = get_business()
+    
+    # ── 3단계: 금융·재테크 (정부24 + 기업마당 + 금감원 통합) ──
     finance = get_finance()
 
-    # ── 2단계: 트렌드 점수 수집 ──
+    # ── 4단계: 트렌드 점수 수집 ──
     naver_scores = get_naver_trends()
     google_scores = get_google_trends()
 
@@ -1265,38 +1269,45 @@ def main():
         combined_scores[kw] = round(n + g, 2)
     save_json("trend_scores.json", combined_scores)
 
-    # ── 3단계: 트렌드 점수 매핑 ──
-    subsidies = apply_trend_scores(subsidies, naver_scores, google_scores)
-    housing   = apply_trend_scores(housing, naver_scores, google_scores)
-    medical   = apply_trend_scores(medical, naver_scores, google_scores)
-    business  = apply_trend_scores(business, naver_scores, google_scores)
-
-    # ★ trend_score 높은 순으로 정렬
+    # ── 5단계: 트렌드 점수 매핑 + 정렬 ──
+    for dataset in [subsidies, housing, medical, business, finance]:
+        apply_trend_scores(dataset, naver_scores, google_scores)
+    
     subsidies.sort(key=lambda x: x.get("trend_score", 0), reverse=True)
     housing.sort(key=lambda x: x.get("trend_score", 0), reverse=True)
     medical.sort(key=lambda x: x.get("trend_score", 0), reverse=True)
     business.sort(key=lambda x: x.get("trend_score", 0), reverse=True)
+    # finance는 유형별 정렬 유지 (서민대출 우선)
+    finance.sort(key=lambda x: (
+        0 if x.get("finance_type") == "서민대출" else
+        1 if x.get("finance_type") == "대출이자 감면" else
+        2 if x.get("finance_type") == "청년 금융" else
+        3 if x.get("finance_type") == "전세·주택대출" else
+        4 if x.get("finance_type") == "신용회복" else
+        5,
+        -x.get("trend_score", 0)
+    ))
 
-    # ── 4단계: JSON 저장 ──
+    # ── 6단계: JSON 저장 ──
     save_json("subsidies.json", subsidies)
     save_json("business.json", business)
     save_json("housing.json", housing)
     save_json("medical.json", medical)
     save_json("finance.json", finance)
 
-    # ── 5단계: 지역별 통계 ──
+    # ── 7단계: 지역별 통계 (★ finance도 포함) ──
     ALL_REGIONS = [
         "전국", "서울", "부산", "대구", "인천", "광주", "대전",
         "울산", "세종", "경기", "강원", "충북", "충남",
         "전북", "전남", "경북", "경남", "제주",
     ]
 
-    all_items = subsidies + housing + medical + business
+    all_items = subsidies + housing + medical + business + finance
     region_stats = {}
     for r in ALL_REGIONS:
         region_stats[r] = sum(1 for x in all_items if x.get("region") == r)
 
-    # ── 6단계: 메타 정보 저장 ──
+    # ── 8단계: 메타 정보 ──
     meta = {
         "updated_at": NOW.strftime("%Y-%m-%d %H:%M:%S"),
         "timezone": "KST",
@@ -1318,8 +1329,18 @@ def main():
     print(f"  🏢 소상공인·정책자금: {len(business)}건")
     print(f"  🏠 주거·부동산: {len(housing)}건")
     print(f"  🏥 의료·건강: {len(medical)}건")
-    print(f"  💡 금융상품: {len(finance)}건")
-    print(f"  📈 트렌드 키워드: {len(combined_scores)}개")
+    print(f"  💡 금융·재테크: {len(finance)}건")
+    
+    # finance 세부 유형별 카운트
+    finance_types = {}
+    for item in finance:
+        ft = item.get("finance_type", "기타")
+        finance_types[ft] = finance_types.get(ft, 0) + 1
+    if finance_types:
+        print(f"\n  💡 금융 세부:")
+        for ft, cnt in sorted(finance_types.items(), key=lambda x: -x[1]):
+            print(f"     {ft}: {cnt}건")
+    
     print(f"\n  📊 지역별:")
     for r in ALL_REGIONS:
         cnt = region_stats.get(r, 0)
