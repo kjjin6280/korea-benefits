@@ -134,15 +134,25 @@
     return f;
   }
   function sortFinance(items) {
-    var dep=[],loan=[];
-    for (var i=0;i<items.length;i++) {
-      var t=items[i].type||'';
-      if (t==='정기예금'||t==='적금') dep.push(items[i]); else loan.push(items[i]);
-    }
-    dep.sort(function(a,b){ return (parseFloat(b.rate_max)||0)-(parseFloat(a.rate_max)||0); });
-    loan.sort(function(a,b){ return (parseFloat(a.rate_basic)||999)-(parseFloat(b.rate_basic)||999); });
-    return dep.concat(loan);
-  }
+  var typeOrder = {
+    '서민대출': 0,
+    '대출이자 감면': 1,
+    '청년 금융': 2,
+    '전세·주택대출': 3,
+    '신용회복': 4,
+    '보증지원': 5,
+    '학자금': 6,
+    '기타 금융': 7
+  };
+  var sorted = items.slice();
+  sorted.sort(function(a, b) {
+    var oa = typeOrder[a.finance_type] !== undefined ? typeOrder[a.finance_type] : 99;
+    var ob = typeOrder[b.finance_type] !== undefined ? typeOrder[b.finance_type] : 99;
+    if (oa !== ob) return oa - ob;
+    return (b.trend_score || 0) - (a.trend_score || 0);
+  });
+  return sorted;
+}
 
   /* ===== 지역 필터 ===== */
   function filterByRegion(items, region) {
