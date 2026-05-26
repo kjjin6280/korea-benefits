@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전국민 혜택존 - 관리자</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, 'Malgun Gothic', sans-serif; background: #f5f5f5; color: #333; }
+.header { background: #1a73e8; color: #fff; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
+.header h1 { font-size: 20px; }
+.header .meta { font-size: 13px; opacity: 0.9; }
+
+.tabs { display: flex; gap: 4px; padding: 12px 24px; background: #fff; border-bottom: 1px solid #ddd; flex-wrap: wrap; }
+.tabs button {
+  padding: 8px 16px; border: 1px solid #ddd; border-radius: 20px;
+  background: #fff; cursor: pointer; font-size: 13px; transition: all 0.2s;
+}
+.tabs button.active { background: #1a73e8; color: #fff; border-color: #1a73e8; }
+.tabs button .count { font-weight: bold; margin-left: 4px; }
+.tabs button .new-badge { color: #e53935; font-weight: bold; margin-left: 4px; }
+
+.toolbar { padding: 12px 24px; background: #fff; border-bottom: 1px solid #eee; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.toolbar input { padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 13px; width: 250px; }
+.toolbar select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 13px; }
+.toolbar button {
+  padding: 8px 16px; border: none; border-radius: 6px; font-size: 13px; cursor: pointer;
+}
+.btn-approve { background: #1a73e8; color: #fff; }
+.btn-reject { background: #e53935; color: #fff; }
+.btn-export { background: #43a047; color: #fff; }
+.btn-select { background: #757575; color: #fff; }
+
+.list { padding: 12px 24px; }
+.item {
+  background: #fff; border: 1px solid #e0e0e0; border-radius: 8px;
+  padding: 14px 16px; margin-bottom: 8px; display: flex; align-items: flex-start; gap: 12px;
+  transition: all 0.2s;
+}
+.item:hover { border-color: #1a73e8; }
+.item.approved { border-left: 4px solid #43a047; }
+.item.rejected { border-left: 4px solid #e53935; opacity: 0.5; }
+.item.new-item { background: #e3f2fd; }
+
+.item input[type="checkbox"] { margin-top: 4px; width: 18px; height: 18px; flex-shrink: 0; }
+.item-body { flex: 1; min-width: 0; }
+.item-title { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+.item-title a { color: #1a73e8; text-decoration: none; }
+.item-title a:hover { text-decoration: underline; }
+.item-desc { font-size: 12px; color: #666; margin-bottom: 6px; line-height: 1.4; }
+.item-meta { display: flex; gap: 8px; flex-wrap: wrap; }
+.badge {
+  display: inline-block; padding: 2px 8px; border-radius: 10px;
+  font-size: 11px; font-weight: 500;
+}
+.badge-region { background: #e3f2fd; color: #1565c0; }
+.badge-new { background: #fce4ec; color: #c62828; }
+.badge-date { background: #f3e5f5; color: #6a1b9a; }
+.badge-type { background: #e8f5e9; color: #2e7d32; }
+.badge-status-approved { background: #c8e6c9; color: #1b5e20; }
+.badge-status-rejected { background: #ffcdd2; color: #b71c1c; }
+
+.export-area {
+  display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.5); z-index: 1000; justify-content: center; align-items: center;
+}
+.export-area.show { display: flex; }
+.export-box {
+  background: #fff; border-radius: 12px; padding: 24px; width: 90%; max-width: 700px; max-height: 80vh;
+}
+.export-box h3 { margin-bottom: 12px; }
+.export-box textarea { width: 100%; height: 300px; font-size: 12px; font-family: monospace; border: 1px solid #ddd; border-radius: 6px; padding: 12px; }
+.export-box .btns { margin-top: 12px; display: flex; gap: 8px; }
+
+.stats { padding: 8px 24px; font-size: 12px; color: #666; background: #fafafa; border-bottom: 1px solid #eee; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🛡️ 전국민 혜택존 관리자</h1>
+  <div class="meta" id="metaInfo">로딩 중...</div>
+</div>
+
+<div class="tabs" id="tabs"></div>
+<div class="stats" id="stats"></div>
+
+<div class="toolbar">
+  <input type="text" id="searchInput" placeholder="🔍 검색 (이름, 기관, 지역...)">
+  <select id="filterRegion">
+    <option value="">전체 지역</option>
+  </select>
+  <select id="filterDate">
+    <option value="">전체 날짜</option>
+    <option value="today">🆕 오늘 신규</option>
+    <option value="yesterday">어제</option>
+    <option value="week">최근 7일</option>
+  </select>
+  <select id="filterStatus">
+    <option value="">전체 상태</option>
+    <option value="pending">⏳ 미결정</option>
+    <option value="approved">✅ 승인</option>
+    <option value="rejected">❌ 거부</option>
+  </select>
+  <button class="btn-select" onclick="selectAll()">전체선택</button>
+  <button class="btn-approve" onclick="approveSelected()">✅ 승인</button>
+  <button class="btn-reject" onclick="rejectSelected()">❌ 거부</button>
+  <button class="btn-export" onclick="showExport()">📋 JSON 내보내기</button>
+</div>
+
+<div class="list" id="list"></div>
+
+<div class="export-area" id="exportArea">
+  <div class="export-box">
+    <h3>📋 approved.json</h3>
+    <p style="font-size:12px;color:#666;margin-bottom:8px;">이 내용을 복사해서 GitHub의 data/approved.json 파일에 붙여넣으세요.</p>
+    <textarea id="exportText" readonly></textarea>
+    <div class="btns">
+      <button class="btn-approve" onclick="copyExport()">📋 복사</button>
+      <button class="btn-reject" onclick="closeExport()">닫기</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const BASE = 'https://raw.githubusercontent.com/kjjin6280/korea-benefits/main/data';
+const CATEGORIES = [
+  { key: 'subsidies', icon: '💰', label: '정부지원·민생' },
+  { key: 'business', icon: '🏢', label: '소상공인·정책자금' },
+  { key: 'housing', icon: '🏠', label: '주거·부동산' },
+  { key: 'medical', icon: '🏥', label: '의료·건강' },
+  { key: 'finance', icon: '💡', label: '금융·재테크' },
+];
+const REGIONS = ['전국','서울','부산','대구','인천','광주','대전','울산','세종','경기','강원','충북','충남','전북','전남','경북','경남','제주'];
+
+let state = { data: {}, meta: {}, approved: {}, currentTab: 'subsidies' };
+let today = '';
+
+async function init() {
+  // 메타 로드
+  try {
+    const metaRes = await fetch(`${BASE}/meta.json?t=${Date.now()}`);
+    state.meta = await metaRes.json();
+    today = state.meta.updated_at ? state.meta.updated_at.split(' ')[0] : new Date().toISOString().split('T')[0];
+    document.getElementById('metaInfo').textContent = `마지막 수집: ${state.meta.updated_at} KST`;
+  } catch(e) {
+    console.error('meta 로드 실패', e);
+    today = new Date().toISOString().split('T')[0];
+  }
+
+  // 승인 목록 로드
+  try {
+    const appRes = await fetch(`${BASE}/approved.json?t=${Date.now()}`);
+    state.approved = await appRes.json();
+  } catch(e) {
+    state.approved = {};
+    CATEGORIES.forEach(c => state.approved[c.key] = { approved: [], rejected: [] });
+  }
+
+  // 데이터 로드
+  for (const cat of CATEGORIES) {
+    try {
+      const res = await fetch(`${BASE}/${cat.key}.json?t=${Date.now()}`);
+      state.data[cat.key] = await res.json();
+    } catch(e) {
+      state.data[cat.key] = [];
+    }
+  }
+
+  // 지역 드롭다운
+  const sel = document.getElementById('filterRegion');
+  REGIONS.forEach(r => { const o = document.createElement('option'); o.value = r; o.textContent = r; sel.appendChild(o); });
+
+  renderTabs();
+  renderList();
+
+  // 이벤트
+  document.getElementById('searchInput').addEventListener('input', renderList);
+  document.getElementById('filterRegion').addEventListener('change', renderList);
+  document.getElementById('filterDate').addEventListener('change', renderList);
+  document.getElementById('filterStatus').addEventListener('change', renderList);
+}
+
+function renderTabs() {
+  const container = document.getElementById('tabs');
+  container.innerHTML = '';
+  CATEGORIES.forEach(cat => {
+    const items = state.data[cat.key] || [];
+    const newCount = items.filter(x => x.collected_date === today).length;
+    const btn = document.createElement('button');
+    btn.className = state.currentTab === cat.key ? 'active' : '';
+    btn.innerHTML = `${cat.icon} ${cat.label}<span class="count">(${items.length})</span>`;
+    if (newCount > 0) btn.innerHTML += `<span class="new-badge">🆕${newCount}</span>`;
+    btn.onclick = () => { state.currentTab = cat.key; renderTabs(); renderList(); };
+    container.appendChild(btn);
+  });
+}
+
+function getStatus(catKey, itemId) {
+  const cat = state.approved[catKey];
+  if (!cat) return 'pending';
+  if (cat.approved && cat.approved.includes(itemId)) return 'approved';
+  if (cat.rejected && cat.rejected.includes(itemId)) return 'rejected';
+  return 'pending';
+}
+
+function setStatus(catKey, itemId, status) {
+  if (!state.approved[catKey]) state.approved[catKey] = { approved: [], rejected: [] };
+  const cat = state.approved[catKey];
+  cat.approved = cat.approved.filter(id => id !== itemId);
+  cat.rejected = cat.rejected.filter(id => id !== itemId);
+  if (status === 'approved') cat.approved.push(itemId);
+  if (status === 'rejected') cat.rejected.push(itemId);
+}
+
+function renderList() {
+  const container = document.getElementById('list');
+  const search = document.getElementById('searchInput').value.toLowerCase();
+  const regionFilter = document.getElementById('filterRegion').value;
+  const dateFilter = document.getElementById('filterDate').value;
+  const statusFilter = document.getElementById('filterStatus').value;
+
+  let items = state.data[state.currentTab] || [];
+
+  // 필터링
+  items = items.filter(item => {
+    const text = (item.name + item.desc + item.org + item.region).toLowerCase();
+    if (search && !text.includes(search)) return false;
+    if (regionFilter && item.region !== regionFilter) return false;
+
+    const cd = item.collected_date || '';
+    if (dateFilter === 'today' && cd !== today) return false;
+    if (dateFilter === 'yesterday') {
+      const y = new Date(today); y.setDate(y.getDate()-1);
+      if (cd !== y.toISOString().split('T')[0]) return false;
+    }
+    if (dateFilter === 'week') {
+      const w = new Date(today); w.setDate(w.getDate()-7);
+      if (cd < w.toISOString().split('T')[0]) return false;
+    }
+
+    const st = getStatus(state.currentTab, item.id);
+    if (statusFilter && st !== statusFilter) return false;
+
+    return true;
+  });
+
+  // 통계
+  const totalAll = state.data[state.currentTab]?.length || 0;
+  const approvedCount = (state.approved[state.currentTab]?.approved || []).length;
+  const rejectedCount = (state.approved[state.currentTab]?.rejected || []).length;
+  const pendingCount = totalAll - approvedCount - rejectedCount;
+  document.getElementById('stats').innerHTML =
+    `전체 ${totalAll}건 | ✅ 승인 ${approvedCount} | ❌ 거부 ${rejectedCount} | ⏳ 미결정 ${pendingCount} | 🔍 표시 ${items.length}건`;
+
+  container.innerHTML = '';
+  items.forEach(item => {
+    const status = getStatus(state.currentTab, item.id);
+    const isNew = item.collected_date === today;
+
+    const div = document.createElement('div');
+    div.className = `item ${status} ${isNew ? 'new-item' : ''}`;
+
+    let badges = '';
+    if (isNew) badges += `<span class="badge badge-new">🆕 신규</span>`;
+    badges += `<span class="badge badge-region">${item.region}</span>`;
+    if (item.collected_date) badges += `<span class="badge badge-date">📅 ${item.collected_date}</span>`;
+    if (item.finance_type) badges += `<span class="badge badge-type">${item.finance_type}</span>`;
+    if (status === 'approved') badges += `<span class="badge badge-status-approved">✅ 승인</span>`;
+    if (status === 'rejected') badges += `<span class="badge badge-status-rejected">❌ 거부</span>`;
+
+    div.innerHTML = `
+      <input type="checkbox" data-id="${item.id}">
+      <div class="item-body">
+        <div class="item-title"><a href="${item.url}" target="_blank">${item.name}</a></div>
+        <div class="item-desc">${item.desc || ''} ${item.org ? '| '+item.org : ''}</div>
+        <div class="item-meta">${badges}</div>
+      </div>
+    `;
+
+    container.appendChild(div);
+  });
+}
+
+function selectAll() {
+  const checks = document.querySelectorAll('#list input[type="checkbox"]');
+  const allChecked = Array.from(checks).every(c => c.checked);
+  checks.forEach(c => c.checked = !allChecked);
+}
+
+function approveSelected() {
+  document.querySelectorAll('#list input[type="checkbox"]:checked').forEach(c => {
+    setStatus(state.currentTab, c.dataset.id, 'approved');
+  });
+  renderList();
+}
+
+function rejectSelected() {
+  document.querySelectorAll('#list input[type="checkbox"]:checked').forEach(c => {
+    setStatus(state.currentTab, c.dataset.id, 'rejected');
+  });
+  renderList();
+}
+
+function showExport() {
+  const text = JSON.stringify(state.approved, null, 2);
+  document.getElementById('exportText').value = text;
+  document.getElementById('exportArea').classList.add('show');
+}
+
+function closeExport() {
+  document.getElementById('exportArea').classList.remove('show');
+}
+
+function copyExport() {
+  const ta = document.getElementById('exportText');
+  ta.select();
+  document.execCommand('copy');
+  alert('✅ 복사 완료! GitHub의 data/approved.json에 붙여넣으세요.');
+}
+
+init();
+</script>
+</body>
+</html>
