@@ -9,7 +9,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/138300000033",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000128",
@@ -21,7 +22,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000128",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000173",
@@ -33,7 +35,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000173",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000174",
@@ -45,7 +48,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000174",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "305000000288",
@@ -57,7 +61,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000288",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "320000000124",
@@ -69,7 +74,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000124",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "321000000117",
@@ -81,7 +87,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/321000000117",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "329000000105",
@@ -93,7 +100,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/329000000105",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "338000000101",
@@ -105,7 +113,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/338000000101",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "340000000121",
@@ -117,7 +126,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/340000000121",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "343000000113",
@@ -129,7 +139,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/343000000113",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "345000000103",
@@ -141,7 +152,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/345000000103",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "355000000118",
@@ -153,7 +165,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/355000000118",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "356000000112",
@@ -165,7 +178,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/356000000112",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "383000000143",
@@ -177,7 +191,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000143",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "383000000155",
@@ -189,7 +204,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000155",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "401000000503",
@@ -201,7 +217,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000503",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "402000000107",
@@ -213,7 +230,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000107",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "408000000419",
@@ -225,7 +243,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000419",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "429100000004",
@@ -237,7 +256,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/429100000004",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000146",
@@ -249,7 +269,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000146",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "452000000166",
@@ -261,7 +282,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000166",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "453000000198",
@@ -273,7 +295,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/453000000198",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "455000000110",
@@ -285,7 +308,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/455000000110",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "460000000130",
@@ -297,7 +321,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/460000000130",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "467100000004",
@@ -309,7 +334,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/467100000004",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "468100000011",
@@ -321,7 +347,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/468100000011",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "469000000113",
@@ -333,7 +360,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/469000000113",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "483000000126",
@@ -345,7 +373,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/483000000126",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "499000000144",
@@ -357,7 +386,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/499000000144",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "506000000123",
@@ -369,7 +399,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/506000000123",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "508000000671",
@@ -381,7 +412,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/508000000671",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "512000000123",
@@ -393,7 +425,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/512000000123",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "523000000191",
@@ -405,7 +438,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/523000000191",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "531000000129",
@@ -417,7 +451,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/531000000129",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "546000000108",
@@ -429,7 +464,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/546000000108",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "569000000401",
@@ -441,7 +477,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000401",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "628000000761",
@@ -453,7 +490,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000761",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "631000000108",
@@ -465,7 +503,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000108",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "631000000127",
@@ -477,7 +516,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000127",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "646000000117",
@@ -489,7 +529,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/646000000117",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "646000000184",
@@ -501,7 +542,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/646000000184",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001102",
@@ -513,7 +555,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001102",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000240",
@@ -525,7 +568,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000240",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000001099",
@@ -537,7 +581,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001099",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "B55271100004",
@@ -549,7 +594,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55271100004",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400019",
@@ -561,7 +607,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400019",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400023",
@@ -573,7 +620,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400023",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400026",
@@ -585,7 +633,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400026",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400034",
@@ -597,7 +646,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400034",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00100600003",
@@ -609,7 +659,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00100600003",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107100002",
@@ -621,7 +672,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107100002",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107100003",
@@ -633,7 +685,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107100003",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00108600004",
@@ -645,7 +698,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00108600004",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00109100005",
@@ -657,7 +711,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00109100005",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SME000000040",
@@ -669,7 +724,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SME000000040",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 72.54
+    "trend_score": 73.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200005031",
@@ -681,7 +737,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005031",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000171",
@@ -693,7 +750,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000171",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000118",
@@ -705,7 +763,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000118",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "314000000264",
@@ -717,7 +776,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000264",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "318000000117",
@@ -729,7 +789,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/318000000117",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "319000000101",
@@ -741,7 +802,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000101",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "320000000111",
@@ -753,7 +815,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000111",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "330000000102",
@@ -765,7 +828,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/330000000102",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "340000000113",
@@ -777,7 +841,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/340000000113",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "343000000117",
@@ -789,7 +854,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/343000000117",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "344000000106",
@@ -801,7 +867,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/344000000106",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "345000000106",
@@ -813,7 +880,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/345000000106",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "349000000101",
@@ -825,7 +893,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000101",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "371000000109",
@@ -837,7 +906,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/371000000109",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "373000000115",
@@ -849,7 +919,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/373000000115",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "378000000147",
@@ -861,7 +932,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000147",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "405000000638",
@@ -873,7 +945,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000638",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "408000000550",
@@ -885,7 +958,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000550",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "418000000244",
@@ -897,7 +971,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/418000000244",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "420000000145",
@@ -909,7 +984,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/420000000145",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "420000000151",
@@ -921,7 +997,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/420000000151",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "433000000141",
@@ -933,7 +1010,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/433000000141",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "439000000833",
@@ -945,7 +1023,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/439000000833",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "440000000127",
@@ -957,7 +1036,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/440000000127",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "442000000112",
@@ -969,7 +1049,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/442000000112",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "442000000123",
@@ -981,7 +1062,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/442000000123",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "443000000108",
@@ -993,7 +1075,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/443000000108",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "445000000112",
@@ -1005,7 +1088,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/445000000112",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000120",
@@ -1017,7 +1101,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000120",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "454000000158",
@@ -1029,7 +1114,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/454000000158",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "458000000109",
@@ -1041,7 +1127,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/458000000109",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "460000000148",
@@ -1053,7 +1140,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/460000000148",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "461000000123",
@@ -1065,7 +1153,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/461000000123",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "468000000113",
@@ -1077,7 +1166,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/468000000113",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "477000000129",
@@ -1089,7 +1179,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/477000000129",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "480000000102",
@@ -1101,7 +1192,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/480000000102",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "482000000116",
@@ -1113,7 +1205,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/482000000116",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "489000000105",
@@ -1125,7 +1218,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/489000000105",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "489000000130",
@@ -1137,7 +1231,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/489000000130",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "490000000125",
@@ -1149,7 +1244,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000125",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "493000000306",
@@ -1161,7 +1257,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/493000000306",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "494000000104",
@@ -1173,7 +1270,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/494000000104",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "496000000103",
@@ -1185,7 +1283,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/496000000103",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "498000000113",
@@ -1197,7 +1296,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/498000000113",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "534000000114",
@@ -1209,7 +1309,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/534000000114",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "541000000112",
@@ -1221,7 +1322,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/541000000112",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "553000000107",
@@ -1233,7 +1335,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/553000000107",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "554000000109",
@@ -1245,7 +1348,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000109",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "557000000110",
@@ -1257,7 +1361,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/557000000110",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "558000000105",
@@ -1269,7 +1374,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/558000000105",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "571000000140",
@@ -1281,7 +1387,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/571000000140",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "627000000122",
@@ -1293,7 +1400,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000122",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "629000000114",
@@ -1305,7 +1413,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000114",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "630000000141",
@@ -1317,7 +1426,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000141",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "630000000144",
@@ -1329,7 +1439,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000144",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "641000000114",
@@ -1341,7 +1452,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000114",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "641000000174",
@@ -1353,7 +1465,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000174",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000287",
@@ -1365,7 +1478,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000287",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000313",
@@ -1377,7 +1491,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000313",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "999000000089",
@@ -1389,7 +1504,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000089",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107400014",
@@ -1401,7 +1517,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107400014",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SSE000000030",
@@ -1413,7 +1530,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SSE000000030",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 6.98
+    "trend_score": 7.73,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "519000000128",
@@ -1425,7 +1543,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/519000000128",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 5.35
+    "trend_score": 5.65,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "322000000108",
@@ -1437,7 +1556,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000108",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 3.94
+    "trend_score": 4.67,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "418100000003",
@@ -1449,7 +1569,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/418100000003",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 3.94
+    "trend_score": 4.67,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "478100000032",
@@ -1461,7 +1582,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/478100000032",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0.77
+    "trend_score": 0.8,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "627000000127",
@@ -1473,7 +1595,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000127",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0.77
+    "trend_score": 0.8,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200000002",
@@ -1485,7 +1608,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000002",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.59
+    "trend_score": 0.68,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "358000000107",
@@ -1497,7 +1621,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000107",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.59
+    "trend_score": 0.68,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "397000000146",
@@ -1509,7 +1634,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000146",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.59
+    "trend_score": 0.68,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "407000000117",
@@ -1521,7 +1647,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000117",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.59
+    "trend_score": 0.68,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "477000000115",
@@ -1533,7 +1660,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/477000000115",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0.59
+    "trend_score": 0.68,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200000080",
@@ -1545,7 +1673,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000080",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200000114",
@@ -1557,7 +1686,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000114",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200000115",
@@ -1569,7 +1699,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200000115",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200005038",
@@ -1581,7 +1712,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005038",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "135200005043",
@@ -1593,7 +1725,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005043",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000102",
@@ -1605,7 +1738,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000102",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000106",
@@ -1617,7 +1751,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000106",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000108",
@@ -1629,7 +1764,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000108",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000135",
@@ -1641,7 +1777,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000135",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "300000000167",
@@ -1653,7 +1790,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000167",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "301000000142",
@@ -1665,7 +1803,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/301000000142",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "302000000126",
@@ -1677,7 +1816,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/302000000126",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000104",
@@ -1689,7 +1829,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000104",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000114",
@@ -1701,7 +1842,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000114",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000311",
@@ -1713,7 +1855,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000311",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000314",
@@ -1725,7 +1868,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000314",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000336",
@@ -1737,7 +1881,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000336",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "303000000347",
@@ -1749,7 +1894,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/303000000347",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000148",
@@ -1761,7 +1907,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000148",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000199",
@@ -1773,7 +1920,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000199",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "304000000229",
@@ -1785,7 +1933,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000229",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "305000000130",
@@ -1797,7 +1946,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000130",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "305000000286",
@@ -1809,7 +1959,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000286",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "305000000287",
@@ -1821,7 +1972,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000287",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "306000000210",
@@ -1833,7 +1985,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/306000000210",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000101",
@@ -1845,7 +1998,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000101",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000102",
@@ -1857,7 +2011,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000102",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000112",
@@ -1869,7 +2024,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000112",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000115",
@@ -1881,7 +2037,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000115",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000175",
@@ -1893,7 +2050,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000175",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "307000000180",
@@ -1905,7 +2063,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/307000000180",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "308000000124",
@@ -1917,7 +2076,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/308000000124",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "312000000112",
@@ -1929,7 +2089,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/312000000112",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "313000000131",
@@ -1941,7 +2102,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000131",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "314000000109",
@@ -1953,7 +2115,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000109",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "314000000260",
@@ -1965,7 +2128,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000260",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "314000000273",
@@ -1977,7 +2141,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/314000000273",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "315000000109",
@@ -1989,7 +2154,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000109",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "315000000111",
@@ -2001,7 +2167,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000111",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "315000000113",
@@ -2013,7 +2180,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000113",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "316000000102",
@@ -2025,7 +2193,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/316000000102",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "316000000136",
@@ -2037,7 +2206,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/316000000136",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "319000000105",
@@ -2049,7 +2219,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/319000000105",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "320000000101",
@@ -2061,7 +2232,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000101",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "320000000295",
@@ -2073,7 +2245,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000295",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "321000000120",
@@ -2085,7 +2258,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/321000000120",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "322000000115",
@@ -2097,7 +2271,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000115",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "324000000103",
@@ -2109,7 +2284,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/324000000103",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "325000000244",
@@ -2121,7 +2297,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/325000000244",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "327000000102",
@@ -2133,7 +2310,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/327000000102",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "329000000103",
@@ -2145,7 +2323,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/329000000103",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "331000000106",
@@ -2157,7 +2336,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/331000000106",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "332000000103",
@@ -2169,7 +2349,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/332000000103",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "333000000374",
@@ -2181,7 +2362,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/333000000374",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "335000000103",
@@ -2193,7 +2375,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/335000000103",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "336000000206",
@@ -2205,7 +2388,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000206",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "337000000119",
@@ -2217,7 +2401,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/337000000119",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "337000000122",
@@ -2229,7 +2414,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/337000000122",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "338000000121",
@@ -2241,7 +2427,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/338000000121",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "341000000108",
@@ -2253,7 +2440,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/341000000108",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "344000000105",
@@ -2265,7 +2453,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/344000000105",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "347000000114",
@@ -2277,7 +2466,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/347000000114",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "348000000356",
@@ -2289,7 +2479,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000356",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "349000000107",
@@ -2301,7 +2492,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000107",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "349000000130",
@@ -2313,7 +2505,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000130",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "351050000109",
@@ -2325,7 +2518,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/351050000109",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "351050000119",
@@ -2337,7 +2531,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/351050000119",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "351050000130",
@@ -2349,7 +2544,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/351050000130",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "352000000117",
@@ -2361,7 +2557,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/352000000117",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "353000000107",
@@ -2373,7 +2570,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000107",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "356000000104",
@@ -2385,7 +2583,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/356000000104",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "356000000109",
@@ -2397,7 +2596,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/356000000109",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "357000000116",
@@ -2409,7 +2609,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/357000000116",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "358000000134",
@@ -2421,7 +2622,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000134",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "358000000138",
@@ -2433,7 +2635,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000138",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "369000000105",
@@ -2445,7 +2648,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/369000000105",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "369000000117",
@@ -2457,7 +2661,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/369000000117",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "370000000110",
@@ -2469,7 +2674,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/370000000110",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "374000000556",
@@ -2481,7 +2687,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000556",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "374000000557",
@@ -2493,7 +2700,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000557",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "374000000558",
@@ -2505,7 +2713,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000558",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "374000000559",
@@ -2517,7 +2726,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000559",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "374000000583",
@@ -2529,7 +2739,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000583",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "378000000137",
@@ -2541,7 +2752,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000137",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "382000000139",
@@ -2553,7 +2765,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/382000000139",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "386000000133",
@@ -2565,7 +2778,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000133",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "390000000101",
@@ -2577,7 +2791,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000101",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "390000000432",
@@ -2589,7 +2804,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000432",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "390000000436",
@@ -2601,7 +2817,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000436",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "391000000130",
@@ -2613,7 +2830,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000130",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "391000000134",
@@ -2625,7 +2843,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000134",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "391000000549",
@@ -2637,7 +2856,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000549",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "391000000550",
@@ -2649,7 +2869,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000550",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "393000000106",
@@ -2661,7 +2882,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/393000000106",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "397000000102",
@@ -2673,7 +2895,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000102",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "397000000115",
@@ -2685,7 +2908,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000115",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "397000000119",
@@ -2697,7 +2921,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/397000000119",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "398000000107",
@@ -2709,7 +2934,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000107",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "398000000116",
@@ -2721,7 +2947,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000116",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "398000000298",
@@ -2733,7 +2960,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000298",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "401000000105",
@@ -2745,7 +2973,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000105",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "401000000489",
@@ -2757,7 +2986,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000489",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "402000000105",
@@ -2769,7 +2999,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000105",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "403000000116",
@@ -2781,7 +3012,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000116",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "403000000151",
@@ -2793,7 +3025,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000151",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "405000000685",
@@ -2805,7 +3038,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000685",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "405000000686",
@@ -2817,7 +3051,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000686",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "405000000687",
@@ -2829,7 +3064,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/405000000687",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "406000000111",
@@ -2841,7 +3077,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000111",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "407000000518",
@@ -2853,7 +3090,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000518",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "409000000110",
@@ -2865,7 +3103,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000110",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "414000000459",
@@ -2877,7 +3116,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/414000000459",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "416000000105",
@@ -2889,7 +3129,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/416000000105",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "416000000267",
@@ -2901,7 +3142,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/416000000267",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "417000000136",
@@ -2913,7 +3155,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/417000000136",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "417000000145",
@@ -2925,7 +3168,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/417000000145",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "418000000243",
@@ -2937,7 +3181,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/418000000243",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "418000000255",
@@ -2949,7 +3194,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/418000000255",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "419000000119",
@@ -2961,7 +3207,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/419000000119",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "419000000126",
@@ -2973,7 +3220,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/419000000126",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "419100000013",
@@ -2985,7 +3233,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/419100000013",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "420000000161",
@@ -2997,7 +3246,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/420000000161",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "420000000162",
@@ -3009,7 +3259,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/420000000162",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "421100000005",
@@ -3021,7 +3272,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/421100000005",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "422000000115",
@@ -3033,7 +3285,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/422000000115",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "424000000144",
@@ -3045,7 +3298,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424000000144",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "424000000146",
@@ -3057,7 +3311,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424000000146",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "424000000150",
@@ -3069,7 +3324,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424000000150",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "424000000156",
@@ -3081,7 +3337,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424000000156",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "424000000167",
@@ -3093,7 +3350,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424000000167",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "425000000630",
@@ -3105,7 +3363,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/425000000630",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "426100000004",
@@ -3117,7 +3376,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/426100000004",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "429000000646",
@@ -3129,7 +3389,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/429000000646",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "431000000113",
@@ -3141,7 +3402,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/431000000113",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "432000000240",
@@ -3153,7 +3415,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/432000000240",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "432000000243",
@@ -3165,7 +3428,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/432000000243",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "433100000003",
@@ -3177,7 +3441,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/433100000003",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "434000000106",
@@ -3189,7 +3454,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/434000000106",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "435000000144",
@@ -3201,7 +3467,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/435000000144",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "439000000856",
@@ -3213,7 +3480,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/439000000856",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "440000000110",
@@ -3225,7 +3493,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/440000000110",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "440000000111",
@@ -3237,7 +3506,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/440000000111",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "440000000112",
@@ -3249,7 +3519,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/440000000112",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "443000000139",
@@ -3261,7 +3532,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/443000000139",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "444000000103",
@@ -3273,7 +3545,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/444000000103",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "444000000111",
@@ -3285,7 +3558,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/444000000111",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "444000000125",
@@ -3297,7 +3571,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/444000000125",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "445000000122",
@@ -3309,7 +3584,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/445000000122",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "446000000109",
@@ -3321,7 +3597,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/446000000109",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "446000000130",
@@ -3333,7 +3610,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/446000000130",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "447000000105",
@@ -3345,7 +3623,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/447000000105",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "447000000119",
@@ -3357,7 +3636,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/447000000119",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "447000000141",
@@ -3369,7 +3649,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/447000000141",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "448000000670",
@@ -3381,7 +3662,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/448000000670",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000119",
@@ -3393,7 +3675,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000119",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000147",
@@ -3405,7 +3688,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000147",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000508",
@@ -3417,7 +3701,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000508",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000513",
@@ -3429,7 +3714,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000513",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000519",
@@ -3441,7 +3727,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000519",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000524",
@@ -3453,7 +3740,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000524",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000526",
@@ -3465,7 +3753,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000526",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000529",
@@ -3477,7 +3766,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000529",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000530",
@@ -3489,7 +3779,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000530",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "449000000532",
@@ -3501,7 +3792,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000532",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "450000000127",
@@ -3513,7 +3805,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/450000000127",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "450000000147",
@@ -3525,7 +3818,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/450000000147",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "451000000131",
@@ -3537,7 +3831,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000131",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "451000000137",
@@ -3549,7 +3844,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000137",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "451000000249",
@@ -3561,7 +3857,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000249",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "452000000135",
@@ -3573,7 +3870,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000135",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "452000000175",
@@ -3585,7 +3883,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000175",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "452000000315",
@@ -3597,7 +3896,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000315",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "452000000322",
@@ -3609,7 +3909,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000322",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "453000000177",
@@ -3621,7 +3922,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/453000000177",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "454000000102",
@@ -3633,7 +3935,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/454000000102",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "454000000134",
@@ -3645,7 +3948,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/454000000134",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "458000000105",
@@ -3657,7 +3961,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/458000000105",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "458000000112",
@@ -3669,7 +3974,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/458000000112",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "458000000115",
@@ -3681,7 +3987,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/458000000115",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "459000000148",
@@ -3693,7 +4000,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/459000000148",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "461000000121",
@@ -3705,7 +4013,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/461000000121",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "464000000103",
@@ -3717,7 +4026,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/464000000103",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "467000000102",
@@ -3729,7 +4039,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/467000000102",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "468000000131",
@@ -3741,7 +4052,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/468000000131",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "469000000110",
@@ -3753,7 +4065,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/469000000110",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "469000000111",
@@ -3765,7 +4078,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/469000000111",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "469100000015",
@@ -3777,7 +4091,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/469100000015",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "470000000111",
@@ -3789,7 +4104,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/470000000111",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "470000000132",
@@ -3801,7 +4117,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/470000000132",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "471000000119",
@@ -3813,7 +4130,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/471000000119",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "472100000002",
@@ -3825,7 +4143,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/472100000002",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "473000000122",
@@ -3837,7 +4156,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/473000000122",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "473000000372",
@@ -3849,7 +4169,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/473000000372",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "476000000187",
@@ -3861,7 +4182,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/476000000187",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "477000000127",
@@ -3873,7 +4195,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/477000000127",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "477100000001",
@@ -3885,7 +4208,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/477100000001",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "478100000007",
@@ -3897,7 +4221,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/478100000007",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "480000000111",
@@ -3909,7 +4234,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/480000000111",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "480000000120",
@@ -3921,7 +4247,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/480000000120",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "481000000115",
@@ -3933,7 +4260,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000115",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "482000000104",
@@ -3945,7 +4273,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/482000000104",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "483000000115",
@@ -3957,7 +4286,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/483000000115",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "483000000116",
@@ -3969,7 +4299,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/483000000116",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "483000000117",
@@ -3981,7 +4312,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/483000000117",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "484000000123",
@@ -3993,7 +4325,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/484000000123",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "484000000127",
@@ -4005,7 +4338,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/484000000127",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "484000000135",
@@ -4017,7 +4351,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/484000000135",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "484000000397",
@@ -4029,7 +4364,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/484000000397",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "485000000120",
@@ -4041,7 +4377,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/485000000120",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "487000000109",
@@ -4053,7 +4390,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/487000000109",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "487000000133",
@@ -4065,7 +4403,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/487000000133",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "488000000126",
@@ -4077,7 +4416,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/488000000126",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "489000000108",
@@ -4089,7 +4429,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/489000000108",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "489000000126",
@@ -4101,7 +4442,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/489000000126",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "490000000102",
@@ -4113,7 +4455,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000102",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "490000000278",
@@ -4125,7 +4468,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000278",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "492000000107",
@@ -4137,7 +4481,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000107",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "492000000135",
@@ -4149,7 +4494,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000135",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "492000000136",
@@ -4161,7 +4507,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000136",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "492000000137",
@@ -4173,7 +4520,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000137",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "492000000138",
@@ -4185,7 +4533,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000138",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "493000000107",
@@ -4197,7 +4546,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/493000000107",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "493000000151",
@@ -4209,7 +4559,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/493000000151",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "495000000414",
@@ -4221,7 +4572,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/495000000414",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "495000000417",
@@ -4233,7 +4585,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/495000000417",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "496000000107",
@@ -4245,7 +4598,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/496000000107",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "496000000112",
@@ -4257,7 +4611,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/496000000112",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "497000000103",
@@ -4269,7 +4624,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/497000000103",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "500000000112",
@@ -4281,7 +4637,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/500000000112",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "500000000125",
@@ -4293,7 +4650,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/500000000125",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "500000000142",
@@ -4305,7 +4663,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/500000000142",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "500000000145",
@@ -4317,7 +4676,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/500000000145",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "502000000249",
@@ -4329,7 +4689,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/502000000249",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "506000000142",
@@ -4341,7 +4702,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/506000000142",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "506000000143",
@@ -4353,7 +4715,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/506000000143",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "507000000642",
@@ -4365,7 +4728,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/507000000642",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "508000000698",
@@ -4377,7 +4741,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/508000000698",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "508000000710",
@@ -4389,7 +4754,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/508000000710",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "510000000105",
@@ -4401,7 +4767,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/510000000105",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "510000000121",
@@ -4413,7 +4780,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/510000000121",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "510000000364",
@@ -4425,7 +4793,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/510000000364",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "511000000121",
@@ -4437,7 +4806,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/511000000121",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "511000000122",
@@ -4449,7 +4819,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/511000000122",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "511000000128",
@@ -4461,7 +4832,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/511000000128",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "512000000121",
@@ -4473,7 +4845,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/512000000121",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "513000000365",
@@ -4485,7 +4858,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000365",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "518000000106",
@@ -4497,7 +4871,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/518000000106",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "518000000107",
@@ -4509,7 +4884,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/518000000107",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "518000000111",
@@ -4521,7 +4897,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/518000000111",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "518000000129",
@@ -4533,7 +4910,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/518000000129",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "519000000151",
@@ -4545,7 +4923,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/519000000151",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "521000000138",
@@ -4557,7 +4936,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/521000000138",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "523000000577",
@@ -4569,7 +4949,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/523000000577",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "524000000170",
@@ -4581,7 +4962,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/524000000170",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "525000000106",
@@ -4593,7 +4975,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000106",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "525000000110",
@@ -4605,7 +4988,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000110",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "525000000112",
@@ -4617,7 +5001,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000112",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "525000000123",
@@ -4629,7 +5014,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000123",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "525000000126",
@@ -4641,7 +5027,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000126",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "531000000124",
@@ -4653,7 +5040,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/531000000124",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "533000000108",
@@ -4665,7 +5053,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/533000000108",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "533000000123",
@@ -4677,7 +5066,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/533000000123",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "534000000118",
@@ -4689,7 +5079,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/534000000118",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "534000000119",
@@ -4701,7 +5092,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/534000000119",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "534000000134",
@@ -4713,7 +5105,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/534000000134",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "535000000148",
@@ -4725,7 +5118,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/535000000148",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "536000000114",
@@ -4737,7 +5131,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/536000000114",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "536000000607",
@@ -4749,7 +5144,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/536000000607",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "536000000609",
@@ -4761,7 +5157,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/536000000609",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "536000000613",
@@ -4773,7 +5170,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/536000000613",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "537000000118",
@@ -4785,7 +5183,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000118",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "537000000200",
@@ -4797,7 +5196,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000200",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "537000000202",
@@ -4809,7 +5209,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000202",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "537000001445",
@@ -4821,7 +5222,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000001445",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "538000000656",
@@ -4833,7 +5235,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/538000000656",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "538000000659",
@@ -4845,7 +5248,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/538000000659",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "540000000104",
@@ -4857,7 +5261,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/540000000104",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "540000000134",
@@ -4869,7 +5274,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/540000000134",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "542000000110",
@@ -4881,7 +5287,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000110",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "542000000111",
@@ -4893,7 +5300,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000111",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "542000000125",
@@ -4905,7 +5313,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000125",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "542000000644",
@@ -4917,7 +5326,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000644",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "544000000104",
@@ -4929,7 +5339,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/544000000104",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "544000000110",
@@ -4941,7 +5352,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/544000000110",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "546000000106",
@@ -4953,7 +5365,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/546000000106",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "546000000110",
@@ -4965,7 +5378,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/546000000110",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "546000000112",
@@ -4977,7 +5391,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/546000000112",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "546000000127",
@@ -4989,7 +5404,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/546000000127",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "548000000131",
@@ -5001,7 +5417,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/548000000131",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "553000000588",
@@ -5013,7 +5430,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/553000000588",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "553000000589",
@@ -5025,7 +5443,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/553000000589",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "553000000590",
@@ -5037,7 +5456,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/553000000590",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "553000000591",
@@ -5049,7 +5469,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/553000000591",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "557000000115",
@@ -5061,7 +5482,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/557000000115",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "558000000108",
@@ -5073,7 +5495,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/558000000108",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "559000000431",
@@ -5085,7 +5508,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/559000000431",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "559000000434",
@@ -5097,7 +5521,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/559000000434",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "560000000109",
@@ -5109,7 +5534,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000109",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "560000000127",
@@ -5121,7 +5547,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000127",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "560000000142",
@@ -5133,7 +5560,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000142",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "567000000102",
@@ -5145,7 +5573,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/567000000102",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "568000000102",
@@ -5157,7 +5586,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000102",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "568000000335",
@@ -5169,7 +5599,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000335",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "568000000336",
@@ -5181,7 +5612,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000336",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "569000000335",
@@ -5193,7 +5625,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000335",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "570000000109",
@@ -5205,7 +5638,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/570000000109",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "570000000140",
@@ -5217,7 +5651,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/570000000140",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "571000000209",
@@ -5229,7 +5664,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/571000000209",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "611000000141",
@@ -5241,7 +5677,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000000141",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "611000019610",
@@ -5253,7 +5690,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000019610",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "626000000118",
@@ -5265,7 +5703,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000118",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "626000000139",
@@ -5277,7 +5716,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000139",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "626000000622",
@@ -5289,7 +5729,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000622",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "626000000637",
@@ -5301,7 +5742,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000637",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "626000000679",
@@ -5313,7 +5755,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000679",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "627000000118",
@@ -5325,7 +5768,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000118",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "627000000757",
@@ -5337,7 +5781,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000757",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "628000000125",
@@ -5349,7 +5794,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000125",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "628000000156",
@@ -5361,7 +5807,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000156",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "628000000744",
@@ -5373,7 +5820,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000744",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "629000000790",
@@ -5385,7 +5833,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000790",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "630000000105",
@@ -5397,7 +5846,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000105",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "631000000139",
@@ -5409,7 +5859,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000139",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "631000000726",
@@ -5421,7 +5872,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000726",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "631000000737",
@@ -5433,7 +5885,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000737",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "641000000137",
@@ -5445,7 +5898,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000137",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "641000000147",
@@ -5457,7 +5911,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000147",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "642000000690",
@@ -5469,7 +5924,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000690",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "643000000120",
@@ -5481,7 +5937,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000120",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "643000000730",
@@ -5493,7 +5950,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000730",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "643000000740",
@@ -5505,7 +5963,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000740",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "644000000189",
@@ -5517,7 +5976,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/644000000189",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "644000000854",
@@ -5529,7 +5989,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/644000000854",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "646000000115",
@@ -5541,7 +6002,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/646000000115",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "646000000167",
@@ -5553,7 +6015,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/646000000167",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "647000000111",
@@ -5565,7 +6028,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000111",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "647000000147",
@@ -5577,7 +6041,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000147",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "647000000172",
@@ -5589,7 +6054,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000172",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "647000000186",
@@ -5601,7 +6067,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000186",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "647000000188",
@@ -5613,7 +6080,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000188",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001049",
@@ -5625,7 +6093,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001049",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001056",
@@ -5637,7 +6106,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001056",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001059",
@@ -5649,7 +6119,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001059",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001153",
@@ -5661,7 +6132,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001153",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "648000001154",
@@ -5673,7 +6145,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001154",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000225",
@@ -5685,7 +6158,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000225",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000248",
@@ -5697,7 +6171,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000248",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000275",
@@ -5709,7 +6184,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000275",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000310",
@@ -5721,7 +6197,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000310",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000000319",
@@ -5733,7 +6210,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000000319",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000001132",
@@ -5745,7 +6223,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001132",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "650000001133",
@@ -5757,7 +6236,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001133",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "724000000013",
@@ -5769,7 +6249,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/724000000013",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "724000000014",
@@ -5781,7 +6262,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/724000000014",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "731000000016",
@@ -5793,7 +6275,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/731000000016",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "849000000041",
@@ -5805,7 +6288,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/849000000041",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "875000000006",
@@ -5817,7 +6301,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/875000000006",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "901000000015",
@@ -5829,7 +6314,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/901000000015",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "901000000023",
@@ -5841,7 +6327,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/901000000023",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "929000000205",
@@ -5853,7 +6340,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/929000000205",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "930000000011",
@@ -5865,7 +6353,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/930000000011",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "B55029700002",
@@ -5877,7 +6366,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55029700002",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "B55092800002",
@@ -5889,7 +6379,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55092800002",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "B55092800041",
@@ -5901,7 +6392,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55092800041",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "B55092800043",
@@ -5913,7 +6405,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55092800043",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "GMW000000140",
@@ -5925,7 +6418,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/GMW000000140",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00023700003",
@@ -5937,7 +6431,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00023700003",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00037600009",
@@ -5949,7 +6444,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00037600009",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400017",
@@ -5961,7 +6457,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400017",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00045400033",
@@ -5973,7 +6470,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045400033",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00047900006",
@@ -5985,7 +6483,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00047900006",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00100500002",
@@ -5997,7 +6496,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00100500002",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00100600006",
@@ -6009,7 +6509,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00100600006",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107100001",
@@ -6021,7 +6522,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107100001",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107200002",
@@ -6033,7 +6535,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107200002",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00107200003",
@@ -6045,7 +6548,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00107200003",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00114300001",
@@ -6057,7 +6561,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00114300001",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00114400008",
@@ -6069,7 +6574,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00114400008",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "O00114400010",
@@ -6081,7 +6587,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00114400010",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SCY000000190",
@@ -6093,7 +6600,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SCY000000190",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SD0000003567",
@@ -6105,7 +6613,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000003567",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SD0000006936",
@@ -6117,7 +6626,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000006936",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SD0000007044",
@@ -6129,7 +6639,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007044",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SD0000007672",
@@ -6141,7 +6652,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000007672",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SD0000008743",
@@ -6153,7 +6665,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000008743",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SME000000110",
@@ -6165,7 +6678,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SME000000110",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SPE000000060",
@@ -6177,7 +6691,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SPE000000060",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SPE000000070",
@@ -6189,7 +6704,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SPE000000070",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "SPE000000080",
@@ -6201,7 +6717,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SPE000000080",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "WII000001490",
@@ -6213,7 +6730,8 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001490",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   },
   {
     "id": "WII000001620",
@@ -6225,6 +6743,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001620",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0
+    "trend_score": 0,
+    "collected_date": "2026-05-27"
   }
 ]
