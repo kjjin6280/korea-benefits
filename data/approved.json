@@ -1,0 +1,7 @@
+{
+  "subsidies": { "approved": [], "rejected": [] },
+  "business": { "approved": [], "rejected": [] },
+  "housing": { "approved": [], "rejected": [] },
+  "medical": { "approved": [], "rejected": [] },
+  "finance": { "approved": [], "rejected": [] }
+}
