@@ -92,17 +92,11 @@
   /* ───── approved 필터 (일반 모드용) ───── */
   function filterApproved(items, catKey) {
     var cat = state.approved[catKey];
-    if (!cat || !cat.approved || cat.approved.length === 0) {
-      if (cat && cat.rejected && cat.rejected.length > 0) {
-        var rejSet = {};
-        for (var r = 0; r < cat.rejected.length; r++) rejSet[cat.rejected[r]] = true;
-        return items.filter(function(it){ return !rejSet[it.id]; });
-      }
-      return items;
-    }
-    var appSet = {};
+    if (!cat || !cat.approved || cat.approved.length === 0) return [];
+    var appSet = {}, rejSet = {};
     for (var a = 0; a < cat.approved.length; a++) appSet[cat.approved[a]] = true;
-    return items.filter(function(it){ return appSet[it.id]; });
+    if (cat.rejected) { for (var r = 0; r < cat.rejected.length; r++) rejSet[cat.rejected[r]] = true; }
+    return items.filter(function(it){ return appSet[it.id] && !rejSet[it.id]; });
   }
 
   /* ───── 다크/라이트 ───── */
@@ -268,11 +262,11 @@
     var nav = document.createElement('div'); nav.className = 'nav-tabs';
     for (var i = 0; i < TABS.length; i++) {
       (function(tab) {
-        var items = state.data[tab.key]||[];
+        var items = filterApproved(state.data[tab.key]||[], tab.key);
         var nc = 0; for (var j=0;j<items.length;j++) if(isNewItem(items[j]))nc++;
         var btn = document.createElement('div');
         btn.className = 'nav-tab' + (tab.key === state.currentTab ? ' active' : '');
-        var lbl = tab.icon + ' ' + tab.label;
+        var lbl = tab.icon + ' ' + tab.label + ' 총' + items.length;
         if (nc > 0) lbl += ' 🆕' + nc;
         btn.textContent = lbl;
         btn.addEventListener('click', function() {
@@ -361,7 +355,7 @@
       {key:'finance',icon:'💡',label:'금융·서민대출'}
     ];
     for(var ci=0;ci<cats.length;ci++){
-      var cat=cats[ci],arr=state.data[cat.key]||[];
+      var cat=cats[ci],arr=filterApproved(state.data[cat.key]||[], cat.key);
       if(!arr.length)continue;
       var sorted=arr.slice().sort(function(a,b){return(b.trend_score||0)-(a.trend_score||0);});
       sorted=uniqueByName(sorted);
