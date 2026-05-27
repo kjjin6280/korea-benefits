@@ -262,7 +262,7 @@
     var nav = document.createElement('div'); nav.className = 'nav-tabs';
     for (var i = 0; i < TABS.length; i++) {
       (function(tab) {
-        var items = filterApproved(state.data[tab.key]||[], tab.key);
+        var items = filterApproved(state.data[state.currentTab] || [], state.currentTab);
         var nc = 0; for (var j=0;j<items.length;j++) if(isNewItem(items[j]))nc++;
         var btn = document.createElement('div');
         btn.className = 'nav-tab' + (tab.key === state.currentTab ? ' active' : '');
