@@ -282,7 +282,7 @@
     var c = document.getElementById('regionFilter');
     if (!c) return;
     c.className = 'region-outer';
-    var items = state.data[state.currentTab]||[];
+    var items = filterApproved(state.data[state.currentTab]||[], state.currentTab);
     var h = '<div class="region-filter"><div class="region-row">';
     for (var i=0;i<REGIONS_ROW1.length;i++) {
       var r=REGIONS_ROW1[i],cnt=getRegionCount(items,r),act=r===state.currentRegion?' active':'';
