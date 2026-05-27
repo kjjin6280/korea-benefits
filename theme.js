@@ -200,9 +200,9 @@
     return f;
   }
 
-  function filterByRegion(items, region) {
+function filterByRegion(items, region) {
     if (region === '전국') return items;
-    return items.filter(function(it){ var r = it.region||'전국'; return r === region; });
+    return items.filter(function(it){ var r = it.region||'전국'; return r === region || r === '전국'; });
   }
 
   function getRegionCount(items, region) {
