@@ -1,7 +1,35 @@
 {
-  "subsidies": { "approved": [], "rejected": [] },
-  "business": { "approved": [], "rejected": [] },
-  "housing": { "approved": [], "rejected": [] },
-  "medical": { "approved": [], "rejected": [] },
-  "finance": { "approved": [], "rejected": [] }
+  "subsidies": {
+    "approved": [
+      "378000000182",
+      "B55353000001",
+      "105100000001",
+      "149200005008",
+      "135200000120",
+      "378000000145",
+      "SPE000000020",
+      "302000000112",
+      "302000000113",
+      "314000000111",
+      "325000000106",
+      "326000000156"
+    ],
+    "rejected": []
+  },
+  "business": {
+    "approved": [],
+    "rejected": []
+  },
+  "housing": {
+    "approved": [],
+    "rejected": []
+  },
+  "medical": {
+    "approved": [],
+    "rejected": []
+  },
+  "finance": {
+    "approved": [],
+    "rejected": []
+  }
 }
