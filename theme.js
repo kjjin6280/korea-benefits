@@ -732,8 +732,10 @@
     var checks = document.querySelectorAll('#admList input[type=checkbox]:checked');
     for (var i = 0; i < checks.length; i++) {
       setItemStatus(state.adminTab, checks[i].getAttribute('data-id'), status);
+      checks[i].checked = false;
     }
     renderAdminList();
+    renderAdminTabs();
   }
 
   function adminSaveToGitHub() {
