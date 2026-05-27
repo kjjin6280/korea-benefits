@@ -200,13 +200,11 @@
     return f;
   }
 
-function filterByRegion(items, region) {
-    if (region === '전국') return items;
-    return items.filter(function(it){ var r = it.region||'전국'; return r === region || r === '전국'; });
+  function filterByRegion(items, region) {
+    return items.filter(function(it){ var r = it.region||'전국'; return r === region; });
   }
 
   function getRegionCount(items, region) {
-    if (region === '전국') return items.length;
     var c = 0;
     for (var i = 0; i < items.length; i++) { var r = items[i].region||'전국'; if (r === region) c++; }
     return c;
