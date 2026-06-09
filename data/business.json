@@ -1,5 +1,18 @@
 [
   {
+    "id": "PBLN_000000000117576",
+    "name": "[충북] 괴산군 2026년 저신용 소상공인 대출이자 지원사업 공고",
+    "desc": "저신용 소상공인의 경영안정 도모를 위한 2026년 저신용 소상공인 대출이자 지원 계획을 다음과 같이 공고합니다.☞&nbsp;괴산군에 사업장을 운영하고 있는 저신용 소상공인(개인사업자)-&nbsp;신용평점 KCB 700점 또는 NICE 749점 이하인 자 및 차상위계층 이하 자 또는 근로장려금 수급자☞ 대출한도 2천만원 이내, 대출 금리 4.5%, 대출기간 ",
+    "org": "충청북도",
+    "target": "소상공인",
+    "how": "접수처 : 미소금융 충북청주법인",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117576",
+    "region": "충북",
+    "deadline": "예산소진시",
+    "trend_score": 73.98,
+    "collected_date": "2026-06-07"
+  },
+  {
     "id": "PBLN_000000000120930",
     "name": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 변경 공고",
     "desc": "「소상공인 보호 및 지원에 관한 법률」 제9조에 의한 “2026년 중소벤처기업부 소상공인 정책자금 융자사업”을 다음과 같이 공고합니다.☞ 「소상공인기본법」제2조 및 같은 법 시행령 제3조의 소상공인※ 세부사업별 지원대상 상이, 자세한 사항 공고문 참조☞ 일반경영안정자금, 특별경영안정자금, 성장기반자금 등 지원※ 세부사업별 지원대상 상이, 자세한 사항 공고문",
@@ -9,7 +22,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120930",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 65.74,
+    "trend_score": 45.67,
     "collected_date": "2026-06-07"
   },
   {
@@ -22,7 +35,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120023",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 65.74,
+    "trend_score": 45.67,
     "collected_date": "2026-06-07"
   },
   {
@@ -35,20 +48,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122561",
     "region": "서울",
     "deadline": "2026-06-24",
-    "trend_score": 65.74,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000117576",
-    "name": "[충북] 괴산군 2026년 저신용 소상공인 대출이자 지원사업 공고",
-    "desc": "저신용 소상공인의 경영안정 도모를 위한 2026년 저신용 소상공인 대출이자 지원 계획을 다음과 같이 공고합니다.☞&nbsp;괴산군에 사업장을 운영하고 있는 저신용 소상공인(개인사업자)-&nbsp;신용평점 KCB 700점 또는 NICE 749점 이하인 자 및 차상위계층 이하 자 또는 근로장려금 수급자☞ 대출한도 2천만원 이내, 대출 금리 4.5%, 대출기간 ",
-    "org": "충청북도",
-    "target": "소상공인",
-    "how": "접수처 : 미소금융 충북청주법인",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117576",
-    "region": "충북",
-    "deadline": "예산소진시",
-    "trend_score": 58.9,
+    "trend_score": 45.67,
     "collected_date": "2026-06-07"
   },
   {
@@ -61,7 +61,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122348",
     "region": "부산",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -74,7 +74,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122010",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -87,7 +87,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120889",
     "region": "전남",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120570",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120268",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -126,7 +126,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120241",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -139,7 +139,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120177",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -152,7 +152,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120158",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -165,7 +165,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120136",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118435",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -191,7 +191,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118358",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -204,7 +204,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118067",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -217,7 +217,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117950",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -230,7 +230,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117809",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -243,7 +243,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117792",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117667",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -269,7 +269,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117646",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -282,7 +282,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117644",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -295,7 +295,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117634",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -308,7 +308,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117632",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -321,7 +321,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117630",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -334,7 +334,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117626",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -347,7 +347,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117624",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -360,7 +360,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117597",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -373,7 +373,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117602",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -386,7 +386,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117579",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
@@ -399,124 +399,150 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117554",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.38,
+    "trend_score": 1.19,
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000122346",
-    "name": "[인천] 2026년 원도심ㆍ지역상권 활성화를 위한 상권 활성화 특례보증 지원사업 공고",
-    "desc": "소상공인기본법 제3조에 따라 도시정비사업 구역 등 상권 위축 지역 및 골목상권과 중동 사태 장기화로 인한 고유가 피해 소상공인 지원을 위해 「2026년 인천광역시 상권 활성화 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시 소재 소상공인-&nbsp;인천광역시 내 도시정비사업 구역ㆍ재정비촉진지구(해제지역포함) 및 인근 지역에 사업장을 둔 소상공인(",
+    "id": "PBLN_000000000117535",
+    "name": "[충북] 청주시 2026년 중소기업육성자금 융자(이차보전) 지원계획 공고",
+    "desc": "청주시 중소기업육성기금 설치 및 운용 조례 제9조에 따라 「2026년도 청주시 중소기업육성자금 융자(이차보전) 지원계획」을 다음과 같이 공고 합니다.☞&nbsp;청주시에 사업장(사업자등록증명원의 소재지)을 둔「중소기업기본법」의 적용을 받는 중소기업☞ 경영안정자금, 특별경영안정자금, 지식산업센터분양입주자금 지원- 경영안정자금 : 융자한도 8억원, 이자지원기간",
+    "org": "충청북도",
+    "target": "중소기업",
+    "how": "방문 또는 우편 접수\n- 접수처 : 우 28527/청주시 상당구 상당로69번길 38(임시청사 별관1층)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117535",
+    "region": "충북",
+    "deadline": "예산소진시",
+    "trend_score": 1.19,
+    "collected_date": "2026-06-09"
+  },
+  {
+    "id": "PBLN_000000000121888",
+    "name": "[전남] 2026년 중소기업 육성자금 지원계획 2차 변경 공고",
+    "desc": "「전라남도 중소기업 육성기금 조례」제12조의 규정에 따라 2026년도 전라남도 중소기업 육성자금 지원계획을 다음과 같이 변경 공고합니다.☞ 전라남도 내 중소기업※ 자금별 신청자격 상이하므로, 자세한 지원대상 공고문 참조☞ 중소기업경영안정자금, 공제사업기금, 창업 및 경쟁력 강화자금, 벤처기업 육성자금, 중소유통업 구조개선금, 건설업 경영안정자금, 사회적경제",
+    "org": "전라남도",
+    "target": "중소기업",
+    "how": "온라인 접수 (전남중소기업일자리경제진흥원 자금시스템)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121888",
+    "region": "전남",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000121268",
+    "name": "[인천] 2026년 인천형 특별 경영안정자금 지원 공고(금융비용 확대 지원을 위한 하나은행 출연 및 협업)",
+    "desc": "인천광역시 중소기업경영안정자금 지원 및 운용조례 제6조의 규정에 의거 ‘2026년 인천형 특별 경영안정자금(하나은행 출연 및 협업)’지원사업을 다음과 같이 공고합니다.☞&nbsp;인천 소재 제조업 또는 제조업관련업 중소기업- 경영안정자금 지원 업종(관내 공장을 운영중인 제조기업 또는 제조업관련업)을 영위하면서 하나은행 대출이 가능한 기업☞&nbsp;은행 대",
     "org": "인천광역시",
-    "target": "소상공인",
-    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드립 APP\r\n- 접수처 : 지점방문(디지털 소외계층에 한함)\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122346",
+    "target": "중소기업",
+    "how": "온라인 접수 (비즈오케이 홈페이지)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121268",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.11,
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000122026",
-    "name": "[경기] 하남시 2026년 소상공인 특례보증 지원 확대 계획 공고",
-    "desc": "중동 전쟁으로 인한 대외 경제 불확실성 속에서 관내 소상공인의 자금난을 해소하고 경영 안정을 도모하고자 「2026년 하남시 소상공인 특례보증 지원 확대 계획」을 다음과 같이 공고합니다.☞ 주 사업장이 하남시 관내에 소재하며, 사업경력이 2개월 이상 경과한 소상공인- 금융여신 거래가능자 및 신용보증기관 심사기준에 적합한 자☞ 특례보증 및 보증료 지원- 특례보",
-    "org": "경기도",
-    "target": "소상공인",
-    "how": "방문, 온라인, 모바일 접수\r\n- 접수처 : (13023) 경기도 하남시 검단산로 239, 경기창업혁신공간 1층\r\n- 온라인 : 경기신용보증재단\r\n- 모바일 : 경기신용보증재단 앱 Easy One 이용\r\n※ 전화 후 방문(031-690-4555, 4560, 4563)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122026",
-    "region": "경기",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000122024",
-    "name": "[경기] 하남시 2026년 중소기업 특례보증 지원 확대 계획 공고",
-    "desc": "중동 전쟁으로 인한 대외 경제 불확실성 속에서 관내 중소기업의 자금난을 해소하고 경영 안정을 도모하고자 「2026년 하남시 중소기업 특례보증 지원 확대 계획」을 다음과 같이 공고합니다.☞ 중소기업기본법 제2조에 규정한 중소기업☞ 특례보증 및 보증료 지원- 특례보증 : 업체당 최대 3억원 이내(심사 거쳐 보증금액 확정)- 보증료 : 특례보증시 발생하는 보증료",
-    "org": "경기도",
+    "id": "PBLN_000000000121243",
+    "name": "[울산] 2026년 중소기업 AI인프라 육성자금 지원계획 변경 공고",
+    "desc": "「울산광역시 중소기업육성기금 조례」 제12조의 규정에 의거 「2026년 중소기업 AI인프라 육성자금 지원계획 변경 공고」를 다음과 같이 공고합니다.☞&nbsp;관내 사업장을 두었거나 둘 예정인 중소기업(자금사용처가 관내인 경우)※ 자세한 지원대상 공고문 참☞&nbsp;AI인프라자금(시설자금 업체당 최대 8억 이내, 경영안정자금(운전자금) 업체당 최대 6억 ",
+    "org": "울산광역시",
     "target": "중소기업",
-    "how": "방문, 온라인, 모바일 접수\r\n- 접수처 : (13023) 경기도 하남시 검단산로 239, 경기창업혁신공간 1층\r\n- 온라인 : 경기신용보증재단\r\n- 모바일 : 경기신용보증재단 앱 Easy One 이용\r\n※ 전화 후 방문(031-690-4555, 4560, 4563)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122024",
-    "region": "경기",
+    "how": "온라인 접수 (울산경제일자리진흥원 기금융자관리시스템)\r\n※ 반드시 「신청서 작성요령, p.18」을 참고하여 작성",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121243",
+    "region": "울산",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.11,
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000120715",
-    "name": "[광주] 2026년 중동사태 대응을 위한 소상공인 특례보증 지원사업 공고",
-    "desc": "중동사태 대응을 위한 2026년 소상공인 특례보증 지원사업을 다음과 같이 시행합니다.☞ 광주지역 내 소기업ㆍ소상공인ㆍ자영업자 중 개인신용평점이 나이스평가정보(주)에서 산정한 CB 기준 350점 이상(350점~1000점)인 대표자☞ 1년간 이자지원(3~4%), 보증기업당 최대 5천만원 이내 지원",
-    "org": "광주광역시",
+    "id": "PBLN_000000000120904",
+    "name": "[강원] 2026년 3차 중소기업육성자금 지원 변경계획 공고",
+    "desc": "「강원특별자치도 중소기업육성기금 설치 및 운용 조례」 제10조의 규정에 따라 「2026년 강원특별자치도 중소기업육성자금 지원 변경계획」을 다음과 같이 변경하여 공고합니다.☞&nbsp;도내 소재(본사 또는 공장) 중소기업&nbsp; &nbsp;※ 은행 여신규정에 의한 담보능력 보유 기업☞ 경영안정자금, 창업 및 경쟁력강화자금, 특수목적 자금 지원※ 자세한 지",
+    "org": "강원특별자치도",
+    "target": "중소기업",
+    "how": "온라인 또는 방문 접수\r\n- 온라인 : 융자관리시스템\r\n- 방문 : 각 시군 중소기업육성자금 관련 부서",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120904",
+    "region": "강원",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000120828",
+    "name": "[울산] 2026년 2차 소상공인 경영안정자금 긴급 융자 지원계획 공고",
+    "desc": "「소상공인기본법」제3조 및「울산광역시 중소기업육성기금 조례」제12조의 규정에 따라 ″2026년도 울산광역시 2차 소상공인 경영안정자금″ 융자지원계획을 아래와 같이 공고합니다.☞&nbsp;울산 소재 사업장을 둔 소상공인☞&nbsp;대출한도 : 8천만원 이내-&nbsp;업체별 융자금에 대한 2~4년간 대출이자 중 일부지원(2.5%이내)※ 자세한 지원내용 공고문",
+    "org": "울산광역시",
     "target": "소상공인",
-    "how": "온라인 접수 (보증드림 앱) 또는 광주신용보증재단 상담신청 후 심사과정을 거쳐 보증서 발급\r\n- 신청문의 : 광주신용보증재단 상담센터 (062-950-0000, 950-0011)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120715",
+    "how": "온라인 접수 (울산신용보증재단)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120828",
+    "region": "울산",
+    "deadline": "상시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000120618",
+    "name": "[충북] 충주시 2026년 중소기업육성기금 지원계획 변경 공고",
+    "desc": "「충주시 중소기업육성기금 설치와 운용 조례」 제9조의 규정에 의거 2026년 충주시 중소기업육성기금 지원계획을 다음과 같이 변경 공고합니다.☞&nbsp;충주시에 사업장을 둔 「중소기업기본법」의 적용을 받는 중소기업으로서 「별첨1」의 ‘자금별 지원조건’의 융자대상에 해당하는 기업☞&nbsp;기업의 원활한 자금조달을 위한 융자에 대한 이자지원- 경영안정자금, ",
+    "org": "충청북도",
+    "target": "중소기업",
+    "how": "우편 및 방문 접수\r\n- 접수처 : 충주시청 투자유치과",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120618",
+    "region": "충북",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000120324",
+    "name": "[전남] 2026년 소상공인 육성자금지원계획 변경 공고",
+    "desc": "「전라남도 중소기업 육성기금 조례」제12조의 규정에 따라 2026년도 전라남도 소상공인 육성자금 지원계획을 다음과 같이 공고합니다.☞&nbsp;전남 소재 소상공인※ 세부사업별 지원대상 공고문 참조☞&nbsp;소상공인 창업자금,&nbsp;소상공인 경영안정자금 지원※ 자세한 지원내용 공고문 참조",
+    "org": "전라남도",
+    "target": "소상공인",
+    "how": "방문 또는 온라인 접수\r\n- 방문 : 전남신용보증재단 각 지점\r\n- 온라인 : 보증드림’ 사이트 또는 앱\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120324",
+    "region": "전남",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000119218",
+    "name": "[제주] 2026년 중소기업육성자금 융자지원계획 변경 공고",
+    "desc": "「제주특별자치도 중소기업육성기금 조례」제6조에 따른 “2026년 제주특별자치도 중소기업육성자금 융자지원계획”을 다음과 같이 변경 공고합니다.☞&nbsp;제주특별자치도에 사업장을 둔 중소기업ㆍ소상공인※ 자세한 지원대상 공고문 참조☞ 시설투자자금, 경영안정자금, 청년창업기업 금리 지원※ 자세한 지원내용 공고문 참조",
+    "org": "제주특별자치도",
+    "target": "중소기업",
+    "how": "방문 접수\r\n- 제주시 : 제주시 연삼로 473 경제통상진흥원 지하1층\r\n- 서귀포시 : 서귀포시 일주동로 8532 축산업협동조합 3층",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119218",
+    "region": "제주",
+    "deadline": "2026-12-31",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118371",
+    "name": "[강원] 2026년 1차 소상공인 경영안정자금 지원사업 공고",
+    "desc": "강원특별자치도 소상공인의 경영안정화를 도모하고자「강원특별자치도 소상공인 지원 조례」제6조의 규정에 의하여 2026년도 강원특별자치도 소상공인 경영안정자금 지원사업을 다음과 같이 공고합니다.☞&nbsp;도내 소재 사업장을 둔 소상공인(개인사업자)☞ 대출금액 최대 5천만원(대출기간 5년, 일시 또는 분할상환) 지원- 이자,&nbsp;보증료 지원,&nbsp;영세",
+    "org": "강원특별자치도",
+    "target": "소상공인",
+    "how": "온라인, 방문 접수\r\n- 접수처 : 농협ㆍ신한ㆍ국민ㆍ우리ㆍ하나은행 영업점 방문\r\n- 온라인 : 농협ㆍ신한ㆍ국민ㆍ우리ㆍ하나은행ㆍ카카오뱅크 은행 앱(App), 보증드림 앱(App)\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118371",
+    "region": "강원",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118131",
+    "name": "[광주] 2026년 상반기 일반경영안정자금 지원 공고",
+    "desc": "「광주광역시 중소기업육성기금 특별회계설치 및 운용조례」 제7조의 규정에 따라 2026년도 상반기 일반경영안정자금 지원 계획을 다음과 같이 공고합니다.☞ 광주광역시 내&nbsp;중소 제조업체 및 제조업 관련 서비스업체, 지식서비스업체 등☞&nbsp;지원 한도액 업체당 3억원 이내 일반경영안정자금 지원※ 프리(PRE)-명품강소기업, 명품강소기업, 일자리우수기업",
+    "org": "광주광역시",
+    "target": "중소기업",
+    "how": "- 접수처 : (재)광주광역시경제진흥상생일자리재단\r\n※<기금융자관리시스템>상 온라인 접수 및 서류 제출",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118131",
     "region": "광주",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000120234",
-    "name": "[광주] 2026년 청년창업특례보증 지원계획 공고",
-    "desc": "2026년도 청년창업특례보증 지원계획을 다음과 같이 공고합니다.☞ 광주광역시 소재 청년 창업기업※ 만 39세 이하, 업력 7년 이내인 소기업ㆍ소상공인☞ 총 180억원(업체당 최대 50백만원) 지원- 이자지원 : 3%p(1년간)※ 자세한 지원내용 공고문 참조",
-    "org": "광주광역시",
-    "target": "중소기업",
-    "how": "모바일 앱(보증드림) 또는 은햅앱에서 비대면 보증 신청\r\n※ 법인의 경우 영업점 통화 후 내방하여 접수",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120234",
-    "region": "광주",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118881",
-    "name": "[인천] 2026년 소공인 경영안정 및 성장지원을 위한 소공인 지원 특례보증 지원사업 공고",
-    "desc": "소상공인기본법 제3조에 따라 소공인의 경영안정과 성장지원을 위한 「2026년 인천광역시 소공인 지원 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시 소재 상시 근로자 10인 미만으로 제조업을 영위하고 있는 소공인※ 동일인이 다수사업자 겸영 시 중복지원 불가☞ 융자한도 2억원 이내, 융자기간&nbsp;1년(1년 단위 5년까지 연장가능) 또는 5년(",
-    "org": "인천광역시",
-    "target": "소상공인",
-    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118881",
-    "region": "인천",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118880",
-    "name": "[인천] 2026년 지역 내 소상공인 고용창출 확대를 위한 일자리 창출 특례보증 지원사업 공고",
-    "desc": "소상공인기본법 제3조에 따라 소상공인의 고용 여력 제고 및 지역 내 일자리 창출 지원을 위한 「2026년 일자리 창출 특례보증 지원사업」을 다음과 같이 공고합니다.☞&nbsp;인천광역시에 사업장을 둔 소상공인- 최근 1년 이내 신규인력 고용 또는 유지 기업- 신규 창업 3년 이내 기업- 제대군인 고용 우수기업 등 인증 받은 기업(제대군인 지원에 관한 법률에",
-    "org": "인천광역시",
-    "target": "소상공인",
-    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118880",
-    "region": "인천",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118879",
-    "name": "[인천] 2026년 청년 창업가 육성 및 지원을 위한 청년창업 특례보증 지원사업 공고",
-    "desc": "소상공인기본법 제3조에 따라 청년 소상공인 육성을 위한 「2026년 인천광역시 청년창업 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시에 사업장을 둔 39세 이하 소상공인(창업 후 5년 이내인 기업에 한함)※&nbsp;주민등록번호 기준 생년월일이 1986년 1월 1일 이후인 자☞ 융자한도 최대 3천만원 이내, 융자기간 5년(1년 거치 4년 매월분",
-    "org": "인천광역시",
-    "target": "소상공인",
-    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118879",
-    "region": "인천",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118341",
-    "name": "[경기] 광명시 2026년 중소기업 특례보증 지원계획 공고",
-    "desc": "광명시 소재 중소기업 중 담보 부족 및 보증 한도 초과로 신용보증서 발급이 어려운 관내 중소기업 지원을 위한 2026년 광명시 중소기업 특례보증 지원계획을 다음과 같이 공고합니다.&nbsp;☞ 광명시 관내 중소기업☞ 보증한도 업체당 3억원 이내, 보증기간 3~4년 지원",
-    "org": "경기도",
-    "target": "중소기업",
-    "how": "방문 접수\r\n- 접수처 : 경기신용보증재단 광명지점 (철산로 36, 9층(철산동, 양정타워))",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118341",
-    "region": "경기",
-    "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.11,
     "collected_date": "2026-06-07"
   },
   {
@@ -529,7 +555,150 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118064",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118017",
+    "name": "[인천] 2026년 중소기업육성자금 지원계획 공고",
+    "desc": "「인천광역시 중소기업경영안정자금 지원 및 운용조례」 제6조및 「인천광역시 중소기업 육성기금 설치 및 운용조례」 제13조의 규정에 의거 2026년도 인천광역시 중소기업육성자금지원계획을 다음과 같이 공고합니다.☞&nbsp;인천소재 제조업 또는 제조업관련업 중소기업 등※ 자금별 지원대상 상이, 공고문 참조☞ 경영안정자금(이자차액보전, 매출채권보험 보험료, 협약보",
+    "org": "인천광역시",
+    "target": "중소기업",
+    "how": "온라인 또는 방문 접수\n- 온라인 접수 : 비즈오케이\n※ 자금별 신청방법 상이하므로 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118017",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000117611",
+    "name": "[인천] 지역 중소기업 금융지원 강화를 위한 금융기관(NH농협은행) 협업 특별 경영안정자금 추가 지원 공고",
+    "desc": "인천광역시 중소기업경영안정자금 지원 및 운용조례 제6조의 규정에 의거 「금융기관(NH농협은행) 협업 특별 경영안정자금」추가 지원(3차)를 다음과 같이 공고합니다.☞&nbsp;인천소재 제조업 또는 제조업관련업 중소기업※ 자세한 사항 공고문 참조☞&nbsp;은행 대출 운전자금의 이자차액보전 지원- 지원 한도 : 일반기업 10억원(우대10~100억원, 업체별 세",
+    "org": "인천광역시",
+    "target": "중소기업",
+    "how": "온라인 접수 (비즈오케이)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117611",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.11,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000122346",
+    "name": "[인천] 2026년 원도심ㆍ지역상권 활성화를 위한 상권 활성화 특례보증 지원사업 공고",
+    "desc": "소상공인기본법 제3조에 따라 도시정비사업 구역 등 상권 위축 지역 및 골목상권과 중동 사태 장기화로 인한 고유가 피해 소상공인 지원을 위해 「2026년 인천광역시 상권 활성화 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시 소재 소상공인-&nbsp;인천광역시 내 도시정비사업 구역ㆍ재정비촉진지구(해제지역포함) 및 인근 지역에 사업장을 둔 소상공인(",
+    "org": "인천광역시",
+    "target": "소상공인",
+    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드립 APP\r\n- 접수처 : 지점방문(디지털 소외계층에 한함)\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122346",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000122026",
+    "name": "[경기] 하남시 2026년 소상공인 특례보증 지원 확대 계획 공고",
+    "desc": "중동 전쟁으로 인한 대외 경제 불확실성 속에서 관내 소상공인의 자금난을 해소하고 경영 안정을 도모하고자 「2026년 하남시 소상공인 특례보증 지원 확대 계획」을 다음과 같이 공고합니다.☞ 주 사업장이 하남시 관내에 소재하며, 사업경력이 2개월 이상 경과한 소상공인- 금융여신 거래가능자 및 신용보증기관 심사기준에 적합한 자☞ 특례보증 및 보증료 지원- 특례보",
+    "org": "경기도",
+    "target": "소상공인",
+    "how": "방문, 온라인, 모바일 접수\r\n- 접수처 : (13023) 경기도 하남시 검단산로 239, 경기창업혁신공간 1층\r\n- 온라인 : 경기신용보증재단\r\n- 모바일 : 경기신용보증재단 앱 Easy One 이용\r\n※ 전화 후 방문(031-690-4555, 4560, 4563)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122026",
+    "region": "경기",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000122024",
+    "name": "[경기] 하남시 2026년 중소기업 특례보증 지원 확대 계획 공고",
+    "desc": "중동 전쟁으로 인한 대외 경제 불확실성 속에서 관내 중소기업의 자금난을 해소하고 경영 안정을 도모하고자 「2026년 하남시 중소기업 특례보증 지원 확대 계획」을 다음과 같이 공고합니다.☞ 중소기업기본법 제2조에 규정한 중소기업☞ 특례보증 및 보증료 지원- 특례보증 : 업체당 최대 3억원 이내(심사 거쳐 보증금액 확정)- 보증료 : 특례보증시 발생하는 보증료",
+    "org": "경기도",
+    "target": "중소기업",
+    "how": "방문, 온라인, 모바일 접수\r\n- 접수처 : (13023) 경기도 하남시 검단산로 239, 경기창업혁신공간 1층\r\n- 온라인 : 경기신용보증재단\r\n- 모바일 : 경기신용보증재단 앱 Easy One 이용\r\n※ 전화 후 방문(031-690-4555, 4560, 4563)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122024",
+    "region": "경기",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000120715",
+    "name": "[광주] 2026년 중동사태 대응을 위한 소상공인 특례보증 지원사업 공고",
+    "desc": "중동사태 대응을 위한 2026년 소상공인 특례보증 지원사업을 다음과 같이 시행합니다.☞ 광주지역 내 소기업ㆍ소상공인ㆍ자영업자 중 개인신용평점이 나이스평가정보(주)에서 산정한 CB 기준 350점 이상(350점~1000점)인 대표자☞ 1년간 이자지원(3~4%), 보증기업당 최대 5천만원 이내 지원",
+    "org": "광주광역시",
+    "target": "소상공인",
+    "how": "온라인 접수 (보증드림 앱) 또는 광주신용보증재단 상담신청 후 심사과정을 거쳐 보증서 발급\r\n- 신청문의 : 광주신용보증재단 상담센터 (062-950-0000, 950-0011)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120715",
+    "region": "광주",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000120234",
+    "name": "[광주] 2026년 청년창업특례보증 지원계획 공고",
+    "desc": "2026년도 청년창업특례보증 지원계획을 다음과 같이 공고합니다.☞ 광주광역시 소재 청년 창업기업※ 만 39세 이하, 업력 7년 이내인 소기업ㆍ소상공인☞ 총 180억원(업체당 최대 50백만원) 지원- 이자지원 : 3%p(1년간)※ 자세한 지원내용 공고문 참조",
+    "org": "광주광역시",
+    "target": "중소기업",
+    "how": "모바일 앱(보증드림) 또는 은햅앱에서 비대면 보증 신청\r\n※ 법인의 경우 영업점 통화 후 내방하여 접수",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120234",
+    "region": "광주",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118881",
+    "name": "[인천] 2026년 소공인 경영안정 및 성장지원을 위한 소공인 지원 특례보증 지원사업 공고",
+    "desc": "소상공인기본법 제3조에 따라 소공인의 경영안정과 성장지원을 위한 「2026년 인천광역시 소공인 지원 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시 소재 상시 근로자 10인 미만으로 제조업을 영위하고 있는 소공인※ 동일인이 다수사업자 겸영 시 중복지원 불가☞ 융자한도 2억원 이내, 융자기간&nbsp;1년(1년 단위 5년까지 연장가능) 또는 5년(",
+    "org": "인천광역시",
+    "target": "소상공인",
+    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118881",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118880",
+    "name": "[인천] 2026년 지역 내 소상공인 고용창출 확대를 위한 일자리 창출 특례보증 지원사업 공고",
+    "desc": "소상공인기본법 제3조에 따라 소상공인의 고용 여력 제고 및 지역 내 일자리 창출 지원을 위한 「2026년 일자리 창출 특례보증 지원사업」을 다음과 같이 공고합니다.☞&nbsp;인천광역시에 사업장을 둔 소상공인- 최근 1년 이내 신규인력 고용 또는 유지 기업- 신규 창업 3년 이내 기업- 제대군인 고용 우수기업 등 인증 받은 기업(제대군인 지원에 관한 법률에",
+    "org": "인천광역시",
+    "target": "소상공인",
+    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118880",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118879",
+    "name": "[인천] 2026년 청년 창업가 육성 및 지원을 위한 청년창업 특례보증 지원사업 공고",
+    "desc": "소상공인기본법 제3조에 따라 청년 소상공인 육성을 위한 「2026년 인천광역시 청년창업 특례보증 지원사업」을 다음과 같이 공고합니다.☞ 인천광역시에 사업장을 둔 39세 이하 소상공인(창업 후 5년 이내인 기업에 한함)※&nbsp;주민등록번호 기준 생년월일이 1986년 1월 1일 이후인 자☞ 융자한도 최대 3천만원 이내, 융자기간 5년(1년 거치 4년 매월분",
+    "org": "인천광역시",
+    "target": "소상공인",
+    "how": "온라인 또는 방문 접수\r\n- 온라인 : 보증드림 App 접속\r\n- 접수처 : 지점 방문\r\n※ 지점별 주소 및 문의처 공고문 참조\r\n※ 자세한 신청방법 공고문 참조",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118879",
+    "region": "인천",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
+    "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000118341",
+    "name": "[경기] 광명시 2026년 중소기업 특례보증 지원계획 공고",
+    "desc": "광명시 소재 중소기업 중 담보 부족 및 보증 한도 초과로 신용보증서 발급이 어려운 관내 중소기업 지원을 위한 2026년 광명시 중소기업 특례보증 지원계획을 다음과 같이 공고합니다.&nbsp;☞ 광명시 관내 중소기업☞ 보증한도 업체당 3억원 이내, 보증기간 3~4년 지원",
+    "org": "경기도",
+    "target": "중소기업",
+    "how": "방문 접수\r\n- 접수처 : 경기신용보증재단 광명지점 (철산로 36, 9층(철산동, 양정타워))",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118341",
+    "region": "경기",
+    "deadline": "예산소진시",
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -542,7 +711,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117995",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -555,7 +724,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117979",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -568,7 +737,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117972",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -581,7 +750,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117945",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -594,7 +763,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117964",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -607,7 +776,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117920",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -620,7 +789,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117791",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -633,7 +802,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117728",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -646,7 +815,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117621",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
   },
   {
@@ -659,8 +828,21 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117588",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.16,
+    "trend_score": 0.08,
     "collected_date": "2026-06-07"
+  },
+  {
+    "id": "PBLN_000000000122952",
+    "name": "2026년 영세 소상공인 중소금융권 금융비용 지원사업 재공고",
+    "desc": "고금리로 어려움을 겪는 소상공인 금융부담 완화를 위해 ‘영세 소상공인 중소금융권 금융비용 지원사업’의 참여자를 다음과 같이 모집 공고합니다.☞ ’25. 1. 1. ~ 12. 31.까지, 제2금융권에서 신규(갱신 제외)로 사업자 대출(가계대출 제외)을 받은 광주소재 개인사업자(법인사업자제외)로서 5%이상 금리로 대출을 받은 소상공인☞ ’25년도 신규 대출자가",
+    "org": "광주광역시",
+    "target": "소상공인",
+    "how": "온라인 접수 (광주기업지원시스템)\r\n※ 온라인 신청 원칙, 온라인 신청 어려울 시 오프라인 신청 가능(방문 접수)\r\n- 접수처 : 광주경제진흥상생일자리재단 3층 소상공인디지털전환실",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122952",
+    "region": "광주",
+    "deadline": "2026-11-30",
+    "trend_score": 0,
+    "collected_date": "2026-06-09"
   },
   {
     "id": "PBLN_000000000122373",
@@ -684,19 +866,6 @@
     "how": "방문 또는 우편 접수\r\n- 접수처 : (우)52789 진주시 동진로 155, 진주시 기업통상과(시청 3층)",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122021",
     "region": "경남",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000121888",
-    "name": "[전남] 2026년 중소기업 육성자금 지원계획 2차 변경 공고",
-    "desc": "「전라남도 중소기업 육성기금 조례」제12조의 규정에 따라 2026년도 전라남도 중소기업 육성자금 지원계획을 다음과 같이 변경 공고합니다.☞ 전라남도 내 중소기업※ 자금별 신청자격 상이하므로, 자세한 지원대상 공고문 참조☞ 중소기업경영안정자금, 공제사업기금, 창업 및 경쟁력 강화자금, 벤처기업 육성자금, 중소유통업 구조개선금, 건설업 경영안정자금, 사회적경제",
-    "org": "전라남도",
-    "target": "중소기업",
-    "how": "온라인 접수 (전남중소기업일자리경제진흥원 자금시스템)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121888",
-    "region": "전남",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -728,32 +897,6 @@
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000121268",
-    "name": "[인천] 2026년 인천형 특별 경영안정자금 지원 공고(금융비용 확대 지원을 위한 하나은행 출연 및 협업)",
-    "desc": "인천광역시 중소기업경영안정자금 지원 및 운용조례 제6조의 규정에 의거 ‘2026년 인천형 특별 경영안정자금(하나은행 출연 및 협업)’지원사업을 다음과 같이 공고합니다.☞&nbsp;인천 소재 제조업 또는 제조업관련업 중소기업- 경영안정자금 지원 업종(관내 공장을 운영중인 제조기업 또는 제조업관련업)을 영위하면서 하나은행 대출이 가능한 기업☞&nbsp;은행 대",
-    "org": "인천광역시",
-    "target": "중소기업",
-    "how": "온라인 접수 (비즈오케이 홈페이지)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121268",
-    "region": "인천",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000121243",
-    "name": "[울산] 2026년 중소기업 AI인프라 육성자금 지원계획 변경 공고",
-    "desc": "「울산광역시 중소기업육성기금 조례」 제12조의 규정에 의거 「2026년 중소기업 AI인프라 육성자금 지원계획 변경 공고」를 다음과 같이 공고합니다.☞&nbsp;관내 사업장을 두었거나 둘 예정인 중소기업(자금사용처가 관내인 경우)※ 자세한 지원대상 공고문 참☞&nbsp;AI인프라자금(시설자금 업체당 최대 8억 이내, 경영안정자금(운전자금) 업체당 최대 6억 ",
-    "org": "울산광역시",
-    "target": "중소기업",
-    "how": "온라인 접수 (울산경제일자리진흥원 기금융자관리시스템)\r\n※ 반드시 「신청서 작성요령, p.18」을 참고하여 작성",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121243",
-    "region": "울산",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
     "id": "PBLN_000000000121214",
     "name": "[광주ㆍ전북ㆍ전남] 2026년 광주ㆍ호남권 거점기업 육성 금융지원 공고",
     "desc": "「광주광역시 중소기업육성기금 특별회계설치 및 운용조례」 제7조의 규정에 따라 2026년도 광주ㆍ호남권 거점기업 육성 금융지원 계획을 다음과 같이 공고합니다.☞&nbsp;다음의 지원 대상 중 어느 하나에 해당하면서 보증기관(신용보증기금ㆍ기술보증기금)의 보증을 담보로 하면서 하나은행에서 대출실행하는 업체- 공장 및 제조업장을 소유하거나 임차 중인 중소 제조업체",
@@ -762,19 +905,6 @@
     "how": "온라인 접수(기금융자관리시스템)",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121214",
     "region": "광주",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000120904",
-    "name": "[강원] 2026년 3차 중소기업육성자금 지원 변경계획 공고",
-    "desc": "「강원특별자치도 중소기업육성기금 설치 및 운용 조례」 제10조의 규정에 따라 「2026년 강원특별자치도 중소기업육성자금 지원 변경계획」을 다음과 같이 변경하여 공고합니다.☞&nbsp;도내 소재(본사 또는 공장) 중소기업&nbsp; &nbsp;※ 은행 여신규정에 의한 담보능력 보유 기업☞ 경영안정자금, 창업 및 경쟁력강화자금, 특수목적 자금 지원※ 자세한 지",
-    "org": "강원특별자치도",
-    "target": "중소기업",
-    "how": "온라인 또는 방문 접수\r\n- 온라인 : 융자관리시스템\r\n- 방문 : 각 시군 중소기업육성자금 관련 부서",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120904",
-    "region": "강원",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -789,32 +919,6 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120829",
     "region": "울산",
     "deadline": "상시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000120828",
-    "name": "[울산] 2026년 2차 소상공인 경영안정자금 긴급 융자 지원계획 공고",
-    "desc": "「소상공인기본법」제3조 및「울산광역시 중소기업육성기금 조례」제12조의 규정에 따라 ″2026년도 울산광역시 2차 소상공인 경영안정자금″ 융자지원계획을 아래와 같이 공고합니다.☞&nbsp;울산 소재 사업장을 둔 소상공인☞&nbsp;대출한도 : 8천만원 이내-&nbsp;업체별 융자금에 대한 2~4년간 대출이자 중 일부지원(2.5%이내)※ 자세한 지원내용 공고문",
-    "org": "울산광역시",
-    "target": "소상공인",
-    "how": "온라인 접수 (울산신용보증재단)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120828",
-    "region": "울산",
-    "deadline": "상시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000120618",
-    "name": "[충북] 충주시 2026년 중소기업육성기금 지원계획 변경 공고",
-    "desc": "「충주시 중소기업육성기금 설치와 운용 조례」 제9조의 규정에 의거 2026년 충주시 중소기업육성기금 지원계획을 다음과 같이 변경 공고합니다.☞&nbsp;충주시에 사업장을 둔 「중소기업기본법」의 적용을 받는 중소기업으로서 「별첨1」의 ‘자금별 지원조건’의 융자대상에 해당하는 기업☞&nbsp;기업의 원활한 자금조달을 위한 융자에 대한 이자지원- 경영안정자금, ",
-    "org": "충청북도",
-    "target": "중소기업",
-    "how": "우편 및 방문 접수\r\n- 접수처 : 충주시청 투자유치과",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120618",
-    "region": "충북",
-    "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
   },
@@ -840,19 +944,6 @@
     "how": "방문 접수\r\n- 접수처 : 경기도 김포시 사우중로 31, NH농협은행 김포시지부\r\n※ 은행 영업시간 내 현장접수(영업시간: 09시~16시(변동가능))",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120481",
     "region": "경기",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000120324",
-    "name": "[전남] 2026년 소상공인 육성자금지원계획 변경 공고",
-    "desc": "「전라남도 중소기업 육성기금 조례」제12조의 규정에 따라 2026년도 전라남도 소상공인 육성자금 지원계획을 다음과 같이 공고합니다.☞&nbsp;전남 소재 소상공인※ 세부사업별 지원대상 공고문 참조☞&nbsp;소상공인 창업자금,&nbsp;소상공인 경영안정자금 지원※ 자세한 지원내용 공고문 참조",
-    "org": "전라남도",
-    "target": "소상공인",
-    "how": "방문 또는 온라인 접수\r\n- 방문 : 전남신용보증재단 각 지점\r\n- 온라인 : 보증드림’ 사이트 또는 앱\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120324",
-    "region": "전남",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -975,19 +1066,6 @@
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000119218",
-    "name": "[제주] 2026년 중소기업육성자금 융자지원계획 변경 공고",
-    "desc": "「제주특별자치도 중소기업육성기금 조례」제6조에 따른 “2026년 제주특별자치도 중소기업육성자금 융자지원계획”을 다음과 같이 변경 공고합니다.☞&nbsp;제주특별자치도에 사업장을 둔 중소기업ㆍ소상공인※ 자세한 지원대상 공고문 참조☞ 시설투자자금, 경영안정자금, 청년창업기업 금리 지원※ 자세한 지원내용 공고문 참조",
-    "org": "제주특별자치도",
-    "target": "중소기업",
-    "how": "방문 접수\r\n- 제주시 : 제주시 연삼로 473 경제통상진흥원 지하1층\r\n- 서귀포시 : 서귀포시 일주동로 8532 축산업협동조합 3층",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000119218",
-    "region": "제주",
-    "deadline": "2026-12-31",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
     "id": "PBLN_000000000119052",
     "name": "[인천] 2026년 중소기업 환경개선자금 이자지원 계획 공고",
     "desc": "「인천광역시 기업환경시설 개선을 위한 지원조례」제5조 규정에 의거「2026년도 인천광역시 기업환경시설자금 융자금 이자지원 계획」을 다음과 같이 공고합니다.☞ 인천광역시에 소재하는 아래의 중소기업자로- 대기(악취ㆍVOC포함)오염방지시설을 설치하려는 자- 수질오염방지시설을 설치하려는 자- 대기ㆍ수질 측정기기를 설치하려는 자☞&nbsp;기업별 환경개선시설 융자금",
@@ -1022,19 +1100,6 @@
     "how": "방문 접수\r\n- 접수처 : 영업장 소재지 관할 시ㆍ군 위생부서",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118377",
     "region": "전북",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118371",
-    "name": "[강원] 2026년 1차 소상공인 경영안정자금 지원사업 공고",
-    "desc": "강원특별자치도 소상공인의 경영안정화를 도모하고자「강원특별자치도 소상공인 지원 조례」제6조의 규정에 의하여 2026년도 강원특별자치도 소상공인 경영안정자금 지원사업을 다음과 같이 공고합니다.☞&nbsp;도내 소재 사업장을 둔 소상공인(개인사업자)☞ 대출금액 최대 5천만원(대출기간 5년, 일시 또는 분할상환) 지원- 이자,&nbsp;보증료 지원,&nbsp;영세",
-    "org": "강원특별자치도",
-    "target": "소상공인",
-    "how": "온라인, 방문 접수\r\n- 접수처 : 농협ㆍ신한ㆍ국민ㆍ우리ㆍ하나은행 영업점 방문\r\n- 온라인 : 농협ㆍ신한ㆍ국민ㆍ우리ㆍ하나은행ㆍ카카오뱅크 은행 앱(App), 보증드림 앱(App)\r\n※ 자세한 신청방법 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118371",
-    "region": "강원",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -1118,19 +1183,6 @@
     "collected_date": "2026-06-07"
   },
   {
-    "id": "PBLN_000000000118131",
-    "name": "[광주] 2026년 상반기 일반경영안정자금 지원 공고",
-    "desc": "「광주광역시 중소기업육성기금 특별회계설치 및 운용조례」 제7조의 규정에 따라 2026년도 상반기 일반경영안정자금 지원 계획을 다음과 같이 공고합니다.☞ 광주광역시 내&nbsp;중소 제조업체 및 제조업 관련 서비스업체, 지식서비스업체 등☞&nbsp;지원 한도액 업체당 3억원 이내 일반경영안정자금 지원※ 프리(PRE)-명품강소기업, 명품강소기업, 일자리우수기업",
-    "org": "광주광역시",
-    "target": "중소기업",
-    "how": "- 접수처 : (재)광주광역시경제진흥상생일자리재단\r\n※<기금융자관리시스템>상 온라인 접수 및 서류 제출",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118131",
-    "region": "광주",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
     "id": "PBLN_000000000118094",
     "name": "[서울] 관악구 2026년 상반기 중소기업육성기금 융자지원 계획 공고",
     "desc": "「서울특별시 관악구 중소기업육성기금 설치 및 운용 조례」 제7조 및 제8조에 따라 관악구 중소기업육성기금 융자지원 계획을 아래와 같이 공고합니다.☞ 관악구에 사업장을 두고 사업자등록한 지 6개월 경과한 관내 중소기업자 및 소상공인☞&nbsp;중소기업 1억원 이내, 소상공인 5천만원 이내 융자 지원",
@@ -1152,19 +1204,6 @@
     "how": "신한은행(관내 전지점)ㆍ우리은행(양재남금융센터점) 접수",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118093",
     "region": "서울",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000118017",
-    "name": "[인천] 2026년 중소기업육성자금 지원계획 공고",
-    "desc": "「인천광역시 중소기업경영안정자금 지원 및 운용조례」 제6조및 「인천광역시 중소기업 육성기금 설치 및 운용조례」 제13조의 규정에 의거 2026년도 인천광역시 중소기업육성자금지원계획을 다음과 같이 공고합니다.☞&nbsp;인천소재 제조업 또는 제조업관련업 중소기업 등※ 자금별 지원대상 상이, 공고문 참조☞ 경영안정자금(이자차액보전, 매출채권보험 보험료, 협약보",
-    "org": "인천광역시",
-    "target": "중소기업",
-    "how": "온라인 또는 방문 접수\n- 온라인 접수 : 비즈오케이\n※ 자금별 신청방법 상이하므로 공고문 참조",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118017",
-    "region": "인천",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -1243,19 +1282,6 @@
     "how": "방문 접수\n- 접수처: 양양군청 3층 경제에너지과 기업지원팀\n※ 협약 금융기관과 사전 대출상담 후 양양군청에 서류 제출\n- 금융기관 : NH농협은행 양양군지부, 강현농협, 서광농협, 속초양양축협, 신한은행 양양지점, 양양농협, 양양새마을금고, 양양신용협동조합, 하조대농협\n※ 자세한 신청방법 공고문 참조",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117656",
     "region": "강원",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000117611",
-    "name": "[인천] 지역 중소기업 금융지원 강화를 위한 금융기관(NH농협은행) 협업 특별 경영안정자금 추가 지원 공고",
-    "desc": "인천광역시 중소기업경영안정자금 지원 및 운용조례 제6조의 규정에 의거 「금융기관(NH농협은행) 협업 특별 경영안정자금」추가 지원(3차)를 다음과 같이 공고합니다.☞&nbsp;인천소재 제조업 또는 제조업관련업 중소기업※ 자세한 사항 공고문 참조☞&nbsp;은행 대출 운전자금의 이자차액보전 지원- 지원 한도 : 일반기업 10억원(우대10~100억원, 업체별 세",
-    "org": "인천광역시",
-    "target": "중소기업",
-    "how": "온라인 접수 (비즈오케이)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117611",
-    "region": "인천",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-06-07"
@@ -1374,19 +1400,6 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122643",
     "region": "전남",
     "deadline": "2026-06-25",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000122436",
-    "name": "[광주] 청년창업기업 엑셀러레이팅 프로그램 참여기업 모집 공고",
-    "desc": "광주청년창업기업 엑셀러레이팅 프로그램에 참여할 기업을 다음과 같이 모집하오니 많은 관심과 참여를 바랍니다.☞ 광주 내 초기 청년창업기업(공고일 기준 창업 3년이내면서 대표자가 만 39세 이하인 기업)☞&nbsp;아이템ㆍBMㆍ기술 진단 및 검증,&nbsp;분야별 맞춤형 1:1 멘토링,&nbsp;데모데이,&nbsp;정책자금 추천,&nbsp;차년도 지원사업 준비",
-    "org": "광주광역시",
-    "target": "창업벤처",
-    "how": "방문, 우편 또는 이메일 접수\r\n- 접수처 : (61436) 광주광역시 동구 동계천로 150, I-PLEX 광주 2층 운영본부 (202호)\r\n- 이메일 : jjanggon@gjtp.or.kr",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122436",
-    "region": "광주",
-    "deadline": "2026-06-08",
     "trend_score": 0,
     "collected_date": "2026-06-07"
   },
@@ -2180,19 +2193,6 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122364",
     "region": "충북",
     "deadline": "2026-06-09",
-    "trend_score": 0,
-    "collected_date": "2026-06-07"
-  },
-  {
-    "id": "PBLN_000000000122312",
-    "name": "[경기] 북부 2026년 소상공인 IP창출 종합패키지(브랜드ㆍ디자인 융합) 사업 참여기업 모집 공고",
-    "desc": "소상공인의 지식재산 피해를 예방하고 안정적 성장을 돕기 위하여, 시장ㆍ제품 특성이 반영된 브랜드와 디자인 융합 개발을 지원하고 소상공인이 보유한 지식재산을 권리로 보호하기 위한 「소상공인 IP창출 종합패키지 (브랜드&amp;디자인 융합)」 지원 사업을 시행하오니 희망하는 소상공인은 아래에 따라 신청하여 주시기 바랍니다.☞「소상공인기본법」제2조에 따른 소상공",
-    "org": "경기도",
-    "target": "소상공인",
-    "how": "온라인 접수 (지역지식재산센터 사업관리시스템)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122312",
-    "region": "경기",
-    "deadline": "2026-06-15",
     "trend_score": 0,
     "collected_date": "2026-06-07"
   },
