@@ -9,7 +9,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117576",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 79.5,
+    "trend_score": 82.58,
     "collected_date": "2026-06-19"
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120930",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 49.44,
+    "trend_score": 48.92,
     "collected_date": "2026-06-19"
   },
   {
@@ -35,8 +35,21 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120023",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 49.44,
+    "trend_score": 48.92,
     "collected_date": "2026-06-19"
+  },
+  {
+    "id": "PBLN_000000000122561",
+    "name": "2026년 서리풀 소상공인 창업 클리닉 모집 공고",
+    "desc": "소상공인의 성장 기반 마련을 위한 분야별 맞춤형 창업 경영 컨설팅을 제공해드리는 프로그램입니다. 2026년 6월 둘째 주부터 12월까지 매주 월요일마다, 각각 다른 분야의 컨설팅이 진행되니 예비ㆍ초기 소상공인 및 소상공인 스타트업의 많은 관심과 신청 부탁드립니다. 감사합니다.☞ 컨설팅을 희망하는 예비ㆍ초기 소상공인☞&nbsp;소상공인 정책자금 및 자금조달,",
+    "org": "서울특별시",
+    "target": "소상공인",
+    "how": "온라인 접수 (서초창업스테이션)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122561",
+    "region": "서울",
+    "deadline": "2026-06-24",
+    "trend_score": 48.92,
+    "collected_date": "2026-06-20"
   },
   {
     "id": "PBLN_000000000123260",
@@ -48,7 +61,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123260",
     "region": "전국",
     "deadline": "2026-11-13",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -61,7 +74,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123160",
     "region": "부산",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -74,7 +87,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123156",
     "region": "전국",
     "deadline": "2026-07-15",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -87,7 +100,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120889",
     "region": "전남",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -100,7 +113,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120570",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -113,7 +126,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120268",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -126,7 +139,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120241",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -139,7 +152,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120177",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -152,7 +165,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120158",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -165,7 +178,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120136",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -178,7 +191,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118358",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -191,7 +204,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118067",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -204,7 +217,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117950",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -217,7 +230,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117809",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -230,7 +243,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117792",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -243,7 +256,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117667",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -256,7 +269,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117646",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -269,7 +282,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117644",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -282,7 +295,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117634",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -295,7 +308,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117632",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -308,7 +321,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117630",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -321,7 +334,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117626",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -334,7 +347,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117624",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -347,7 +360,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117597",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -360,7 +373,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117602",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -373,7 +386,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117579",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -386,7 +399,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117554",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -399,7 +412,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117535",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.4,
+    "trend_score": 1.41,
     "collected_date": "2026-06-19"
   },
   {
@@ -1378,19 +1391,6 @@
     "collected_date": "2026-06-19"
   },
   {
-    "id": "PBLN_000000000123024",
-    "name": "[광주] 청년창업기업 엑셀러레이팅 프로그램 참여기업 추가 모집 공고",
-    "desc": "광주청년창업기업 엑셀러레이팅 프로그램에 참여할 기업을 다음과 같이 모집하오니 많은 관심과 참여를 바랍니다.☞ 광주 내 초기 청년창업기업(공고일 기준 창업 3년이내면서 대표자가 만 39세 이하인 기업)☞&nbsp;아이템ㆍBMㆍ기술 진단 및 검증,&nbsp;분야별 맞춤형 1:1 멘토링,&nbsp;데모데이,&nbsp;정책자금 추천,&nbsp;차년도 지원사업 준비",
-    "org": "광주광역시",
-    "target": "창업벤처",
-    "how": "방문, 우편 또는 이메일 접수\r\n- 접수처 : (61436) 광주광역시 동구 동계천로 150, I-PLEX 광주 2층 운영본부 (202호)\r\n- 이메일 : jjanggon@gjtp.or.kr",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123024",
-    "region": "광주",
-    "deadline": "2026-06-19",
-    "trend_score": 0,
-    "collected_date": "2026-06-19"
-  },
-  {
     "id": "PBLN_000000000122856",
     "name": "2026년 G-Bio Growth Lab 경기 바이오스타트업 기술검증ㆍ사업화지원 참가기업 모집 공고",
     "desc": "경기도경제과학진흥원은 성장 잠재력이 높은 바이오산업 분야 창업기업을 발굴하고 기술검증(PoC)ㆍ사업화 지원을 통한 경기도 바이오 스타트업 생태계 강화를 위하여 다음과 같이 참가기업 모집 공고를 진행하오니, 많은 관심과 참여 바랍니다.☞&nbsp;경기도 내 본사/지사/연구소/공장을 등록(예정)한 7년 이내 기술창업 기업※ 권역외기업 : 협약일로부터 1개월 이",
@@ -1452,19 +1452,6 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122643",
     "region": "전남",
     "deadline": "2026-06-25",
-    "trend_score": 0,
-    "collected_date": "2026-06-19"
-  },
-  {
-    "id": "PBLN_000000000122330",
-    "name": "[경기] 용인시 2026년 DeepTech STARTUP Batch 참가자 모집 공고",
-    "desc": "용인시산업진흥원에서는 KAIST청년창업투자지주㈜와 함께 용인 소재 딥테크 분야 예비창업자 또는 창업기업의 사업화 역량 강화 및 투자유치 경쟁력 제고를 위한 「용인 DeepTech STARTUP Batch 2026」액셀러레이팅 프로그램을 운영하오니 관심 있는 분의 많은 참여 바랍니다.☞&nbsp;공고일 기준 용인 소재 창업 7년 미만 기업 또는 예비창업자- ",
-    "org": "경기도",
-    "target": "창업벤처",
-    "how": "온라인 접수 (이벤터스)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122330",
-    "region": "경기",
-    "deadline": "2026-06-19",
     "trend_score": 0,
     "collected_date": "2026-06-19"
   },
@@ -1833,19 +1820,6 @@
     "collected_date": "2026-06-19"
   },
   {
-    "id": "PBLN_000000000122786",
-    "name": "[강원] 양구군ㆍ인제군 2026년 2차 초접경지역 경제활력 향상 및 생활인구 확대를 위한 로컬푸드 산업 육성사업 참여기업 모집공고 (시군구 연고산업육성 협업프로젝트)",
-    "desc": "2026년도 중소벤처기업부와 강원특별자치도 및 양구군, 인제군이 지원하는 시군구연고산업육성 협업프로젝트 수행자로 선정된 수행기관별 지원 프로그램을 안내하오니, 해당 프로그램 참여를 희망하는 양구군, 인제군 지역 중소기업의 많은 신청 바랍니다.☞ 다음 사항을 모두 만족하는 기업- 양구군, 인제군 소재 중소기업(본사, 공장 또는 기업부설연구소 등 1개 이상)으",
-    "org": "중소벤처기업부",
-    "target": "중소기업",
-    "how": "온라인 접수(기업지원사업 관리시스템)",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122786",
-    "region": "전국",
-    "deadline": "2026-06-19",
-    "trend_score": 0,
-    "collected_date": "2026-06-19"
-  },
-  {
     "id": "PBLN_000000000122739",
     "name": "[대전] 소상공인ㆍ자영업자 재기지원 (폐업정리) 참여자 모집 공고",
     "desc": "&nbsp;소상공인 재기지원을 위한「대전 소상공인ㆍ자영업자 재기지원(폐업정리)」의&nbsp; 지원대상자를 다음과 같이 모집 공고합니다.☞ 공고일 기준 아래 요건에 모두 해당되는 폐업(예정) 소상공인-&nbsp;새출발기금 매입형 또는 중개형 채무조정 약정 체결한 성실 상환자 중 대전광역시에서 사업장을 운영 중인 폐업(예정) 소상공인&nbsp;- 유상 임대차 ",
@@ -1872,17 +1846,43 @@
     "collected_date": "2026-06-19"
   },
   {
-    "id": "PBLN_000000000121806",
-    "name": "2026년 올해의 상생기업 대상 포상 공고",
-    "desc": "대ㆍ중소기업 간 상생협력 문화확산에 기여한 2026년도「올해의 상생기업\r\n대상」포상 후보자를 아래와 같이 모집하오니, 많은 신청 바랍니다.☞&nbsp; 대ㆍ중소기업 간 동반성장에 기여한 개인ㆍ단체- (개인 부문) 대ㆍ중견ㆍ중소기업(소상공인 포함) 및 공공기관, 지방\r\n공기업, 유관기관(협ㆍ단체) 등의 경영자 및 임ㆍ직원 등- (단체 부문) 대ㆍ중견ㆍ중소기업",
-    "org": "중소벤처기업부",
-    "target": "중소기업",
-    "how": "온라인 접수\r\n- 일반포상 분야 : 동반성장위원회누리집\r\n- 국민추천 분야 : 국민추천 게시판",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000121806",
-    "region": "전국",
-    "deadline": "2026-06-19",
+    "id": "PBLN_000000000122580",
+    "name": "[경북] 청도군 2026년 소상공인 카드수수료 지원사업 참여 점포 모집 공고",
+    "desc": "경상북도와 청도군, 경상북도경제진흥원은 경기 침체로 어려움을 겪고 있는 소상공인을 위한 ‘소상공인 카드수수료 지원사업’의 참여 점포를 모집하고 있으니, 관심 있는 소상공인분들의 많은 신청 부탁드립니다.☞ 2025년 매출액 2억원 이하,사업자등록증 상 소재지가 ‘청도군’인 소상공인☞ 2025년 카드 매출액의 0.4% 지원 (최저 5만원, 최대 40만원)",
+    "org": "경상북도",
+    "target": "소상공인",
+    "how": "온라인 및 방문 접수\r\n- 온라인 : 행복카드.kr\r\n- 접수처 : (청도군) 청도군 읍ㆍ면 사무소, (경제진흥원 동부지소) 포항시 남구 희망대로 859, 2층\r\n※ 접수 우선순위는 온라인(행복카드.kr) 등록 기준으로 결정되며, 온라인 등록이 아닌 방법으로 신청서를 제출할 경우,접수 순번이 늦어질 수 있습니다.",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122580",
+    "region": "경북",
+    "deadline": "예산소진시",
     "trend_score": 0,
-    "collected_date": "2026-06-19"
+    "collected_date": "2026-06-20"
+  },
+  {
+    "id": "PBLN_000000000122509",
+    "name": "[부산] 부산진구 2026년 소상공인 경영전략 컨설팅 지원사업 참여 대상자 모집 공고",
+    "desc": "부산진구에서는 경영환경 변화로 영업에 어려움을 겪고 있는 소상공인에게 전문 컨설팅을 제공하는「2026년 부산진구 소상공인 경영전략 컨설팅」사업을 추진하오니, 부산진구 소상공인 업체들의 많은 지원 바랍니다.&nbsp;☞&nbsp;부산진구 관내 소상공인☞ 일반 경영관리, 홍보마케팅 분야 업체별 컨설팅 기본 2회 제공 (최대 3회)",
+    "org": "부산광역시",
+    "target": "소상공인",
+    "how": "방문 또는 이메일 접수\r\n- 접수처 : 부산진구 시민공원로 30, 부산진구청 12층 경제관광과\r\n- 이메일 : mimosa02@korea.kr\r\n※ 메일발송 후, 반드시 접수여부 확인 (051-605-4486)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122509",
+    "region": "부산",
+    "deadline": "2026-06-30",
+    "trend_score": 0,
+    "collected_date": "2026-06-20"
+  },
+  {
+    "id": "PBLN_000000000122431",
+    "name": "[충남] 아산시 2026년 착한가격업소 소규모 시설개선 지원사업 공고",
+    "desc": "착한가격업소를 운영하는 관내 소상공인의 자생력과 경쟁력을 제고하고, 지역물가 안정화를 위해 추진하는 2026년 아산시 착한가격업소 소규모 시설개선 지원 사업에 대하여「아산시 착한가격업소 지원 및 관리에 관한 조례」제6조에 따라 다음과 같이 공고합니다.☞&nbsp;공고일 기준 아산시 착한가격업소 지정 후 1년 이상 경과한 업소☞ 소규모 시설 개선(인테리어, ",
+    "org": "충청남도",
+    "target": "소상공인",
+    "how": "방문 접수\r\n- 접수처 : 아산시청 지역경제과(아산시 시민로 456, 별관 3층)",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122431",
+    "region": "충남",
+    "deadline": "2026-06-30",
+    "trend_score": 0,
+    "collected_date": "2026-06-20"
   },
   {
     "id": "PBLN_000000000121529",
