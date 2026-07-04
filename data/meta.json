@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-04 07:49:36",
+  "updated_at": "2026-07-05 07:43:00",
   "timezone": "KST",
   "subsidies_count": 972,
   "business_count": 0,
-  "housing_count": 167,
+  "housing_count": 168,
   "medical_count": 518,
   "finance_count": 235,
   "new_today": {
     "subsidies": 0,
     "business": 0,
-    "housing": 0,
+    "housing": 1,
     "medical": 0,
     "finance": 0
   },
@@ -20,7 +20,7 @@
     "부산": 75,
     "대구": 51,
     "인천": 64,
-    "광주": 244,
+    "광주": 245,
     "대전": 20,
     "울산": 43,
     "세종": 24,
