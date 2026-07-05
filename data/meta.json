@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 07:43:00",
+  "updated_at": "2026-07-06 07:44:30",
   "timezone": "KST",
   "subsidies_count": 972,
   "business_count": 0,
@@ -9,7 +9,7 @@
   "new_today": {
     "subsidies": 0,
     "business": 0,
-    "housing": 1,
+    "housing": 0,
     "medical": 0,
     "finance": 0
   },
