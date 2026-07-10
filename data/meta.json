@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-07-10 07:59:41",
+  "updated_at": "2026-07-11 07:45:41",
   "timezone": "KST",
   "subsidies_count": 974,
-  "business_count": 148,
+  "business_count": 150,
   "housing_count": 169,
   "medical_count": 519,
-  "finance_count": 387,
+  "finance_count": 389,
   "new_today": {
     "subsidies": 0,
-    "business": 148,
-    "housing": 1,
+    "business": 8,
+    "housing": 0,
     "medical": 0,
-    "finance": 152
+    "finance": 3
   },
   "trend_keywords_count": 49,
   "region_stats": {
-    "전국": 247,
+    "전국": 244,
     "서울": 203,
     "부산": 81,
     "대구": 58,
-    "인천": 95,
-    "광주": 278,
+    "인천": 97,
+    "광주": 277,
     "대전": 29,
-    "울산": 56,
+    "울산": 57,
     "세종": 27,
-    "경기": 291,
+    "경기": 292,
     "강원": 114,
     "충북": 117,
     "충남": 155,
-    "전북": 113,
+    "전북": 112,
     "전남": 7,
-    "경북": 115,
+    "경북": 117,
     "경남": 160,
-    "제주": 51
+    "제주": 54
   }
 }
