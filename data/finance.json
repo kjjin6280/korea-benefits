@@ -9,7 +9,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000076",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -24,7 +24,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100009",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -39,7 +39,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100010",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -54,7 +54,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100028",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -69,7 +69,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100037",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -84,7 +84,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100038",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -99,7 +99,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100041",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.17,
+    "trend_score": 75.03,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -114,7 +114,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100003",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 23.02,
+    "trend_score": 22.04,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -129,7 +129,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100013",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 23.02,
+    "trend_score": 22.04,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -144,7 +144,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100030",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 23.02,
+    "trend_score": 22.04,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -159,7 +159,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100042",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 23.02,
+    "trend_score": 22.04,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-05-27"
@@ -324,7 +324,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 70.54,
+    "trend_score": 80.98,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -339,7 +339,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000150",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 63.96,
+    "trend_score": 63.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -354,7 +354,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000125",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -369,7 +369,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000148",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -384,7 +384,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000150",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -399,7 +399,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/511000000111",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -414,7 +414,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00074000004",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -422,14 +422,14 @@
   {
     "id": "O00093000008",
     "name": "소상공인 창업자금 이차보전 지원",
-    "desc": "전라남도 소상공인 대상 대출 이자 지원(업체당 1억원이내)",
+    "desc": "전남광주통합특별시 소상공인 대상 대출 이자 지원(업체당 1억원이내)",
     "org": "전남신용보증재단",
-    "target": "○ 도내 소재 창업 2년 미만의 소상공인\r\n\r\n○ 도내 소재 업력 5년 미만 업체로 최근 2년 이내 전남신용보증재단, 전남창조경제혁신센터, 소상공인시장진흥공단에서 중 창업 또는 경영개선 관련 교육(컨설팅 포함) 이수 사업자\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 전라남도 소상공인 육성자금 대출중인 업체, 당해연도 추천 후 대출하지 않은 기업, 당해연도 정부·지자체 및 공공기관으로부터 운영자금 수혜기업, 기타 자금지원관련 규정에서 제외하도록 정한 업체",
+    "target": "○ 전남광주통합특별시 내 소재 창업 2년 미만의 소상공인\r\n\r\n○ 전남광주통합특별시 내 소재 업력 5년 미만 업체로 최근 2년 이내 전남신용보증재단, 전남창조경제혁신센터, 소상공인시장진흥공단에서 중 창업 또는 경영개선 관련 교육(컨설팅 포함) 이수 사업자\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 전남광주통합특별시 소상공인 육성자금 대출중인 업체, 당해연도 추천 후 대출하지 않은 기업, 당해연도 정부·지자체 및 공공기관으로부터 운영자금 수혜기업, 기타 자금지원관련 규정에서 제외하도",
     "how": "방문신청",
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000008",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -437,14 +437,14 @@
   {
     "id": "O00093000015",
     "name": "소상공인 경영안정자금(일반) 이차보전 지원",
-    "desc": "전라남도 소상공인 대상 대출 이자 지원",
+    "desc": "전남광주통합특별시 소상공인 대상 대출 이자 지원",
     "org": "전남신용보증재단",
-    "target": "○ 경영애로를 겪고 있는 전남 소재 소상공인\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 전라남도 소상공인 육성자금 대출중인 업체, 당해연도 추천 후 대출하지 않은 기업, 당해연도 정부·지자체 및 공공기관으로부터 운영자금 수혜기업, 기타 자금지원관련 규정에서 제외하도록 정한 업체",
+    "target": "○ 경영애로를 겪고 있는 전남 소재 소상공인\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 전남광주통합특별시 소상공인 육성자금 대출중인 업체, 당해연도 추천 후 대출하지 않은 기업, 당해연도 정부·지자체 및 공공기관으로부터 운영자금 수혜기업, 기타 자금지원관련 규정에서 제외하도록 정한 업체",
     "how": "방문신청",
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000015",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -452,14 +452,14 @@
   {
     "id": "O00093000018",
     "name": "소상공인 경영안정자금(재기지원) 이차보전 지원",
-    "desc": "전라남도 소상공인 대상 대출 이자 지원",
+    "desc": "전남광주통합특별시 소상공인 대상 대출 이자 지원",
     "org": "전남신용보증재단",
-    "target": "○ 도내 소재 소상공인 중 재도전지원 특례보증 또는 회생지원보증 대상 기업\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 기타 자금지원관련 규정에서 제외하도록 정한 업체",
+    "target": "○ 전남광주통합특별시 내 소재 소상공인 중 재도전지원 특례보증 또는 회생지원보증 대상 기업\r\n\r\n○ (지원제외 대상) 국세 및 지방세 체납 중인 기업, 휴폐업중인 기업, 유흥주점업 등, 기타 자금지원관련 규정에서 제외하도록 정한 업체",
     "how": "방문신청",
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000018",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.59,
+    "trend_score": 1.58,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -474,7 +474,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/355000000112",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -489,7 +489,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/654000000034",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -504,7 +504,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00072800005",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-05-27"
@@ -849,7 +849,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 70.54,
+    "trend_score": 80.98,
     "source": "정부24",
     "finance_type": "전세·주택대출",
     "collected_date": "2026-05-27"
@@ -864,7 +864,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/491000000280",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 70.54,
+    "trend_score": 80.98,
     "source": "정부24",
     "finance_type": "전세·주택대출",
     "collected_date": "2026-05-27"
@@ -1764,7 +1764,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/350000000115",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-05-27"
@@ -1779,7 +1779,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/352000000111",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-05-27"
@@ -1794,7 +1794,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000134",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-05-27"
@@ -1809,7 +1809,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55247300003",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-05-27"
@@ -1996,7 +1996,7 @@
   },
   {
     "id": "O00093000004",
-    "name": "전라남도 수출피해기업 지원 보증",
+    "name": "전남광주통합특별시 수출피해기업 지원 보증",
     "desc": "관내 수출피해 소상공인에 보증서 발급을 통한 대출 지원(3억원이내)",
     "org": "전남신용보증재단",
     "target": "○ 아래 3가지 사항을 모두 충족하는 중소기업\r\n - 사업자 등록 후 사업을 영위(가동) 중\r\n - 전년도 해외 수출실적이 있는 기업\r\n - 일본의 한국 수출규제, 러시아-우크라이나 사태, 또는 코로나19 확산 피해 기업(대표자 개인신용평점 355점 이상)",
@@ -2064,7 +2064,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000242",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 6.5,
+    "trend_score": 6.62,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2079,7 +2079,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000143",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.5,
+    "trend_score": 6.62,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2090,11 +2090,11 @@
     "desc": "관내 공공임대주택(송우파인빌, 포애뜰)에 거주하는 청년·신혼부부에게 주거비 지원",
     "org": "경기도 포천시",
     "target": "○ 지원대상: 아래 2가지 조건 모두 충족하는 자\r\n    - 신청 공고일 기준 공공임대주택(포애뜰, 송우파인빌)에 거주하는 *청년·**신혼부부\r\n    - 신청 공고일 기준 해당 주택에 주민등록을 둔 자\r\n     * 청년: 19 ~ 39세 이하(1986. 1. 1.~2007. 12. 31. 출생) 미혼 청년\r\n    ** 신혼부부: 혼인기간 7년 이내(2019. 1. 1.이후 혼인신고) 또는 신청일 기준 3개월 이내 혼인 예정인 부부\r\n\r\n   ※ 단, 송우파인빌의 경우 2026년 1월 이전 입주자는 월 임대료로 신청(2026년",
-    "how": "정부24온라인신청||방문신청",
+    "how": "방문신청",
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 6.5,
+    "trend_score": 6.62,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-06-02"
@@ -2109,7 +2109,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000069",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2124,7 +2124,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000258",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2139,7 +2139,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000149",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2154,7 +2154,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045200003",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.07,
+    "trend_score": 0.1,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2169,7 +2169,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/366000000117",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 0.05,
+    "trend_score": 0.07,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2184,7 +2184,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000195",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0.05,
+    "trend_score": 0.07,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
@@ -2199,7 +2199,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55400900024",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.05,
+    "trend_score": 0.07,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-05-27"
