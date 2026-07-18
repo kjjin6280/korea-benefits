@@ -1,44 +1,5 @@
 [
   {
-    "id": "161300000076",
-    "name": "버팀목전세자금대출",
-    "desc": "무주택 근로자 및 서민을 위해 임차보증금의 70% 내외, 저렴한 금리로 전세자금 대출 지원",
-    "org": "국토교통부",
-    "target": "○ 만19세 이상 세대주(단독세대주인 경우 만25세 이상), 무주택자, 부부합산 연 소득 5천만원 이하인 자(2자녀 이상 가구 6천만원 이하, 신혼가구 7.5천만원 이하)",
-    "how": "기타 온라인신청||방문신청",
-    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
-    "region": "전국",
-    "deadline": "상시",
-    "trend_score": 76.7,
-    "collected_date": "2026-05-27"
-  },
-  {
-    "id": "491000000280",
-    "name": "전입세대 희망 주거비 지원",
-    "desc": "관내 전입 세대주에게 월세 또는 전세자금대출이자 5년간 최대 1320만원 지원",
-    "org": "전남광주통합특별시 장흥군",
-    "target": "- 타 시‧군‧구에 1년 이상 주민등록을 두고 있다가  관내로 전입 신고한 세대\r\n- 전세 또는 월세로 거주하면서「주택임대차보호법」에 따른 확정일자를 받았을 것",
-    "how": "방문신청",
-    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/491000000280",
-    "region": "광주",
-    "deadline": "상시",
-    "trend_score": 76.7,
-    "collected_date": "2026-05-27"
-  },
-  {
-    "id": "629000000789",
-    "name": "신혼부부전세자금대출이자지원",
-    "desc": "주택도시기금 신혼부부전세자금 대출자에게 자녀수별 이자 지원",
-    "org": "전남광주통합특별시",
-    "target": "지원대상 : 『주택도시기금 신혼부부 전용 전세자금대출』 신규 대출자 및 대출 연장자('21.1월이후)\r\n- 대출(신청)자의 주민등록 및 임차(전세)주택 주소지가 광주지역에 소재하고 3개월이내 혼인 예정이거나 혼인신고일 기준 7년차 이내 무주택 신혼부부",
-    "how": "직접입력",
-    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
-    "region": "광주",
-    "deadline": "상시",
-    "trend_score": 76.7,
-    "collected_date": "2026-05-27"
-  },
-  {
     "id": "999000000026",
     "name": "행복주택 공급",
     "desc": "청년, 신혼부부 등 젊은 사회계층에게 저렴한 조건으로 직주근접의 공공임대주택 제공",
@@ -52,6 +13,45 @@
     "collected_date": "2026-05-27"
   },
   {
+    "id": "161300000076",
+    "name": "버팀목전세자금대출",
+    "desc": "무주택 근로자 및 서민을 위해 임차보증금의 70% 내외, 저렴한 금리로 전세자금 대출 지원",
+    "org": "국토교통부",
+    "target": "○ 만19세 이상 세대주(단독세대주인 경우 만25세 이상), 무주택자, 부부합산 연 소득 5천만원 이하인 자(2자녀 이상 가구 6천만원 이하, 신혼가구 7.5천만원 이하)",
+    "how": "기타 온라인신청||방문신청",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
+    "region": "전국",
+    "deadline": "상시",
+    "trend_score": 75.76,
+    "collected_date": "2026-05-27"
+  },
+  {
+    "id": "491000000280",
+    "name": "전입세대 희망 주거비 지원",
+    "desc": "관내 전입 세대주에게 월세 또는 전세자금대출이자 5년간 최대 1320만원 지원",
+    "org": "전남광주통합특별시 장흥군",
+    "target": "- 타 시‧군‧구에 1년 이상 주민등록을 두고 있다가  관내로 전입 신고한 세대\r\n- 전세 또는 월세로 거주하면서「주택임대차보호법」에 따른 확정일자를 받았을 것",
+    "how": "방문신청",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/491000000280",
+    "region": "광주",
+    "deadline": "상시",
+    "trend_score": 75.76,
+    "collected_date": "2026-05-27"
+  },
+  {
+    "id": "629000000789",
+    "name": "신혼부부전세자금대출이자지원",
+    "desc": "주택도시기금 신혼부부전세자금 대출자에게 자녀수별 이자 지원",
+    "org": "전남광주통합특별시",
+    "target": "지원대상 : 『주택도시기금 신혼부부 전용 전세자금대출』 신규 대출자 및 대출 연장자('21.1월이후)\r\n- 대출(신청)자의 주민등록 및 임차(전세)주택 주소지가 광주지역에 소재하고 3개월이내 혼인 예정이거나 혼인신고일 기준 7년차 이내 무주택 신혼부부",
+    "how": "직접입력",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
+    "region": "광주",
+    "deadline": "상시",
+    "trend_score": 75.76,
+    "collected_date": "2026-05-27"
+  },
+  {
     "id": "300000000123",
     "name": "저소득가구 명절 위문금 지원(기초주거급여,기초교육급여, 차상위 및 법정 한부모가정)",
     "desc": "저소득 주민 명절 위문금 지원",
@@ -61,7 +61,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000123",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 22.65,
+    "trend_score": 22.44,
     "collected_date": "2026-05-27"
   },
   {
@@ -74,7 +74,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000140",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 22.65,
+    "trend_score": 22.44,
     "collected_date": "2026-05-27"
   },
   {
@@ -87,7 +87,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000096",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 22.65,
+    "trend_score": 22.44,
     "collected_date": "2026-05-27"
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/464000000125",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 22.65,
+    "trend_score": 22.44,
     "collected_date": "2026-05-27"
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000678",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 22.65,
+    "trend_score": 22.44,
     "collected_date": "2026-05-27"
   },
   {
@@ -126,7 +126,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -139,7 +139,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000113",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -152,7 +152,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -165,7 +165,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000515",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/443000000661",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -191,7 +191,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/486000000132",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -204,7 +204,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000110",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -217,7 +217,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/494000000130",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -230,7 +230,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000000127",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -243,7 +243,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000155",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001055",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -269,7 +269,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001119",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 7.54,
+    "trend_score": 7.39,
     "collected_date": "2026-05-27"
   },
   {
@@ -282,7 +282,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000101",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -295,7 +295,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000242",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -308,7 +308,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000143",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -321,7 +321,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-06-02"
   },
   {
@@ -334,7 +334,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000626",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -347,7 +347,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000661",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -360,7 +360,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00001400002",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -373,7 +373,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200001",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -386,7 +386,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200006",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -399,7 +399,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200008",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 7.04,
+    "trend_score": 6.96,
     "collected_date": "2026-05-27"
   },
   {
@@ -412,7 +412,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000347",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 2.43,
+    "trend_score": 2.41,
     "collected_date": "2026-05-27"
   },
   {
@@ -425,7 +425,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000393",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 2.43,
+    "trend_score": 2.41,
     "collected_date": "2026-05-27"
   },
   {
