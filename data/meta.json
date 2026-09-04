@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-03 08:37:11",
+  "updated_at": "2026-09-04 08:34:59",
   "timezone": "KST",
   "subsidies_count": 979,
   "business_count": 0,
   "housing_count": 166,
-  "medical_count": 522,
+  "medical_count": 521,
   "finance_count": 232,
   "new_today": {
     "subsidies": 0,
@@ -24,7 +24,7 @@
     "대전": 20,
     "울산": 44,
     "세종": 24,
-    "경기": 252,
+    "경기": 251,
     "강원": 74,
     "충북": 107,
     "충남": 140,
