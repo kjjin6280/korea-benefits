@@ -9,7 +9,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000076",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -24,7 +24,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100009",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -39,7 +39,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100010",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -54,7 +54,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100028",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -69,7 +69,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100037",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -84,7 +84,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100038",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -99,7 +99,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100041",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 62.28,
+    "trend_score": 68.7,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -114,7 +114,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100003",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 14.16,
+    "trend_score": 16.3,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -129,7 +129,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100013",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 14.16,
+    "trend_score": 16.3,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -144,7 +144,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100030",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 14.16,
+    "trend_score": 16.3,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -159,7 +159,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55370100042",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 14.16,
+    "trend_score": 16.3,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-08-09"
@@ -174,7 +174,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/582000000002",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "서민대출",
     "collected_date": "2026-09-08"
@@ -339,7 +339,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 65.62,
+    "trend_score": 71.47,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -354,7 +354,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000150",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 63.92,
+    "trend_score": 70.89,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -369,7 +369,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126517",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 63.92,
+    "trend_score": 70.89,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -384,7 +384,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117576",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 63.92,
+    "trend_score": 70.89,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -399,7 +399,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117309",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 63.92,
+    "trend_score": 70.89,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -414,7 +414,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000125",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -429,7 +429,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000148",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -444,7 +444,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000150",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -459,7 +459,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/511000000111",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -474,7 +474,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/582000000001",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-09-08"
@@ -489,7 +489,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00074000004",
     "region": "대구",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -504,7 +504,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000008",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -519,7 +519,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000015",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -534,7 +534,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093000018",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -549,7 +549,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126943",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-02"
@@ -564,7 +564,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126643",
     "region": "부산",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -579,7 +579,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126597",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -594,7 +594,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126494",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -609,7 +609,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126190",
     "region": "전국",
     "deadline": "2026-11-13",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -624,7 +624,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126186",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -639,7 +639,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126184",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -654,7 +654,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126132",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -669,7 +669,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125737",
     "region": "제주",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -684,7 +684,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125705",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -699,7 +699,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124915",
     "region": "대전",
     "deadline": "2026-12-31",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -714,7 +714,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124861",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -729,7 +729,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124179",
     "region": "광주",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -744,7 +744,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123770",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -759,7 +759,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000123260",
     "region": "전국",
     "deadline": "2026-11-13",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -774,7 +774,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120889",
     "region": "광주",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -789,7 +789,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120268",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -804,7 +804,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120241",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -819,7 +819,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120177",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -834,7 +834,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120158",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -849,7 +849,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117950",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -864,7 +864,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117646",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -879,7 +879,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117644",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -894,7 +894,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117634",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -909,7 +909,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117632",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -924,7 +924,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117630",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -939,7 +939,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117626",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -954,7 +954,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117624",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -969,7 +969,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117597",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -984,7 +984,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117602",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -999,7 +999,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117579",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1014,7 +1014,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117554",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1029,7 +1029,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117535",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1044,7 +1044,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117495",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1059,7 +1059,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117490",
     "region": "전북",
     "deadline": "2026-11-20",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1074,7 +1074,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117340",
     "region": "경북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1089,7 +1089,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117316",
     "region": "경북",
     "deadline": "2026-12-31",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1104,7 +1104,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117303",
     "region": "경남",
     "deadline": "2026-12-29",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1119,7 +1119,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117278",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1134,7 +1134,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117283",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1149,7 +1149,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117258",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1164,7 +1164,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117254",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1179,7 +1179,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117214",
     "region": "경북",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1194,7 +1194,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117188",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1209,7 +1209,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117130",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1224,7 +1224,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000116998",
     "region": "경북",
     "deadline": "상시",
-    "trend_score": 1.98,
+    "trend_score": 1.91,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1239,7 +1239,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/355000000112",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -1254,7 +1254,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/654000000034",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-09"
@@ -1269,7 +1269,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00072800005",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-08-30"
@@ -1284,7 +1284,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126560",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1299,7 +1299,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122346",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1314,7 +1314,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120715",
     "region": "광주",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1329,7 +1329,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120234",
     "region": "광주",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1344,7 +1344,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118881",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1359,7 +1359,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118880",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1374,7 +1374,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118879",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1389,7 +1389,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000118064",
     "region": "대구",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1404,7 +1404,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117791",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "대출이자 감면",
     "collected_date": "2026-10-01"
@@ -1785,21 +1785,6 @@
     "collected_date": "2026-08-09"
   },
   {
-    "id": "PBLN_000000000126724",
-    "name": "[전남광주] 순천시 2026년 4차 소상공인 금융지원 시행 공고",
-    "desc": "「순천시 소상공인 지원 조례 시행규칙」제2조에 따라 2026년도 4분기 순천시 소상공인 금융지원 계획을 다음과 같이 공고합니다.☞ 「소상공인기본법」제2조 및 같은 법 시행령 제3조에서 정하는기준에 해당하는 자 중에 아래의 요건을 모두 갖춘 소상공인-&nbsp;순천시에 사업장을 두고 신청일 기준 1년 이상 영업을 유지하고 있는 자※ 자세한 지원자격 공고문 참",
-    "org": "전남광주통합특별시",
-    "target": "소상공인",
-    "how": "",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126724",
-    "region": "광주",
-    "deadline": "2026-10-02",
-    "trend_score": 0,
-    "source": "기업마당",
-    "finance_type": "대출이자 감면",
-    "collected_date": "2026-10-01"
-  },
-  {
     "id": "PBLN_000000000124111",
     "name": "[경기] 부천시 2026년 하반기 중소기업육성자금 지원 계획 공고",
     "desc": "「부천시 기업 육성 및 지원에 관한 조례」제40조의 규정에 따라 2026년도 하반기 중소기업육성자금 지원 계획을 다음과 같이 공고합니다.☞&nbsp;신청일 현재「중소기업기본법」 제2조에 따른 중소기업- 제조업, 제조업 관련 서비스업, 지식기반(서비스)산업, 호텔업※ 자세한 지원대상 공고문 참조☞&nbsp;협약은행에서 자금 대출 시 대출이자 일부 지원- 이차",
@@ -2055,6 +2040,21 @@
     "collected_date": "2026-08-09"
   },
   {
+    "id": "PBLN_000000000117526",
+    "name": "[경남] 2026년 소상공인 정책자금 운용계획 공고",
+    "desc": "도내 소상공인의 경영 안정과 경쟁력 강화를 도모하고자 2026년도 경상남도 소상공인 정책자금 운용계획을 다음과 같이 공고합니다.☞&nbsp;경남 도내에 소재하고 있는 「소상공인기본법」 제2조에 따른 소상공인※ 세부사업별 지원대상 상이 (공고문 참조)☞&nbsp;소상공인 창업 및 경영안정에 필요한 시설ㆍ운전자금 지원- 경영안정자금 및 창업ㆍ명절 특별자금, 버",
+    "org": "경상남도",
+    "target": "소상공인",
+    "how": "",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117526",
+    "region": "경남",
+    "deadline": "예산소진시",
+    "trend_score": 73.21,
+    "source": "기업마당",
+    "finance_type": "전세·주택대출",
+    "collected_date": "2026-10-01"
+  },
+  {
     "id": "161300000076",
     "name": "버팀목전세자금대출",
     "desc": "무주택 근로자 및 서민을 위해 임차보증금의 70% 내외, 저렴한 금리로 전세자금 대출 지원",
@@ -2064,7 +2064,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 65.62,
+    "trend_score": 71.47,
     "source": "정부24",
     "finance_type": "전세·주택대출",
     "collected_date": "2026-08-09"
@@ -2079,25 +2079,10 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/491000000280",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 65.62,
+    "trend_score": 71.47,
     "source": "정부24",
     "finance_type": "전세·주택대출",
     "collected_date": "2026-08-09"
-  },
-  {
-    "id": "PBLN_000000000117526",
-    "name": "[경남] 2026년 소상공인 정책자금 운용계획 공고",
-    "desc": "도내 소상공인의 경영 안정과 경쟁력 강화를 도모하고자 2026년도 경상남도 소상공인 정책자금 운용계획을 다음과 같이 공고합니다.☞&nbsp;경남 도내에 소재하고 있는 「소상공인기본법」 제2조에 따른 소상공인※ 세부사업별 지원대상 상이 (공고문 참조)☞&nbsp;소상공인 창업 및 경영안정에 필요한 시설ㆍ운전자금 지원- 경영안정자금 및 창업ㆍ명절 특별자금, 버",
-    "org": "경상남도",
-    "target": "소상공인",
-    "how": "",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117526",
-    "region": "경남",
-    "deadline": "예산소진시",
-    "trend_score": 63.15,
-    "source": "기업마당",
-    "finance_type": "전세·주택대출",
-    "collected_date": "2026-10-01"
   },
   {
     "id": "337000000121",
@@ -2994,7 +2979,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120023",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 63.15,
+    "trend_score": 73.21,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3009,7 +2994,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/350000000115",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-08-09"
@@ -3024,7 +3009,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/352000000111",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-08-09"
@@ -3039,7 +3024,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/403000000134",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-08-09"
@@ -3054,7 +3039,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55247300003",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "보증지원",
     "collected_date": "2026-08-09"
@@ -3069,7 +3054,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126422",
     "region": "충남",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3084,7 +3069,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126421",
     "region": "충남",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3099,7 +3084,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125411",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3114,7 +3099,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122026",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3129,7 +3114,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117621",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3144,7 +3129,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117588",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3159,7 +3144,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117498",
     "region": "충남",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3174,7 +3159,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117071",
     "region": "부산",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "보증지원",
     "collected_date": "2026-10-01"
@@ -3600,19 +3585,19 @@
     "collected_date": "2026-10-01"
   },
   {
-    "id": "PBLN_000000000124909",
-    "name": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 4차 변경 공고",
+    "id": "PBLN_000000000126965",
+    "name": "2026년 중소벤처기업부 소상공인 정책자금 융자사업 5차 변경 공고",
     "desc": "「소상공인 보호 및 지원에 관한 법률」제9조에 의한 “2026년 중소벤처기업부 소상공인 정책자금 융자사업”을 다음과 같이 공고합니다.☞ 「소상공인기본법」제2조 및 같은 법 시행령 제3조의 소상공인※ 세부사업별 지원대상 상이, 자세한 사항 공고문 참조☞ 일반경영안정자금, 특별경영안정자금, 성장기반자금 등 지원※ 세부사업별 지원대상 상이, 자세한 사항 공고문 ",
     "org": "중소벤처기업부",
     "target": "소상공인",
     "how": "",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000124909",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126965",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 63.15,
+    "trend_score": 73.21,
     "source": "기업마당",
     "finance_type": "기타 금융",
-    "collected_date": "2026-10-01"
+    "collected_date": "2026-10-03"
   },
   {
     "id": "451000000242",
@@ -3624,7 +3609,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000242",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 9.28,
+    "trend_score": 9.34,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3639,7 +3624,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000143",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 9.28,
+    "trend_score": 9.34,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3654,7 +3639,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 9.28,
+    "trend_score": 9.34,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3669,7 +3654,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142100000069",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3684,7 +3669,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000258",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3699,7 +3684,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000149",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3714,7 +3699,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00045200003",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "정부24",
     "finance_type": "기타 금융",
     "collected_date": "2026-08-09"
@@ -3729,7 +3714,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126944",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-02"
@@ -3744,7 +3729,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126594",
     "region": "전북",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3759,7 +3744,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000125410",
     "region": "강원",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3774,7 +3759,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000122024",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3789,7 +3774,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117995",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3804,7 +3789,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117979",
     "region": "인천",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3819,7 +3804,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117972",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3834,7 +3819,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117964",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3849,7 +3834,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117920",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3864,7 +3849,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117534",
     "region": "충남",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3879,7 +3864,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117221",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3894,7 +3879,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117177",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3909,7 +3894,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117158",
     "region": "경북",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3924,7 +3909,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117103",
     "region": "대전",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -3939,7 +3924,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117074",
     "region": "경기",
     "deadline": "예산소진시",
-    "trend_score": 0.17,
+    "trend_score": 0.18,
     "source": "기업마당",
     "finance_type": "기타 금융",
     "collected_date": "2026-10-01"
@@ -5499,21 +5484,6 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126662",
     "region": "충북",
     "deadline": "예산소진시",
-    "trend_score": 0,
-    "source": "기업마당",
-    "finance_type": "기타 금융",
-    "collected_date": "2026-10-01"
-  },
-  {
-    "id": "PBLN_000000000126440",
-    "name": "2026년 예술산업 금융지원 시범사업(융자) 5차 공모",
-    "desc": "문화체육관광부와 예술경영지원센터는 예술 분야 사업자를 대상으로 저리의 융자 자금 공급을 통해 예술산업의 지속가능한 성장 및 미래 경쟁력을 제고하고자 &lt;2026 예술산업 금융지원 시범사업(융자) 5차 공모&gt;를 진행합니다. 관심 있는 예술 분야 사업자의 많은 참여 바랍니다.☞&nbsp;공고일 기준 사업자등록증을 보유한 예술 분야 사업자 (민간예술시설",
-    "org": "문화체육관광부",
-    "target": "중소기업",
-    "how": "",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126440",
-    "region": "전국",
-    "deadline": "2026-10-02",
     "trend_score": 0,
     "source": "기업마당",
     "finance_type": "기타 금융",
