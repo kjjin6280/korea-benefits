@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 09:46:20",
+  "updated_at": "2026-10-04 09:09:12",
   "timezone": "KST",
   "subsidies_count": 977,
   "business_count": 162,
@@ -7,11 +7,11 @@
   "medical_count": 523,
   "finance_count": 415,
   "new_today": {
-    "subsidies": 1,
-    "business": 8,
+    "subsidies": 0,
+    "business": 0,
     "housing": 0,
     "medical": 0,
-    "finance": 1
+    "finance": 0
   },
   "trend_keywords_count": 49,
   "region_stats": {
