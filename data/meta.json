@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-12 09:46:22",
+  "updated_at": "2026-10-13 11:44:20",
   "timezone": "KST",
   "subsidies_count": 978,
-  "business_count": 163,
+  "business_count": 162,
   "housing_count": 170,
   "medical_count": 523,
   "finance_count": 416,
   "new_today": {
     "subsidies": 0,
-    "business": 1,
+    "business": 4,
     "housing": 0,
     "medical": 0,
     "finance": 0
@@ -16,9 +16,9 @@
   "trend_keywords_count": 49,
   "region_stats": {
     "전국": 238,
-    "서울": 208,
-    "부산": 84,
-    "대구": 61,
+    "서울": 207,
+    "부산": 85,
+    "대구": 62,
     "인천": 102,
     "광주": 280,
     "대전": 32,
@@ -31,7 +31,7 @@
     "전북": 121,
     "전남": 7,
     "경북": 124,
-    "경남": 170,
-    "제주": 54
+    "경남": 169,
+    "제주": 53
   }
 }
