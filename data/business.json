@@ -9,7 +9,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126517",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 72.11,
+    "trend_score": 72.52,
     "collected_date": "2026-11-05"
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126965",
     "region": "전국",
     "deadline": "예산소진시",
-    "trend_score": 66.83,
+    "trend_score": 66.48,
     "collected_date": "2026-11-05"
   },
   {
@@ -35,7 +35,7 @@
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000120023",
     "region": "경남",
     "deadline": "예산소진시",
-    "trend_score": 66.83,
+    "trend_score": 66.48,
     "collected_date": "2026-11-05"
   },
   {
@@ -621,19 +621,6 @@
     "region": "대전",
     "deadline": "예산소진시",
     "trend_score": 0.18,
-    "collected_date": "2026-11-05"
-  },
-  {
-    "id": "PBLN_000000000127315",
-    "name": "[강원] 2026년 관광사업체 경영안정자금 지원계획 추가 공고",
-    "desc": "「강원특별자치도 관광사업경영안정자금 지원 조례」 및 같은 조례 시행규칙에 따라 2026년 강원특별자치도 관광사업체 경영안정자금 지원계획을 다음과 같이 공고합니다.☞ 강원특별자치도 내에서 「관광진흥법」에 따라 등록 지정 및 운영 중인 관광사업자-&nbsp;그 밖에 관광여건을 조성하고 관광사업 육성에 도지사가 필요하다고 인정하는 사업 (※해당 기준 별첨)☞ 융",
-    "org": "강원특별자치도",
-    "target": "중소기업",
-    "how": "우편 또는 이메일 접수\r\n- 우편 : 강원특별자치도 강릉시 주문진읍 연주로 270,  강원특별자치도청 제2청사 관광정책과 관광기획팀\r\n- 이메일 : lsg198@korea.kr\r\n※ 방문접수 불가, 접수 시 반드시 접수기간 내 확인전화 요망",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127315",
-    "region": "강원",
-    "deadline": "예산소진시",
-    "trend_score": 0.1,
     "collected_date": "2026-11-05"
   },
   {
@@ -1378,6 +1365,19 @@
     "collected_date": "2026-11-05"
   },
   {
+    "id": "PBLN_000000000117965",
+    "name": "[경기] 수원시 2026년 중소기업 동행지원 사업계획 공고",
+    "desc": "수원시 중소기업의 금융비용 부담을 완화하고 경영안정을 도모하고자 2025년 수원시 중소기업 동행지원 사업계획을 다음과 같이 공고합니다.☞&nbsp;본사나 사업장이 수원시에 소재한 중소기업☞&nbsp;신용 또는 기술보증 연계 자금지원 및 이자ㆍ보증수수료 지원※ 자세한 지원내용 공고문 참조",
+    "org": "경기도",
+    "target": "중소기업",
+    "how": "방문 접수\n- 접수처 : IBK기업은행 전 지점\n※ 협약기관 : (은행) 기업은행 / (보증기관) 신용보증기금, 기술보증기금, 경기신용보증재단\n※ 보증 수수료는 은행—보증기관 간의 협약에 따라 별도 지원",
+    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000117965",
+    "region": "경기",
+    "deadline": "예산소진시",
+    "trend_score": 0,
+    "collected_date": "2026-11-08"
+  },
+  {
     "id": "PBLN_000000000127657",
     "name": "[경북] 구미시 2026년 문화로 창업지원사업 참여 창업자 모집 공고",
     "desc": "2026년 구미시 문화로 자율상권구역 내 신규 창업자 유입과 빈 점포 활용을 통해 지역상권의 활력을 회복하고자 「2026년 구미시 문화로 창업지원사업」참여 창업자를 아래와 같이 모집 공고합니다.☞&nbsp;구미시 문화로 자율상권구역 내 실제 점포 창업을 희망하는 청년 로컬크리에이터 및 신중년 창업자(예비 창업자 포함)☞ 교육ㆍ컨설팅 및 사업화 자금 최대 5",
@@ -1503,19 +1503,6 @@
     "how": "이메일 접수 (youni1004@gtp.or.kr) ",
     "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126774",
     "region": "경기",
-    "deadline": "예산소진시",
-    "trend_score": 0,
-    "collected_date": "2026-11-05"
-  },
-  {
-    "id": "PBLN_000000000126649",
-    "name": "[강원] 2026년 소상공인ㆍ자영업자 재기 지원사업 참여자 모집 공고(새출발기금 협업)",
-    "desc": "새출발기금 채무조정 약정을 체결하고 성실납부 중인 도내 소상공인 및 자영업자의 경영 위기 극복 및 재창업 준비를 돕기 위해 「새출발기금 협업 2026 강원 소상공인ㆍ자영업자 재기 지원사업」의 참여자를 아래와 같이 모집하오니 많은 신청 바랍니다.☞&nbsp;새출발기금 채무조정 약정을 체결한 도내 소상공인 및 자영업자 중 미연체자☞&nbsp;재기 지원을 위한 ",
-    "org": "강원특별자치도",
-    "target": "소상공인",
-    "how": "우편 접수\r\n- 접수처 : 강원특별자치도 원주시 호저로47, 3층 303호 성장지원부",
-    "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000126649",
-    "region": "강원",
     "deadline": "예산소진시",
     "trend_score": 0,
     "collected_date": "2026-11-05"
