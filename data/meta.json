@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-18 12:10:13",
+  "updated_at": "2026-11-19 11:51:08",
   "timezone": "KST",
   "subsidies_count": 963,
-  "business_count": 140,
+  "business_count": 137,
   "housing_count": 170,
   "medical_count": 522,
   "finance_count": 415,
   "new_today": {
     "subsidies": 0,
-    "business": 3,
-    "housing": 2,
+    "business": 1,
+    "housing": 0,
     "medical": 0,
-    "finance": 0
+    "finance": 1
   },
   "trend_keywords_count": 49,
   "region_stats": {
@@ -27,10 +27,10 @@
     "경기": 295,
     "강원": 110,
     "충북": 122,
-    "충남": 147,
+    "충남": 148,
     "전북": 122,
     "전남": 8,
-    "경북": 123,
+    "경북": 119,
     "경남": 161,
     "제주": 56
   }
