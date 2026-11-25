@@ -9,7 +9,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 78.26,
+    "trend_score": 79.51,
     "collected_date": "2026-08-09"
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000026",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 78.26,
+    "trend_score": 79.51,
     "collected_date": "2026-08-09"
   },
   {
@@ -35,7 +35,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000076",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 74.82,
+    "trend_score": 76.48,
     "collected_date": "2026-08-09"
   },
   {
@@ -48,7 +48,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/491000000280",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 74.82,
+    "trend_score": 76.48,
     "collected_date": "2026-08-09"
   },
   {
@@ -61,7 +61,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000789",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 74.82,
+    "trend_score": 76.48,
     "collected_date": "2026-08-09"
   },
   {
@@ -74,7 +74,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/300000000123",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 35.91,
+    "trend_score": 35.69,
     "collected_date": "2026-08-09"
   },
   {
@@ -87,7 +87,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000099",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 25.38,
+    "trend_score": 32.21,
     "collected_date": "2026-08-09"
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000347",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 25.38,
+    "trend_score": 32.21,
     "collected_date": "2026-08-09"
   },
   {
@@ -113,7 +113,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000393",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 25.38,
+    "trend_score": 32.21,
     "collected_date": "2026-08-09"
   },
   {
@@ -126,7 +126,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000412",
     "region": "세종",
     "deadline": "상시",
-    "trend_score": 25.38,
+    "trend_score": 32.21,
     "collected_date": "2026-10-07"
   },
   {
@@ -139,7 +139,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000155",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 25.38,
+    "trend_score": 32.21,
     "collected_date": "2026-08-09"
   },
   {
@@ -152,7 +152,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/305000000140",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 24.67,
+    "trend_score": 25.47,
     "collected_date": "2026-08-09"
   },
   {
@@ -165,7 +165,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/336000000096",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 24.67,
+    "trend_score": 25.47,
     "collected_date": "2026-08-09"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/464000000125",
     "region": "전북",
     "deadline": "상시",
-    "trend_score": 24.67,
+    "trend_score": 25.47,
     "collected_date": "2026-08-09"
   },
   {
@@ -191,7 +191,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000678",
     "region": "강원",
     "deadline": "상시",
-    "trend_score": 24.67,
+    "trend_score": 25.47,
     "collected_date": "2026-08-09"
   },
   {
@@ -204,8 +204,21 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/161300000101",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
+  },
+  {
+    "id": "425100000009",
+    "name": "강원형 공공임대주택(홍천북방) 입주자 모집",
+    "desc": "통합공공임대주택 80세대 공급",
+    "org": "강원특별자치도 홍천군",
+    "target": "○ 청년\r\n- 18세 이상 39세 이하의 무주택자로서 소득·자동차 등 입주자격을 충족하는 사람\r\n- 혼인 중이 아닐 것\r\n○ 신혼부부 및 한부모가정\r\n- 혼인 중인 사람으로서 혼인기간이 7년(전 배우자였던 사람과 재혼하는 경우에는 이전 혼인기간을 포함) 이내인 사람 \r\n- 예비신혼부부 (혼인을 계획 중이며 해당 주택의 입주 전까지 혼인사실을 증명할 수 있는 사람)\r\n- 6세 이하 자녀(2019.11.30. 이후 출생)를 둔 한부모가족 (자녀가 신청자와 동일한 세대별 주민등록표에 등재된 경우에 한함)\r\n○ 주거약자\r\n- 「장애인복지법",
+    "how": "정부24온라인신청||방문신청",
+    "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/425100000009",
+    "region": "강원",
+    "deadline": "상시",
+    "trend_score": 5.77,
+    "collected_date": "2026-11-25"
   },
   {
     "id": "451000000242",
@@ -217,7 +230,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/451000000242",
     "region": "충남",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -230,7 +243,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/560000000143",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -243,7 +256,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000626",
     "region": "부산",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -256,7 +269,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000661",
     "region": "대전",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -269,7 +282,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00001400002",
     "region": "전국",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -282,7 +295,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200001",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -295,7 +308,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200006",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -308,7 +321,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026200008",
     "region": "인천",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-08-09"
   },
   {
@@ -321,7 +334,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00027400004",
     "region": "전남",
     "deadline": "상시",
-    "trend_score": 5.99,
+    "trend_score": 5.77,
     "collected_date": "2026-11-18"
   },
   {
@@ -334,7 +347,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000113",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -347,7 +360,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000144",
     "region": "경기",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -360,7 +373,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/443000000661",
     "region": "충북",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -373,7 +386,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/492000000110",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -386,7 +399,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/494000000130",
     "region": "광주",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -399,7 +412,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000000127",
     "region": "서울",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -412,7 +425,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/648000001055",
     "region": "경남",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
@@ -425,7 +438,7 @@
     "url": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001119",
     "region": "제주",
     "deadline": "상시",
-    "trend_score": 4.4,
+    "trend_score": 4.52,
     "collected_date": "2026-08-09"
   },
   {
